@@ -7,34 +7,23 @@ from pandas_profiling import ProfileReport
 from datetime import date, datetime, timedelta
 from fuzzywuzzy import process
 
-from sklearn.feature_extraction.text import TfidfTransformer
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.pipeline import Pipeline
-from sklearn.pipeline import FeatureUnion
-from sklearn.model_selection import cross_validate
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import LabelEncoder
-from sklearn.linear_model import SGDClassifier
-from sklearn.model_selection import GridSearchCV, RandomizedSearchCV
-from sklearn.metrics import f1_score
-from sklearn.metrics import classification_report
-from sklearn.decomposition import PCA, TruncatedSVD
+from sklearn.pipeline import Pipeline, FeatureUnion
+from sklearn.model_selection import train_test_split, GridSearchCV
+from sklearn.preprocessing import LabelEncoder, OneHotEncoder
 from sklearn.linear_model import SGDClassifier, LogisticRegression
-from sklearn.compose import ColumnTransformer
+from sklearn.metrics import f1_score, classification_report, average_precision_score, precision_recall_curve, PrecisionRecallDisplay, roc_auc_score, precision_recall_fscore_support
+from sklearn.decomposition import PCA, TruncatedSVD
 from sklearn.base import BaseEstimator, TransformerMixin
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.feature_selection import chi2
-from imblearn.under_sampling import RandomUnderSampler
-from imblearn.pipeline import Pipeline
-from sklearn.ensemble import HistGradientBoostingClassifier
+from sklearn.ensemble import HistGradientBoostingClassifier, RandomForestClassifier
 from sklearn.naive_bayes import MultinomialNB
+from imblearn.under_sampling import RandomUnderSampler
 from imblearn.over_sampling import SMOTE
-from sklearn.preprocessing import OneHotEncoder
-from mlflow import log_metric, log_param, log_artifacts
-from mlflow.tracking import MlflowClient
 import mlflow
-from sklearn.metrics import PrecisionRecallDisplay
+from mlflow.tracking import MlflowClient
+from mlflow import log_metric, log_param, log_artifacts, log_metrics, log_params
+
+
+sns.set_theme(style="white")
 
 
 class ColumnSelection(BaseEstimator, TransformerMixin):
@@ -179,7 +168,7 @@ def create_pipeline():
                     #     ('smote', SMOTE(random_state=42)),
                     #     ('logreg', LogisticRegression())
                     #     ('rf', RandomForestClassifier(random_state=42))
-                        ('hgbm', HistGradientBoostingClassifier(random_state=42, learning_rate=0.01))
+                        ('hgbm', HistGradientBoostingClassifier(random_state=42))
                     ])
 
     return pipeline
@@ -223,7 +212,12 @@ if __name__ == "__main__":
         clf = create_pipeline()
 
         # print metrics
-        y_hgbm, y_prob, model = eval_and_print_metrics(clf, X_train, y_train, X_test, y_test)
+        y_pred, y_prob, model = eval_and_print_metrics(clf, X_train, y_train, X_test, y_test)
+        
+        precision, recall, _, _ = precision_recall_fscore_support(y_test, y_pred, pos_label=1, average='binary')
+        avg_precision = average_precision_score(y_test, y_prob)
+        auc = roc_auc_score(y_test, y_prob)
 
         # log_param()
-        # log_metric('Average precision', ap)
+        metrics = {'Precision': precision, 'Recall': recall, 'Average precision': avg_precision, 'AUC': auc}
+        log_metrics(metrics)
