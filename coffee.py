@@ -209,15 +209,14 @@ def eval_and_print_metrics(clf, X_train, y_train, X_test, y_test):
 if __name__ == "__main__":
 
     experiment_id = mlflow.set_experiment('GoHealth')
-    with mlflow.start_run(run_name='base_model') as run:
+    with mlflow.start_run(run_name='add_city') as run:
         mlflow_client = MlflowClient()
-
-
 
         # import datasets
         train_raw = pd.read_csv('train.csv').iloc[:, 1:]
         prediction_raw = pd.read_csv('predictions.csv').iloc[:, 1:]
         city_income = pd.read_csv('median_income_il.csv')
+        # city income data is obtained from http://www.usa.com/rank/illinois-state--median-household-income--city-rank.htm
 
         # create train and test set from original train dataset
         X_train, X_test, y_train, y_test = train_test_split(train_raw.drop(columns='bought_coffee'), train_raw['bought_coffee'], random_state=42)
