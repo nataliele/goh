@@ -132,7 +132,22 @@ class Group_preference(BaseEstimator, TransformerMixin):
         return X[f'{self.col}_status'].values.reshape(-1, 1)
 
 
-def create_pipeline():
+class Get_city_income(BaseEstimator, TransformerMixin):
+    """join with external data to get median city income"""
+    
+    def __init__(self, col, city_income_df):
+        self.col = col
+        self.city_income_df = city_income_df
+        
+    def fit(self, X, y=None):
+        return self
+    
+    def transform(self, X):
+        merged = X.merge(self.city_income_df, on=self.col, how='left')
+        return merged['median_household_income'].values.reshape(-1, 1)
+
+
+def create_pipeline(city_income):
 
     # union features
     union = FeatureUnion([
@@ -157,7 +172,10 @@ def create_pipeline():
                         ])),
                         ('cont', Pipeline([
                             ('selector', ColumnSelection(['number_of_bags_purchased_competitor', 'competitor_satisfaction']))
-                        ]))
+                        ])),
+                        ('income', Pipeline([
+                            ('get_income', Get_city_income('city', city_income))
+                        ])),
                     ])
 
     # create pipline
@@ -194,22 +212,18 @@ if __name__ == "__main__":
     with mlflow.start_run(run_name='base_model') as run:
         mlflow_client = MlflowClient()
 
-        # Log an artifact (output file)
-        # if not os.path.exists("outputs"):
-        #     os.makedirs("outputs")
-        # with open("outputs/test.txt", "w") as f:
-        #     f.write("hello world!")
-        # log_artifacts("outputs")
+
 
         # import datasets
         train_raw = pd.read_csv('train.csv').iloc[:, 1:]
         prediction_raw = pd.read_csv('predictions.csv').iloc[:, 1:]
+        city_income = pd.read_csv('median_income_il.csv')
 
         # create train and test set from original train dataset
         X_train, X_test, y_train, y_test = train_test_split(train_raw.drop(columns='bought_coffee'), train_raw['bought_coffee'], random_state=42)
 
         # create pipeline:
-        clf = create_pipeline()
+        clf = create_pipeline(city_income)
 
         # print metrics
         y_pred, y_prob, model = eval_and_print_metrics(clf, X_train, y_train, X_test, y_test)
@@ -218,6 +232,18 @@ if __name__ == "__main__":
         avg_precision = average_precision_score(y_test, y_prob)
         auc = roc_auc_score(y_test, y_prob)
 
+        # Precision Recall curve
+        display = PrecisionRecallDisplay.from_estimator(clf, X_test, y_test)
+        _ = display.ax_.set_title("2-class Precision-Recall curve")
+
+        # log metrics in mlflow
         # log_param()
         metrics = {'Precision': precision, 'Recall': recall, 'Average precision': avg_precision, 'AUC': auc}
         log_metrics(metrics)
+
+        # Log an artifact (PR curve)
+        # if not os.path.exists("outputs"):
+        #     os.makedirs("outputs")
+        # with open("outputs/test.txt", "w") as f:
+        #     f.write("hello world!")
+        # log_artifacts("outputs")
