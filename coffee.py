@@ -8,7 +8,7 @@ from datetime import date, datetime, timedelta
 from fuzzywuzzy import process
 
 from sklearn.pipeline import Pipeline, FeatureUnion
-from sklearn.model_selection import train_test_split, GridSearchCV
+from sklearn.model_selection import train_test_split, GridSearchCV, cross_validate
 from sklearn.preprocessing import LabelEncoder, OneHotEncoder
 from sklearn.linear_model import SGDClassifier, LogisticRegression
 from sklearn.metrics import f1_score, classification_report, average_precision_score, precision_recall_curve, PrecisionRecallDisplay, roc_auc_score, precision_recall_fscore_support
@@ -204,7 +204,7 @@ def eval_and_print_metrics(clf, X_train, y_train, X_test, y_test):
     print('Percentage of positive predictions', (y_pred==1).sum()/len(y_pred)*100, '%')
     print()
     return y_pred, y_prob, model
-
+    
 
 if __name__ == "__main__":
 
@@ -224,25 +224,27 @@ if __name__ == "__main__":
         # create pipeline:
         clf = create_pipeline(city_income)
 
-        # doing gridsearch through cross-validation
-        param_grid ={'hgbm__learning_rate': [0.01, 0.1, 0.5],
-                    'hgbm__l2_regularization': [0, 5],
-                    'hgbm__max_leaf_nodes': [25, 31, 50],
-                    }
-        # gs_clf = GridSearchCV(clf, param_grid, cv=3, scoring='precision', n_jobs=-1)
-        # model_gs =  gs_clf.fit(X_train, y_train)
+        scores = cross_validate(clf, X_train, y_train, cv=5, scoring=('precision', 'recall', 'average_precision', 'roc_auc'))
 
-        # print metrics
-        y_pred, y_prob, model = eval_and_print_metrics(clf, X_train, y_train, X_test, y_test)
-        
-        precision, recall, _, _ = precision_recall_fscore_support(y_test, y_pred, pos_label=1, average='binary')
-        avg_precision = average_precision_score(y_test, y_prob)
-        auc = roc_auc_score(y_test, y_prob)
+        # print metrics for test set only after selecting model based on cv scores
+        # y_pred, y_prob, model = eval_and_print_metrics(clf, X_train, y_train, X_test, y_test)
+        # precision, recall, _, _ = precision_recall_fscore_support(y_test, y_pred, pos_label=1, average='binary')
+        # avg_precision = average_precision_score(y_test, y_prob)
+        # auc = roc_auc_score(y_test, y_prob)
 
-        
-        # log metrics in mlflow
-        # params = model_gs.best_params_
-        params = model['hgbm'].get_params()
+        # log params and metrics in mlflow
+        params = clf['hgbm'].get_params()
         log_params(params)
-        metrics = {'Precision': precision, 'Recall': recall, 'Average precision': avg_precision, 'AUC': auc}
-        log_metrics(metrics)
+
+        cv_metrics = {'cv_precision_mean': scores['test_precision'].mean(),
+                    'cv_precision_std': scores['test_precision'].std(),
+                    'cv_recall_mean': scores['test_recall'].mean(),
+                    'cv_recall_std': scores['test_recall'].std(),
+                    'cv_avg_precision_mean': scores['test_average_precision'].mean(),
+                    'cv_avg_precision_std': scores['test_average_precision'].std(),
+                    'cv_auc_mean': scores['test_roc_auc'].mean(),
+                    'cv_auc_mean': scores['test_roc_auc'].std(), 
+                    }
+        log_metrics(cv_metrics)                   
+        # metrics = {'test_precision': precision, 'test_recall': recall, 'test_avg_precision': avg_precision, 'test_auc': auc}
+        # log_metrics(metrics)
