@@ -209,7 +209,7 @@ def eval_and_print_metrics(clf, X_train, y_train, X_test, y_test):
 if __name__ == "__main__":
 
     experiment_id = mlflow.set_experiment('GoHealth')
-    with mlflow.start_run(run_name='add_city') as run:
+    with mlflow.start_run(run_name='base_model') as run:
         mlflow_client = MlflowClient()
 
         # import datasets
