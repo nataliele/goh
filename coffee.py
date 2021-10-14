@@ -173,9 +173,9 @@ def create_pipeline(city_income):
                         ('cont', Pipeline([
                             ('selector', ColumnSelection(['number_of_bags_purchased_competitor', 'competitor_satisfaction']))
                         ])),
-                        # ('income', Pipeline([
-                        #     ('get_income', Get_city_income('city', city_income))
-                        # ])),
+                        ('income', Pipeline([
+                            ('get_income', Get_city_income('city', city_income))
+                        ])),
                     ])
 
     # create pipline
@@ -209,7 +209,7 @@ def eval_and_print_metrics(clf, X_train, y_train, X_test, y_test):
 if __name__ == "__main__":
 
     experiment_id = mlflow.set_experiment('GoHealth')
-    with mlflow.start_run(run_name='base_model') as run:
+    with mlflow.start_run(run_name='final_model') as run:
         mlflow_client = MlflowClient()
 
         # import datasets
@@ -227,10 +227,10 @@ if __name__ == "__main__":
         scores = cross_validate(clf, X_train, y_train, cv=5, scoring=('precision', 'recall', 'average_precision', 'roc_auc'))
 
         # print metrics for test set only after selecting model based on cv scores
-        # y_pred, y_prob, model = eval_and_print_metrics(clf, X_train, y_train, X_test, y_test)
-        # precision, recall, _, _ = precision_recall_fscore_support(y_test, y_pred, pos_label=1, average='binary')
-        # avg_precision = average_precision_score(y_test, y_prob)
-        # auc = roc_auc_score(y_test, y_prob)
+        y_pred, y_prob, model = eval_and_print_metrics(clf, X_train, y_train, X_test, y_test)
+        precision, recall, _, _ = precision_recall_fscore_support(y_test, y_pred, pos_label=1, average='binary')
+        avg_precision = average_precision_score(y_test, y_prob)
+        auc = roc_auc_score(y_test, y_prob)
 
         # log params and metrics in mlflow
         params = clf['hgbm'].get_params()
@@ -246,5 +246,5 @@ if __name__ == "__main__":
                     'cv_auc_std': scores['test_roc_auc'].std(), 
                     }
         log_metrics(cv_metrics)                   
-        # metrics = {'test_precision': precision, 'test_recall': recall, 'test_avg_precision': avg_precision, 'test_auc': auc}
-        # log_metrics(metrics)
+        test_metrics = {'test_precision': precision, 'test_recall': recall, 'test_avg_precision': avg_precision, 'test_auc': auc}
+        log_metrics(test_metrics)
