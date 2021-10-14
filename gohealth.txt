@@ -1,5 +1,11 @@
 ﻿Task 1:
-See file
+- coffee.py: script for training model
+- coffee.ipynb: EDA and outputing prediction results
+- prediction_result.csv: file with probability and prediction
+
+Use mlflow to log results. Base model is model without median city income. Then I added city income and got an improvement in cross-validation scores. This model was chosen as the final model and was run again to obtain test scores. Screenshot included.
+
+I think the most important score to keep track of is precision in this case. If we want to use the model to select people to send coupons to, we would like to have as many people turn out to actually buying coffee as possible. Our cross-validated precision mean is 72% with a standard deviation of 4.8%.
 
 Task 2:
 The most likely scenario is that we probably have sampling bias in our surveys where the training population is not representative of the population that we’re sending coupons to.
@@ -16,6 +22,8 @@ Other biases could be:
 Evaluate the model’s performance:
 - if the problem stemmed from the biases above, we cant really do anything about it, except maybe design a better survey. So we can only show that the model’s performance is as expected given the current training data using cross-validation on the training data.
 - in cross-validation, we’re reserving part of the training dataset to act as a validation set. The model will not see the data in this validation so we can expect to trust the metrics that come from the validation set. We do this a couple of time and then we’ll get a range for the metrics that we’re interested in.
+
+
 
 Task 3:
 How to bring the model into production in real-time:
