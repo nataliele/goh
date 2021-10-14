@@ -1,0 +1,25 @@
+﻿Task 1:
+See file
+
+Task 2:
+The most likely scenario is that we probably have sampling bias in our surveys where the training population is not representative of the population that we’re sending coupons to.
+
+Sampling bias in our surveys might be:
+- nonresponse bias: perhaps when surveying, people were told that the survey is for a coffee shop. The people who drink coffee might be more likely to respond to the survey and people who dont drink coffee will not respond. We end up with an over-representative sample of coffee-drinker and our prediction will be wrong when applied to the non-coffee-drinker group, who didnt respond.
+- response bias: people might remember wrongly that they bought coffee from our coffee shop. Perhaps the name is similar to another coffee shop and people mistook the two. In this case our model will be wrong because we’re predicting the sales for both shops.
+
+Other biases could be:
+- measurement bias: some systematically wrong data from survey. Perhaps the number_of_bags_purchased_competitor question did not specify a time frame and some people answered for a month, some people answer for a year. Perhaps we didnt specify if 1 means good or bad for the competitor_satisfaction question.
+
+- external factor bias: people’s taste change. Perhaps there’s a new coffee shop chain in town. Or a new article came out that said coffee is bad for your health.
+
+Evaluate the model’s performance:
+- if the problem stemmed from the biases above, we cant really do anything about it, except maybe design a better survey. So we can only show that the model’s performance is as expected given the current training data using cross-validation on the training data.
+- in cross-validation, we’re reserving part of the training dataset to act as a validation set. The model will not see the data in this validation so we can expect to trust the metrics that come from the validation set. We do this a couple of time and then we’ll get a range for the metrics that we’re interested in.
+
+Task 3:
+How to bring the model into production in real-time:
+- We can use a service like AWS to productionalize our model.
+- Since we most likely dont need to run the model 24/7 and our model and data are relatively small, we can probably use AWS Step Function with Lambda to pull the data, run the model on demand without the need to spin up a server.
+- Let’s say the scenario is people entering their info in a generic form at the mall where the coffee shop is. That data would most likely to be stored in a database. Our model after training would be stored in an S3 bucket.
+- The first step function will use Lambda to pull data from the database. The second step function will use Lambda to load the model from the S3 bucket. The third step function and Lambda will run the model to predict and return the outcome.
