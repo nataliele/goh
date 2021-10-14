@@ -224,6 +224,14 @@ if __name__ == "__main__":
         # create pipeline:
         clf = create_pipeline(city_income)
 
+        # doing gridsearch through cross-validation
+        param_grid ={'hgbm__learning_rate': [0.01, 0.1, 0.5],
+                    'hgbm__l2_regularization': [0, 5],
+                    'hgbm__max_leaf_nodes': [25, 31, 50],
+                    }
+        # gs_clf = GridSearchCV(clf, param_grid, cv=3, scoring='precision', n_jobs=-1)
+        # model_gs =  gs_clf.fit(X_train, y_train)
+
         # print metrics
         y_pred, y_prob, model = eval_and_print_metrics(clf, X_train, y_train, X_test, y_test)
         
@@ -231,18 +239,10 @@ if __name__ == "__main__":
         avg_precision = average_precision_score(y_test, y_prob)
         auc = roc_auc_score(y_test, y_prob)
 
-        # Precision Recall curve
-        display = PrecisionRecallDisplay.from_estimator(clf, X_test, y_test)
-        _ = display.ax_.set_title("2-class Precision-Recall curve")
-
+        
         # log metrics in mlflow
-        # log_param()
+        # params = model_gs.best_params_
+        params = model['hgbm'].get_params()
+        log_params(params)
         metrics = {'Precision': precision, 'Recall': recall, 'Average precision': avg_precision, 'AUC': auc}
         log_metrics(metrics)
-
-        # Log an artifact (PR curve)
-        # if not os.path.exists("outputs"):
-        #     os.makedirs("outputs")
-        # with open("outputs/test.txt", "w") as f:
-        #     f.write("hello world!")
-        # log_artifacts("outputs")
