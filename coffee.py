@@ -243,7 +243,7 @@ if __name__ == "__main__":
                     'cv_avg_precision_mean': scores['test_average_precision'].mean(),
                     'cv_avg_precision_std': scores['test_average_precision'].std(),
                     'cv_auc_mean': scores['test_roc_auc'].mean(),
-                    'cv_auc_mean': scores['test_roc_auc'].std(), 
+                    'cv_auc_std': scores['test_roc_auc'].std(), 
                     }
         log_metrics(cv_metrics)                   
         # metrics = {'test_precision': precision, 'test_recall': recall, 'test_avg_precision': avg_precision, 'test_auc': auc}
