@@ -173,9 +173,9 @@ def create_pipeline(city_income):
                         ('cont', Pipeline([
                             ('selector', ColumnSelection(['number_of_bags_purchased_competitor', 'competitor_satisfaction']))
                         ])),
-                        ('income', Pipeline([
-                            ('get_income', Get_city_income('city', city_income))
-                        ])),
+                        # ('income', Pipeline([
+                        #     ('get_income', Get_city_income('city', city_income))
+                        # ])),
                     ])
 
     # create pipline
