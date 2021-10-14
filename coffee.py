@@ -21,7 +21,7 @@ from imblearn.over_sampling import SMOTE
 import mlflow
 from mlflow.tracking import MlflowClient
 from mlflow import log_metric, log_param, log_artifacts, log_metrics, log_params
-
+import pickle
 
 sns.set_theme(style="white")
 
@@ -248,3 +248,5 @@ if __name__ == "__main__":
         log_metrics(cv_metrics)                   
         test_metrics = {'test_precision': precision, 'test_recall': recall, 'test_avg_precision': avg_precision, 'test_auc': auc}
         log_metrics(test_metrics)
+
+        pickle.dump(model, open('coffee_model.pkl', 'wb'))
