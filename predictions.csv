@@ -1,0 +1,1598 @@
+id,date_contacted,city,state,dob,gender,employment,owns_car,owns_coffee_machine,owns_home,beverage_preference,number_of_bags_purchased_competitor,competitor_satisfaction
+d2d747a284e79f1a,2018-11-14,Barrington,IL,"09 12, 1982",female,full-time,True,y,True,tea,12,3.0
+6afb220ba59e4bb9,2018-11-13,Romeoville,IL,07.20.75,female,full-time,True,NO,True,water,1,5.0
+cf8735ba49152bd5,2018-08-06,South Barrington,IL,11-18-77,male,part-time,True,No,False,ta,9,3.5
+6ffa2508652d0b5c,2018-09-09,Schaumburg,IL,December 21 1983,female,part-time,True,yes,True,wine,11,0.5
+0c9cf09ceb8ba9a5,2018-07-17,Chicago,IL,07-26-1980,female,unemployed,False,YES,False,wine,0,
+b83fe7f7a3d5dd1d,2019-08-05,South Barrington,IL,"06 19, 1985",female,part-tie,False,I don't know,True,water,11,2.5
+aef44db66f65133e,2019-09-02,St. Charles,IL,10.30.85,female,full-time,True,YES,True,coffee,8,2.0
+532d5881fe4d1a34,2019-05-28,Yorkville,IL,05.17.84,male,full-time,False,Yes,True,beer,5,2.0
+81050b4350679781,2018-02-22,Bolingbrook,IL,08.29.82,male,unemployed,True,Yes,True,coffee,6,4.5
+df2c05c24426c7b8,2019-06-04,West Chicago,IL,"Jan 01, 1988",female,full-time,True,yup,True,water,12,3.5
+d881fae50f9a913b,2019-03-19,Batavia,IL,"Mar 25, 1987",female,retired,True,Yes,True,coffee,9,0.5
+09f0953544855e28,2019-08-11,Elgin,IL,10.12.1989,male,full-time,True,No,True,beer,8,4.0
+63965064ace526be,2019-11-06,Aurora,IL,08.29.1993,female,part-time,True,yes,True,tea,9,0.5
+ac9b375bfbec1099,2018-12-16,Batavia,IL,"May 12, 1984",female,full-time,True,NO,True,tea,2,2.0
+87e3fb0ebef275b5,2019-06-01,West Chicago,IL,04/13/91,female,student,True,yup,False,coffee,12,3.0
+44807f42baf3f6c4,2019-07-01,Mundelein,IL,05/30/1987,male,stuent,True,y,False,coffee,1,2.0
+0b984d46d39ea693,2018-10-19,Yorkville,IL,May 19 75,male,part-time,True,yup,False,coffee,10,2.0
+6366033bd99eca5f,2018-05-29,Wheaton,IL,"Jun 09, 1975",female,unemployed,True,ya,True,wine,3,3.5
+53762061485ce39a,2019-09-11,Chicago,IL,"Jul 07, 91",female,retired,True,YES,False,tea,4,0.5
+ef5e8b146503dc29,2019-12-08,Mundelein,IL,"May 16, 1999",female,uneployed,True,NO,False,coffee,11,5.0
+3933320ca41bccc0,2019-07-27,Inverness,IL,"08 06, 1995",male,student,True,NO,False,beer,7,3.0
+a7bc8d217286daf2,2018-09-10,Schaumburg,IL,January 22 81,female,part-time,True,yup,True,coffee,1,2.5
+68794484d212726c,2018-07-31,West Dundee,IL,"11 01, 81",female,full-time,True,Yes,False,tea,2,4.5
+7be8e160eff44e19,2018-07-02,Palatine,IL,06/19/88,female,full-time,True,yes,False,wine,12,0.5
+3e9fcacdd2daa94b,2018-07-07,Bolingbrook,IL,06/19/1980,male,full-time,True,no,True,beer,9,4.0
+20263e1b249b5ab8,2018-01-04,Mokena,IL,"06 06, 78",female,retired,True,nope,False,coffee,1,1.0
+aa7e5782d81e234a,2018-02-13,Oswego,IL,Dec 30 1973,male,part-time,True,no,True,coffee,6,1.5
+19f09c7e753589e1,2019-10-08,Willowbrook,IL,12/11/92,male,unemployed,True,Yes,False,coffee,3,1.5
+ea760d9899e768b1,2019-01-08,Inverness,IL,Jun 18 88,male,full-time,True,Yes,True,soda,10,5.0
+ae7094f341628c21,2018-01-29,West Chicago,IL,"04 25, 1985",female,full-time,True,Yes,False,water,2,4.5
+1849417cb53268bc,2018-09-09,West Dundee,IL,"10 05, 80",male,full-time,True,nope,True,beer,1,1.5
+ef1c6dc9ecfe4e93,2019-12-06,Elgin,IL,May 01 1992,female,unemployed,True,y,False,coffee,4,4.5
+4cc0e0af3d43616f,2019-08-03,Naperville,IL,"08 03, 2001",male,unemployed,True,yup,False,soda,11,1.0
+9a377bfc32527856,2018-01-27,Warrenville,IL,05-09-1969,female,full-time,True,Yes,True,water,9,0.5
+f9c155cd35c290b6,2018-06-10,West Chicago,IL,02.01.1969,male,full-time,False,Yes,False,coffee,10,4.5
+4b341bedc1a2e6d2,2018-03-12,Hoffman Estates,IL,"01 06, 82",male,full-time,True,yup,True,coffee,9,1.5
+bd1826504a66583d,2018-03-17,Deer Park,IL,08.12.72,female,part-time,True,yes,False,water,10,5.0
+dc060a7ea26272e8,2018-09-18,Chicago,IL,12/19/67,male,full-time,False,no,True,beer,5,0.0
+32443c688abda492,2018-07-15,Naperville,IL,January 04 1973,female,full-time,True,n,True,coffee,5,3.0
+d75c78931a9a6ff0,2018-11-11,Algonquin,IL,February 16 1974,female,part-time,True,y,False,wine,0,
+4149efddf278660a,2018-07-02,Naperville,IL,04.27.81,female,full-time,False,Yes,True,wine,4,4.5
+79a53bacc28665d2,2019-04-27,Plainfield,IL,07.23.1988,female,unemployed,True,Yes,False,coffee,10,4.5
+7da5cf2e39640e73,2019-04-15,St. Charles,IL,11-17-86,female,full-time,True,I don't know,True,water,3,3.0
+29c3df29218b1627,2018-08-21,Romeoville,IL,02/10/1984,female,full-time,False,yes,True,coffee,7,2.5
+f808e8fb448f2793,2019-08-05,Minooka,IL,1995-03-05,female,full-time,True,yes,False,coffee,11,2.5
+cd1452531d328544,2018-09-28,Mundelein,IL,07.12.1985,male,unemployed,False,yup,True,coffee,7,3.5
+ef83c939e3e18840,2019-02-19,Glen Ellyn,IL,1985-05-16,female,unemployed,True,YES,True,wine,0,
+9c333ad88401d6e7,2018-12-29,Naperville,IL,06.10.1978,male,retired,True,Yes,False,coffee,5,1.0
+ece4a7d22b2d8861,2019-08-27,Barrington,IL,02/06/00,male,unemployed,True,nope,False,soda,6,2.5
+fd83973a198eda4c,2018-07-05,Chicago,IL,09-26-81,male,full-time,True,No,True,coffee,10,0.5
+0efd1778f27fda0e,2019-12-12,Deer Park,IL,02.05.1993,female,part-time,False,yup,True,beer,5,5.0
+bff9035ae0c47416,2019-04-12,Aurora,IL,09.26.1989,female,student,True,y,True,water,9,5.0
+25923a60426c405c,2018-05-24,West Dundee,IL,"Jan 28, 71",female,student,True,nah,True,wine,3,4.0
+8816442459f9ffe5,2018-11-12,Mundelein,IL,1982-01-24,male,full-time,True,Yes,False,coffee,7,1.0
+d5c7cd4e3cd254d7,2018-05-29,Wheaton,IL,Jan 09 72,female,unemployed,True,nah,False,tea,7,3.0
+212d81f9b2b1ab56,2018-07-23,Streamwood,IL,"Sep 21, 82",female,part-time,False,nah,True,water,2,1.0
+fadcff86ffb3f885,2018-11-08,West Dundee,IL,Mar 10 1980,male,full-time,True,Yes,True,beer,6,1.5
+d5a5a1ac4ef6029c,2019-06-13,Warrenville,IL,September 03 1991,male,full-time,True,I don't know,True,coffee,4,3.0
+ba92dc777098cc1a,2018-10-14,Barrington,IL,08-16-1986,female,retired,True,NO,False,coffee,4,0.0
+3bdfde29ddd81f55,2018-04-05,Yorkville,IL,1973-01-12,female,part-time,False,ya,True,coffee,4,4.5
+de7e2571dd16d43a,2018-10-07,Hoffman Estates,IL,"Jul 30, 1979",female,full-time,True,ya,True,soda,1,3.5
+62ba97a582803ceb,2019-12-04,Batavia,IL,04/16/1984,female,student,False,yup,True,soda,7,4.5
+8d12f73db596b95f,2018-06-10,Palatine,IL,"03 02, 78",male,full-time,True,ya,True,coffee,11,3.5
+e71712ed003f8fe2,2019-11-19,Romeoville,IL,Apr 10 87,female,full-time,False,no,True,soda,1,2.5
+bfd2d54dd1637ecd,2018-07-30,Carol Stream,IL,Mar 08 87,female,unemployed,True,no,False,coffee,9,4.0
+fac08c91875ad7d8,2019-07-29,Deer Park,IL,Dec 26 84,male,retired,True,ya,False,coffee,6,3.0
+ce23958afe5ba942,2018-06-15,Glen Ellyn,IL,07-30-73,female,retired,True,y,True,coffee,9,4.5
+2d3ab915d2fd2870,2018-02-19,Minooka,IL,02/16/70,male,full-time,False,ya,True,soda,4,4.5
+752ce6c27d775902,2018-10-21,Oswego,IL,"12 29, 84",male,part-time,True,nope,False,beer,1,5.0
+3c8e1b560d292b23,2018-01-25,Chicago,IL,12.29.1985,male,full-time,True,No,False,water,0,
+547ab93760133c95,2019-08-20,West Dundee,IL,01/13/1994,female,student,True,yes,False,wine,11,0.0
+96db69c09b3c9c59,2019-08-14,South Barrington,IL,04-03-1995,female,student,True,NO,False,wine,2,3.0
+6c3ec20ee533dc9d,2018-08-18,Barrington,IL,1982-06-22,male,unemployed,False,y,True,coffee,3,3.0
+2a51f11b14cd77be,2019-09-08,West Chicago,IL,11.23.91,female,retired,True,yes,True,wine,8,5.0
+11cbb40f47b07f90,2018-05-03,Willowbrook,IL,01/21/1974,female,full-time,True,ya,True,coffee,3,3.0
+7aaf81063bb7c61a,2018-07-02,Yorkville,IL,Jun 21 71,female,full-time,True,nope,True,wine,9,3.0
+2fd0b88dc35608ef,2018-04-08,Deer Park,IL,07.24.1974,female,part-time,True,Yes,True,coffee,12,0.0
+6c162d8218a41852,2019-07-25,South Barrington,IL,Mar 23 91,female,student,True,NO,True,coffee,9,2.0
+998a1c6e81d861ba,2018-02-17,Mokena,IL,06/01/1982,female,full-time,True,ya,False,wine,12,3.5
+484f932092c344bd,2018-11-21,Yorkville,IL,December 11 1975,male,full-time,True,y,False,beer,12,4.5
+3dfaed53f49a6843,2018-10-09,Elgin,IL,Apr 04 80,female,full-time,True,yup,True,tea,4,4.5
+fe439895d098ec1c,2019-11-13,Minooka,IL,"Jun 16, 1990",female,part-time,False,no,False,coffee,12,2.5
+1cd5506acde871fa,2018-09-06,Deer Park,IL,April 18 82,female,unemployed,True,YES,True,water,11,4.5
+ffc8b5bc014460d1,2018-02-13,Chicago,IL,Aug 25 82,male,unemployed,False,ya,False,coffee,6,4.0
+547f08e863813819,2019-12-02,Chicago,IL,April 13 1992,female,unemployed,False,No,False,water,0,
+f34de9435f19b2e2,2019-05-30,Romeoville,IL,January 04 92,male,retired,True,no,False,coffee,8,0.0
+38e3323b122b1cfd,2019-06-17,West Dundee,IL,"Jul 09, 86",female,full-time,True,I don't know,True,wine,1,3.5
+22d9d3c051f50ad5,2018-11-06,Willowbrook,IL,"10 24, 1973",female,full-time,False,y,True,coffee,4,2.5
+9c364893dac83185,2019-10-26,Chicago,IL,10-02-1995,male,student,True,No,False,coffee,8,3.5
+c15363ccd03bbde0,2018-05-14,Yorkville,IL,01.06.81,male,retired,True,ya,False,beer,5,1.5
+9468dad9dbec9c0c,2018-04-29,South Barrington,IL,04-21-77,female,full-time,True,yes,True,water,8,4.0
+46e90b060dee4d57,2019-09-26,Batavia,IL,September 29 88,male,part-time,True,nope,True,coffee,2,1.0
+8478af755c7bd3b1,2018-10-26,Romeoville,IL,October 27 79,male,part-time,True,y,True,coffee,2,4.0
+70f359f8d9178979,2019-09-06,Mundelein,IL,"Jan 29, 1987",male,unemployed,True,yes,True,coffee,12,2.0
+961ba15cd8ba278e,2019-08-04,Inverness,IL,"Nov 17, 95",female,student,True,Yes,False,coffee,9,3.5
+498c6da9dfe4fd93,2019-02-20,Streamwood,IL,Dec 03 80,female,full-time,True,YES,True,coffee,6,1.0
+71cbaaa1b966c3af,2018-01-10,Romeoville,IL,07-29-1976,male,part-time,True,Yes,False,beer,5,1.0
+e91fe9aa18cfecab,2018-12-04,Romeoville,IL,01.11.1974,male,full-time,True,y,True,coffee,7,5.0
+51064cb5a761ffc9,2018-03-15,Oswego,IL,Mar 25 1985,male,student,False,No,True,coffee,4,0.5
+6551cf1f873b0fca,2019-10-08,Algonquin,IL,"10 05, 94",female,student,True,yes,False,water,5,2.0
+89a223ff65b498fc,2019-05-22,Palatine,IL,07/05/89,male,full-time,True,n,True,beer,6,3.0
+a1430bf7ff3c5369,2018-04-27,Carol Stream,IL,08/07/1972,female,unemployed,True,Yes,True,tea,3,3.0
+ba2d2f1394a71578,2019-07-10,Carol Stream,IL,"08 14, 81",female,full-time,False,yes,True,wine,11,5.0
+e7906fb55223a7f2,2018-11-04,West Chicago,IL,"Sep 20, 1979",male,full-time,True,yes,True,soda,10,4.0
+dcdb86158e1e8723,2018-03-16,Minooka,IL,Jul 09 80,female,unemployed,True,NO,False,coffee,3,5.0
+f0997594af661b6c,2018-09-09,Inverness,IL,February 24 86,male,full-time,False,nope,True,beer,6,5.0
+ef936a851127b8e0,2018-07-12,Schaumburg,IL,"06 07, 78",male,unemployed,True,ya,False,coffee,8,4.5
+4489bf0954859caa,2018-03-29,Naperville,IL,11/15/1982,male,part-time,True,n,True,soda,11,5.0
+cb026bdf1ca5b55e,2019-10-03,West Dundee,IL,08-12-1990,female,full-time,True,no,False,wine,3,0.0
+b053e0875c52f3f2,2019-08-17,Yorkville,IL,02/27/89,male,unemployed,True,NO,False,soda,12,4.5
+4f8baf31a05e2138,2019-01-17,Palatine,IL,June 21 93,female,student,True,ya,False,wine,1,5.0
+da60d255b495ac41,2018-10-27,Schaumburg,IL,Dec 21 75,male,part-time,False,YES,True,soda,5,3.0
+a2317c1b0406a7dc,2019-11-07,South Barrington,IL,April 03 88,female,unemployed,True,YES,False,water,6,2.0
+2b4006da692931ab,2018-08-10,Batavia,IL,Oct 09 1969,female,part-time,True,I don't know,True,coffee,4,1.5
+18cc5ac10783dcfd,2019-05-21,Deer Park,IL,"06 28, 1988",male,student,False,No,True,coffee,5,2.0
+cc8c58250ac714cb,2018-05-18,Algonquin,IL,10.22.78,male,full-time,True,I don't know,False,coffee,0,
+6cb994cd29450e08,2019-03-10,Streamwood,IL,December 21 1978,female,unemployed,True,yup,False,tea,3,3.0
+8cfda9448bc13afb,2019-07-11,Wheaton,IL,"Aug 25, 1992",female,part-time,True,yes,False,coffee,12,2.5
+d0c9214697523028,2019-04-13,Glen Ellyn,IL,06/17/1991,female,student,True,dunno,True,coffee,3,0.0
+6587f62b1265eefd,2019-05-12,Deer Park,IL,05.30.1991,female,unemployed,True,yes,False,tea,5,3.5
+2d68d56d18b9fecb,2019-07-01,Glen Ellyn,IL,10/06/1989,female,unemployed,True,dunno,False,tea,2,0.0
+76905455e8c6d2a4,2019-01-31,Naperville,IL,November 04 87,female,unemployed,True,NO,True,coffee,10,5.0
+df14a889224e9d2a,2018-07-08,Carol Stream,IL,11-02-1970,female,part-time,True,Yes,True,wine,2,0.0
+e3daa8f9acd2c3fa,2018-01-14,Palatine,IL,11.11.73,female,full-time,True,I don't know,True,coffee,7,2.0
+9164cdf6e3d9a76d,2019-04-12,Mokena,IL,05-21-1985,male,unemployed,True,yes,False,coffee,3,0.5
+37b8324a977888b9,2019-04-16,Glen Ellyn,IL,Oct 21 1988,female,part-time,True,ya,False,wine,0,
+645e362f9fe04baa,2018-04-02,Inverness,IL,Apr 24 71,male,full-time,True,no,False,coffee,8,5.0
+324d928eade67ecf,2019-11-22,Wheaton,IL,"Mar 12, 93",male,student,True,YES,False,beer,11,1.0
+9b4590661c5c56ae,2019-03-17,Aurora,IL,"12 19, 1992",female,student,True,y,False,coffee,8,2.0
+487cde37d9c9918d,2019-02-21,Barrington,IL,10/04/85,female,retired,True,ya,False,coffee,4,2.0
+ba4b796a62dc64bc,2018-07-06,Minooka,IL,January 07 83,female,full-time,True,ya,True,tea,12,0.0
+ae60701de2c5087c,2019-08-04,West Dundee,IL,1992-02-10,male,full-time,True,y,False,beer,11,3.0
+bd2f50bc937473da,2019-02-27,Willowbrook,IL,"Dec 19, 1986",female,part-time,True,No,True,coffee,12,2.0
+edf18d7d87d412c8,2018-04-14,Streamwood,IL,1982-02-27,female,retired,True,yes,False,wine,8,4.5
+bff1fcf41f6bd97f,2019-04-05,Schaumburg,IL,January 22 1992,male,student,True,yes,True,coffee,10,2.5
+c2020c7ccbed1e4f,2019-03-13,Aurora,IL,05/16/84,female,full-time,True,nope,True,coffee,6,1.5
+1db7e39b00b76580,2018-06-05,Glen Ellyn,IL,Jul 20 81,female,full-time,True,n,False,water,11,5.0
+dd37336b7ff7aa42,2019-03-17,Wheaton,IL,"06 06, 1984",female,unemployed,True,ya,True,water,5,3.5
+c25594aac3075346,2019-03-16,Schaumburg,IL,05.23.91,female,unemployed,True,Yes,True,water,8,4.0
+5fabcc83067a59b9,2018-08-27,Algonquin,IL,12-26-1976,male,retired,True,nope,True,beer,0,
+fefc27d819d1f42c,2018-07-24,Inverness,IL,"06 29, 1971",female,part-time,True,nope,True,coffee,11,5.0
+b2b7e24a5b7e2286,2018-09-02,Romeoville,IL,November 08 1978,male,part-time,True,nah,True,beer,0,
+a59c994ebf488746,2018-12-20,Mundelein,IL,"03 01, 1979",male,student,True,Yes,False,beer,10,1.5
+cdb26a021f7f4068,2019-05-17,West Chicago,IL,"Oct 14, 94",female,student,True,No,False,coffee,4,0.0
+50f7eb1352bc2e00,2019-07-15,Hoffman Estates,IL,10/28/1996,male,student,True,nope,False,coffee,3,1.5
+e43af0fca50859bd,2018-07-05,Mundelein,IL,July 31 73,female,full-time,True,No,False,coffee,3,3.0
+1625a553b21a26de,2019-06-12,Mokena,IL,11.09.1991,male,unemployed,True,I don't know,False,coffee,1,4.5
+3f76a8841ee0bc88,2019-01-30,Minooka,IL,10.28.1986,female,part-time,True,ya,False,coffee,12,4.5
+c8a49337bbf94cce,2018-10-21,Chicago,IL,"Jan 15, 1978",male,unemployed,True,nope,False,beer,1,2.5
+2aeee6292c297a38,2019-05-16,Streamwood,IL,"May 09, 92",male,student,True,No,False,coffee,10,3.0
+352afeada1cdd41d,2018-05-09,Streamwood,IL,"Nov 03, 85",female,full-time,True,yes,False,coffee,10,0.5
+0db560af0d5dc94a,2019-07-26,Barrington,IL,07-08-1992,male,unemployed,True,YES,False,coffee,1,0.5
+ca7379da646c966e,2018-06-09,Willowbrook,IL,02-01-79,male,full-time,True,YES,False,coffee,1,0.0
+f2fd87a74e1f35e3,2019-10-11,Mundelein,IL,"Mar 01, 1989",female,student,True,yes,False,coffee,8,3.5
+5313732a5dc2e23c,2019-04-10,Schaumburg,IL,09-28-92,male,student,True,ya,True,coffee,4,3.0
+9a9e482816daad03,2019-12-30,Naperville,IL,"May 06, 1988",male,full-time,True,Yes,True,tea,8,5.0
+6f830866cef93570,2018-08-14,West Dundee,IL,03.25.1975,male,full-time,False,no,True,coffee,9,2.5
+3693d41e67bb13fd,2018-02-13,Minooka,IL,"Mar 25, 1979",male,full-time,True,n,True,tea,11,1.0
+eb52f8eabd5fdeb5,2018-01-17,Bolingbrook,IL,"Oct 20, 76",female,retired,True,yes,False,coffee,7,1.0
+c8687386b7035896,2018-09-18,Schaumburg,IL,"02 10, 79",male,student,True,nah,True,coffee,0,
+a101f1d0af574e8d,2019-09-15,Glen Ellyn,IL,July 06 1981,male,part-time,True,No,False,coffee,7,5.0
+5894e9fff18dcbd4,2018-09-28,Deer Park,IL,11-28-77,male,unemployed,True,y,True,coffee,7,2.0
+0301d4080946b798,2019-06-21,Naperville,IL,Jan 12 1998,male,student,False,Yes,False,coffee,1,1.5
+0f01262c258b453e,2019-07-16,Oswego,IL,"09 18, 1980",male,full-time,True,nope,True,coffee,8,2.5
+cdf98ec7180adc61,2019-04-08,Chicago,IL,Apr 16 92,female,full-time,False,n,False,wien,12,1.5
+ff05b5acb7d59a79,2018-11-29,Aurora,IL,Mar 29 75,male,part-time,False,ya,False,beer,3,2.5
+bc2d6b948cf94deb,2019-06-26,Deer Park,IL,06.15.89,female,student,True,I don't know,True,wine,12,1.5
+60419a58f888626a,2018-03-14,Warrenville,IL,02.21.76,female,full-time,True,YES,True,wine,0,
+1bf13496dff6659a,2019-08-13,Willowbrook,IL,"Jan 31, 87",female,full-time,True,ya,True,water,11,0.0
+70e66f5b56853e16,2018-10-01,Chicago,IL,"10 07, 80",male,part-time,False,I don't know,False,wine,8,1.0
+76f3268dcd457e14,2018-01-10,Batavia,IL,1978-11-23,female,full-time,True,Yes,False,wine,2,1.0
+72b0274b7f435aeb,2019-03-09,Elgin,IL,August 22 1987,male,student,True,I don't know,True,coffee,12,4.0
+ffc5bdc6a03fc935,2018-02-01,South Barrington,IL,11-09-70,female,full-time,True,yup,False,wine,1,0.0
+4a8b518b433b0659,2019-06-08,Elgin,IL,09/13/85,male,full-time,True,Yes,False,coffee,7,4.5
+dd2ae48996c43f94,2019-11-26,Hoffman Estates,IL,"07 11, 87",male,unemployed,True,Yes,True,coffee,10,4.0
+7c689f2ccc4069ff,2019-08-17,Carol Stream,IL,04/11/89,female,full-time,False,YES,False,wine,11,1.5
+3f4cb0eb72db5f5d,2018-12-01,Streamwood,IL,"Aug 06, 86",female,part-time,True,No,True,water,11,5.0
+694224385e8f4162,2018-03-03,Deer Park,IL,10/20/68,female,part-time,True,y,False,coffee,12,3.0
+9a89fb6a1e8ac03f,2019-06-25,West Dundee,IL,07/19/1988,male,part-time,True,y,False,soda,12,1.5
+2c57e70d4477ca10,2018-12-26,South Barrington,IL,06/13/82,female,full-time,True,Yes,True,coffee,6,1.5
+f7cd5932a191f132,2018-01-26,Willowbrook,IL,November 16 90,female,part-time,True,ya,False,water,9,1.0
+5732feb93c513a56,2018-12-03,South Barrington,IL,October 04 1986,female,full-time,True,y,False,coffee,10,2.0
+8672cb2eeaf6ce8b,2018-08-28,Oswego,IL,"Sep 09, 72",male,unemployed,True,n,False,coffee,2,2.0
+f8464544786c0301,2019-09-02,Warrenville,IL,"Dec 09, 1991",female,full-time,True,yes,True,coffee,12,1.5
+3e462aa6c3b15024,2019-12-21,Chicago,IL,Oct 07 1987,female,student,False,nope,False,tea,11,1.0
+c3b03e7266feae95,2018-02-21,Chicago,IL,Apr 16 77,female,full-time,False,y,True,wine,4,3.5
+1edbb940b8f411cc,2019-01-24,Bolingbrook,IL,1989-01-08,female,student,False,yes,True,water,4,4.5
+4abfe7d0dc97f978,2018-04-24,West Chicago,IL,"01 16, 1986",male,full-time,True,No,False,water,11,1.0
+79c67cd7209ec06a,2019-01-18,Oswego,IL,02-10-86,female,full-time,True,Yes,False,coffee,9,4.0
+aa4c304f6981abc7,2018-11-18,St. Charles,IL,"12 02, 1982",male,part-time,True,nah,False,beer,3,1.5
+c56c8089f2f750de,2018-04-10,Hoffman Estates,IL,10-20-1985,female,full-time,False,No,False,water,10,2.0
+e7c0740c23b3348e,2018-04-28,St. Charles,IL,01/18/1971,female,part-time,True,ya,True,coffee,3,1.0
+e7226db5b486a9a1,2019-01-03,Bolingbrook,IL,09-25-1996,male,part-time,True,YES,False,beer,5,1.0
+f7a99ab7100cdfec,2018-08-17,Barrington,IL,Nov 10 1979,male,unemployed,True,nope,False,beer,3,3.0
+58bf2117c0017b44,2019-09-15,Willowbrook,IL,Jul 12 1988,male,full-time,True,no,True,coffee,0,
+deea314a727d3cb5,2019-05-29,West Dundee,IL,March 16 1993,male,part-time,True,no,False,beer,1,2.5
+0ccf02dbb486c3f4,2018-10-28,Minooka,IL,10-24-68,male,unemployed,True,I don't know,False,beer,11,0.5
+54e2865610ac8bb9,2019-05-01,Schaumburg,IL,02/20/1987,male,part-time,True,YES,True,tea,6,1.0
+e0b9228eff0250b8,2019-04-13,Chicago,IL,Nov 16 91,male,full-time,False,no,False,coffee,3,5.0
+d7f62a7d7b6a39ef,2019-06-27,Chicago,IL,10.31.1988,female,student,False,Yes,True,coffee,7,0.0
+81d56ada4de0a8c9,2019-02-10,Minooka,IL,05-22-1991,male,full-time,True,yes,False,coffee,2,3.5
+2dbb95289045c398,2019-05-16,Inverness,IL,Feb 29 92,female,retired,True,yup,True,soda,9,2.0
+8a6bcdb57b8e17cf,2019-04-05,Wheaton,IL,May 12 1986,male,unemployed,True,y,True,coffee,2,2.5
+88127a656a008adf,2019-08-02,West Dundee,IL,01/15/98,male,student,False,nope,False,beer,3,4.5
+03d838298764f8d5,2018-04-20,Yorkville,IL,08.10.1977,female,part-time,True,No,False,coffee,5,0.5
+eb41b05fb5a35668,2019-01-21,Barrington,IL,11/22/88,male,unemployed,True,ya,False,coffee,2,1.0
+a9d99288027992c6,2019-05-28,Schaumburg,IL,07.02.1987,male,retired,True,Yes,True,beer,0,
+43ad5a29cace4a93,2019-07-03,Willowbrook,IL,02-27-1991,female,part-time,True,nope,False,coffee,9,1.5
+d4a9e7b03701fdfe,2019-10-31,Glen Ellyn,IL,1984-08-26,male,unemployed,True,y,True,coffee,4,3.5
+45306438e737be31,2018-06-26,Hoffman Estates,IL,04/02/84,female,student,True,ya,False,coffee,6,5.0
+9f00a71999b85f6b,2018-08-14,Warrenville,IL,June 22 81,male,part-time,True,I don't know,True,coffee,9,4.0
+54b341a2b188b9b4,2018-12-05,Willowbrook,IL,Aug 15 67,female,part-time,True,YES,True,tea,1,4.0
+8b190d38b2d53264,2019-05-27,Deer Park,IL,11/12/1987,female,unemployed,True,yes,False,wine,11,4.5
+1617df7116c1f851,2019-06-07,West Chicago,IL,02/01/98,female,student,True,No,False,water,0,
+f95597ab52dbca26,2019-03-05,Palatine,IL,February 18 1985,female,full-time,True,Yes,False,coffee,4,2.5
+245edf08042a1d80,2018-05-25,Barrington,IL,08-21-1976,female,part-time,True,ya,True,wine,12,4.5
+bd60215862d9a1fb,2018-12-27,Glen Ellyn,IL,"Dec 09, 1982",male,full-time,True,I don't know,False,coffee,12,1.0
+0c2c4aeebbc46e3c,2019-06-09,Plainfield,IL,06.26.1985,female,part-time,True,yup,False,coffee,0,
+bb83d92b80fdec70,2019-08-06,Mundelein,IL,"Jun 19, 91",male,unemployed,True,Yes,False,beer,10,3.0
+854afaf67aaab613,2018-03-27,Elgin,IL,May 05 1971,male,part-time,True,YES,False,water,10,4.5
+3bd1aabebb49d8a2,2018-07-07,Minooka,IL,Nov 03 1975,female,retired,True,No,True,coffee,3,5.0
+377d77f7b2f9cf8d,2019-03-23,Warrenville,IL,June 04 1990,female,unemployed,True,Yes,False,wine,11,1.0
+6621eeb5a4f2a226,2018-02-02,Algonquin,IL,April 13 1978,female,full-time,True,Yes,False,coffee,8,3.5
+2ed8bf1e3b10b1dd,2018-05-20,Minooka,IL,"Feb 11, 80",female,full-time,True,Yes,True,wine,11,0.0
+2b98139ebdcdb525,2018-09-10,Schaumburg,IL,1981-12-21,male,part-time,True,yes,False,coffee,11,1.0
+891c806f18207fcf,2018-05-01,Minooka,IL,09.08.76,female,full-time,True,ya,True,wine,3,0.0
+2c5a4d7caa5674c0,2018-08-25,Minooka,IL,1980-06-08,female,full-time,True,No,True,wine,4,0.0
+72d55036e4f92f12,2019-08-22,Batavia,IL,05.25.92,female,full-time,True,ya,True,coffee,1,3.5
+6acb80ecdb78d61d,2019-04-25,Elgin,IL,Feb 23 91,female,full-time,True,Yes,False,coffee,6,2.0
+54e10b7743e3233b,2019-05-12,Mokena,IL,Oct 08 1992,male,part-time,True,no,False,tea,1,4.5
+45e5c83cb2bca68b,2019-11-04,Schaumburg,IL,"Oct 11, 1987",male,student,True,yes,False,soda,8,3.0
+4b2f5d515c96d9b5,2019-05-07,Plainfield,IL,1989-09-24,female,full-time,True,NO,False,coffee,1,1.5
+fce597d873a7256b,2018-11-05,Aurora,IL,May 01 85,male,student,True,Yes,True,coffee,12,5.0
+8d9ea3df43aa8e98,2018-05-31,Aurora,IL,03.22.1977,female,full-time,True,no,True,coffee,8,1.5
+f7545ea3e4245509,2018-05-26,Streamwood,IL,Aug 16 81,male,full-time,True,YES,True,coffee,12,0.5
+b33810b11d664c4c,2018-01-17,Palatine,IL,1980-07-05,female,student,True,yes,False,water,2,0.0
+5147f77f5142505e,2019-07-30,Yorkville,IL,"Jun 05, 1992",male,unemployed,True,ya,False,coffee,12,4.0
+0b6336acd21b586c,2019-10-11,Romeoville,IL,Oct 01 1985,male,student,True,Yes,True,beer,9,2.5
+61398b7e0502ac2b,2019-05-10,Inverness,IL,Dec 19 81,male,full-time,True,yes,False,tea,12,4.5
+4ad7de25d8ea745b,2019-11-08,Naperville,IL,Jul 31 1990,male,retired,True,no,False,coffee,7,5.0
+b77cdf0d47ecbf65,2019-04-11,St. Charles,IL,April 14 84,male,unemployed,True,YES,True,coffee,10,0.0
+b3dbb43b6dbc13cf,2018-03-14,Willowbrook,IL,11/17/86,female,full-time,True,nope,True,tea,9,4.5
+6757011835238baa,2019-09-05,St. Charles,IL,04.19.1985,male,full-time,True,yes,True,soda,5,0.0
+6421c9d2ac04e1b8,2019-04-01,Yorkville,IL,09-29-90,male,full-time,True,No,False,soda,0,
+db16e7bfddfb1426,2019-10-19,Aurora,IL,11.15.91,female,unemployed,True,no,False,coffee,6,1.5
+2ed4807ce5d0823a,2018-07-13,Inverness,IL,May 10 73,male,retired,True,yes,True,coffee,12,2.5
+88ee9b5f5c2ef4db,2018-10-01,Elgin,IL,12/31/1976,female,retired,True,nope,False,coffee,3,3.0
+2b5fe35daa92cabe,2019-08-22,Carol Stream,IL,01.16.89,female,student,True,yes,False,coffee,1,1.0
+5b1dc80741c10d03,2019-04-10,Willowbrook,IL,Jan 28 85,male,full-time,True,NO,True,beer,1,4.5
+416ef25773b2252c,2019-10-04,Willowbrook,IL,1991-06-06,male,full-time,True,n,False,coffee,7,3.0
+16fa64e3afe1fd62,2018-06-25,Mundelein,IL,Aug 18 85,female,full-time,True,nope,False,wine,8,5.0
+86dfca6d1c46008a,2018-11-12,Elgin,IL,March 11 79,male,unemployed,True,ya,False,beer,1,3.0
+bd8b17b05580ed53,2019-05-07,Hoffman Estates,IL,"Nov 03, 90",female,retired,True,ya,False,wine,0,
+2497b68eb519e2ac,2019-04-22,Aurora,IL,February 24 1994,male,retired,True,Yes,False,coffee,11,0.5
+8c15c317af3b7f41,2019-01-16,South Barrington,IL,"Feb 26, 84",male,full-time,True,yes,True,coffee,0,
+c4ea2c8de9135e73,2019-03-12,Inverness,IL,11.28.82,male,retired,True,yup,True,coffee,9,2.0
+c6278341da51ee0d,2019-04-16,Aurora,IL,"07 21, 1992",female,full-time,True,YES,True,coffee,6,5.0
+31839893c4e1f043,2018-09-20,Minooka,IL,05/01/81,male,part-time,True,Yes,True,beer,3,4.0
+d06154384facb97e,2019-01-03,Wheaton,IL,"09 10, 1989",male,part-time,True,No,False,tea,3,4.0
+7d4fd9f182db2238,2018-08-18,Algonquin,IL,May 23 1974,female,unemployed,False,n,True,coffee,12,3.0
+bac410f82e9f6f89,2019-03-01,Algonquin,IL,06.17.1993,male,student,True,YES,False,coffee,8,2.5
+fc7da2c094583067,2018-03-28,Carol Stream,IL,"Aug 20, 1975",male,full-time,True,yes,True,beer,11,1.0
+051b888ef905d3f5,2019-01-16,Mokena,IL,"Jan 24, 1988",male,full-time,True,ya,False,coffee,0,
+6f8e877aacc5b6d0,2018-04-18,West Chicago,IL,"Apr 15, 1978",female,full-time,True,no,False,coffee,0,
+c801ff9832907f3f,2018-06-07,Romeoville,IL,"08 23, 1972",male,full-time,True,Yes,True,soda,8,3.5
+33fb09f4a1f95feb,2018-08-15,Glen Ellyn,IL,Oct 09 71,female,retired,True,NO,True,coffee,4,4.5
+849832cab80d6d35,2018-03-14,Willowbrook,IL,Feb 02 1982,female,unemployed,True,nope,True,coffee,9,4.0
+90bb391df772774b,2018-06-09,Schaumburg,IL,11-16-84,male,unemployed,True,ya,True,beer,9,0.5
+6d1a3bd09fd21dff,2019-08-07,Schaumburg,IL,01/09/1990,female,full-time,False,Yes,True,coffee,0,
+552bbebedc1ccb08,2019-01-05,West Chicago,IL,Mar 09 93,female,full-time,True,n,False,coffee,0,
+09af45ea912bd3cd,2018-10-07,Bolingbrook,IL,May 16 1971,male,full-time,True,I don't know,False,coffee,1,4.5
+31e072836476d4a5,2019-07-06,Yorkville,IL,1985-10-14,female,student,False,YES,False,coffee,7,2.5
+c5c493a028c987cc,2018-02-13,Elgin,IL,"Apr 08, 73",male,full-time,True,no,False,coffee,10,3.5
+895193686598894b,2018-08-28,Bolingbrook,IL,"10 16, 84",male,unemployed,True,ya,True,coffee,7,0.5
+3d42dae4a638f1ea,2019-04-07,West Chicago,IL,1987-03-14,female,unemployed,True,I don't know,False,coffee,3,0.0
+0d0bca81e9acfb62,2018-05-20,Hoffman Estates,IL,02-27-1986,female,student,True,yup,False,tea,11,1.0
+7dbacdcc3cd25c92,2019-04-05,Carol Stream,IL,June 06 1995,female,unemployed,True,nope,False,wine,1,3.5
+6c595e36bd150fcd,2019-02-04,Carol Stream,IL,03.12.1985,female,student,True,YES,True,soda,9,4.5
+ce4ad1970c17a475,2019-04-18,Minooka,IL,Apr 08 1987,male,full-time,True,nah,False,coffee,4,5.0
+3aeecb3c1560ea94,2018-11-09,Yorkville,IL,"05 31, 1978",female,full-time,True,No,True,wine,10,0.5
+feab6f8acfb20129,2018-06-29,Deer Park,IL,"07 09, 87",female,full-time,True,nah,False,water,5,0.5
+8b3e8446f0354686,2019-11-22,Minooka,IL,1991-10-09,female,full-time,True,I don't know,False,coffee,9,0.0
+5674bf2dcf7efd9b,2019-06-04,Naperville,IL,04.04.84,male,retired,True,ya,False,beer,0,
+b61bf745d90411ea,2019-03-02,Inverness,IL,June 07 1985,female,unemployed,True,ya,True,water,8,1.0
+4fbf223b95d6120f,2018-08-29,Carol Stream,IL,03.12.74,male,part-time,True,No,True,beer,11,3.0
+34a514c756a0cd54,2018-01-25,West Dundee,IL,"Mar 10, 1968",female,unemployed,True,yup,False,water,10,4.5
+104629f254c31125,2019-03-03,Warrenville,IL,October 16 1986,female,full-time,True,YES,True,coffee,8,1.0
+742aa60faa4895da,2018-02-10,Palatine,IL,05/24/1977,male,full-time,True,y,True,coffee,10,0.0
+e488a013687e514e,2018-04-22,Naperville,IL,Jun 06 1982,female,unemployed,True,yup,True,water,8,1.0
+6896653fa64927e0,2019-03-10,Oswego,IL,04-03-93,male,student,True,YES,False,beer,0,
+1924bea04c450f19,2018-08-26,Barrington,IL,"May 07, 1979",female,full-time,True,yup,False,soda,2,1.5
+c5b3861a68683998,2019-03-26,Romeoville,IL,"03 15, 1991",female,unemployed,True,No,False,coffee,5,5.0
+1ce655eed8ff0ad2,2018-12-07,Glen Ellyn,IL,11-05-1977,male,part-time,False,ya,True,ber,12,0.5
+4d04c5feff089b90,2018-10-30,Barrington,IL,Apr 04 75,female,full-time,True,yup,False,coffee,12,2.5
+e23dd7e9f4c197e8,2018-08-20,Wheaton,IL,"Jul 28, 1974",female,full-time,True,No,True,water,12,5.0
+a068dc1e0ff8881c,2018-03-08,St. Charles,IL,03-28-1981,female,full-time,True,No,True,coffee,11,5.0
+7ee04f94ac11b8d5,2018-02-28,Minooka,IL,Mar 31 1981,female,full-time,True,no,True,water,3,1.0
+357b129469dcc307,2018-11-11,South Barrington,IL,11.18.74,female,unemployed,True,no,True,wine,1,0.5
+a3d7e0ebcbeb8570,2018-06-30,Wheaton,IL,03.30.1978,male,full-time,True,yes,False,beer,7,3.0
+64341ed2686b053e,2018-02-18,South Barrington,IL,"Jun 27, 1978",female,unemployed,True,yes,False,wine,12,3.5
+3fba86e7f3918b0c,2018-08-05,Naperville,IL,"Mar 27, 84",male,student,True,Yes,True,soda,12,2.5
+fe917e3b69720494,2019-09-25,Oswego,IL,1990-09-11,male,part-time,True,y,False,soda,11,4.5
+d57e51dd246837b2,2018-05-20,Deer Park,IL,May 18 1977,female,full-time,True,y,True,coffee,6,2.0
+1694b576f2afb17f,2019-09-29,Algonquin,IL,Apr 04 1993,female,student,False,n,True,coffee,5,0.5
+1b21e3a8ffa19765,2019-08-31,Glen Ellyn,IL,Dec 16 84,male,unemployed,True,y,True,soda,11,2.0
+a9b4c6b538300900,2018-11-21,Wheaton,IL,07/20/1970,female,unemployed,False,yes,False,coffee,5,3.5
+e3a0d98f553f080e,2018-05-23,West Dundee,IL,May 03 71,male,full-time,True,Yes,True,coffee,8,1.0
+c2aafd2868f83167,2018-09-25,Yorkville,IL,"Mar 31, 1971",male,unemployed,True,yes,True,coffee,10,0.5
+4599cea0b94e79e8,2018-06-12,Romeoville,IL,05-29-71,female,full-time,True,No,True,wine,1,1.5
+c4b6988fbf29fefb,2018-09-05,West Chicago,IL,10-06-74,female,unemployed,True,YES,True,wine,6,4.5
+b36827b9c51d05ba,2018-12-13,Yorkville,IL,03.22.80,female,unemployed,True,yup,True,coffee,3,2.5
+2cb42662a4d74437,2018-05-17,Aurora,IL,May 09 80,male,full-time,True,I don't know,True,coffee,3,3.0
+cde9f1693348115a,2019-05-04,Hoffman Estates,IL,Dec 18 1989,female,full-time,True,Yes,False,coffee,10,1.5
+34754726d391005f,2019-07-26,South Barrington,IL,August 08 1989,male,full-time,True,Yes,True,coffee,7,1.5
+155cbb6124ae5844,2018-02-20,St. Charles,IL,06/28/1975,male,unemployed,True,ya,False,beer,0,
+993bbe09943287e0,2019-03-13,Chicago,IL,November 04 1985,female,unemployed,True,no,True,coffee,3,0.5
+a876110b9cfe7f1e,2019-03-03,Algonquin,IL,"09 24, 86",female,part-time,True,n,True,coffee,9,0.5
+c22024288a32f620,2018-10-26,Plainfield,IL,July 04 1982,female,retired,True,ya,True,tea,10,4.5
+1d211bbdace5f9f6,2018-04-07,Mundelein,IL,June 18 1967,female,unemployed,True,nah,True,water,11,1.5
+36cbaa6e236853bd,2019-05-06,Warrenville,IL,03.31.97,female,student,True,no,False,tea,7,2.5
+714ea9483667fe8d,2018-02-19,Palatine,IL,"Sep 14, 1972",female,full-time,True,yup,False,coffee,0,
+15bc373281ee2328,2018-11-03,Batavia,IL,"Oct 14, 73",male,part-time,True,No,True,beer,10,2.5
+5d3fda68f5510ed3,2019-09-20,Hoffman Estates,IL,02.12.94,female,stduent,True,Yes,False,wine,2,2.5
+d1690e2807500aa4,2019-04-24,Plainfield,IL,November 22 90,female,student,True,yes,False,coffee,5,3.5
+9eb27f4e37e7dc5d,2019-01-04,Algonquin,IL,"Aug 29, 88",male,full-time,True,Yes,True,soda,11,1.5
+3e78396bc537156a,2018-12-07,South Barrington,IL,"03 17, 79",female,full-time,True,y,True,water,0,
+518ad06a6281c14f,2019-08-23,Naperville,IL,"Jul 28, 1986",female,student,True,ya,False,wine,8,3.5
+7d52cce2d140aac2,2018-04-18,Elgin,IL,Dec 19 84,male,stuednt,True,Yes,True,coffee,2,3.5
+779ee90e70d2d15b,2019-12-04,Schaumburg,IL,02/15/1989,female,retired,False,y,False,wine,11,2.0
+3b90dcf9e0c19557,2018-04-30,Schaumburg,IL,09-26-79,male,unemployed,True,ya,True,coffee,5,2.5
+c4f50d168045d881,2018-10-22,Batavia,IL,03/23/83,male,full-time,True,dunno,True,coffee,6,4.0
+eb167f11107ea983,2018-05-03,West Chicago,IL,February 29 84,male,part-time,True,yes,True,coffee,12,1.5
+351b5636da65a9d5,2018-07-01,Naperville,IL,May 15 86,female,part-time,False,Yes,True,wine,11,2.5
+0f5bb4ae3d35d2f1,2018-05-27,St. Charles,IL,Apr 21 1982,female,full-time,True,I don't know,True,water,7,0.5
+9f5a913b7ca13c0c,2019-08-14,Batavia,IL,"12 21, 95",male,student,True,yup,False,soda,6,5.0
+6483f81fb17b9611,2019-04-06,Hoffman Estates,IL,1983-12-31,male,retired,True,n,True,beer,0,
+a9cb304f548d408a,2018-04-27,Palatine,IL,10/26/1979,male,unemployed,True,nah,False,beer,2,1.5
+e62547036039a2bb,2018-09-21,Algonquin,IL,03-08-1983,male,part-time,True,yes,False,soda,11,1.0
+c60bde2cfdeac9cc,2018-12-10,St. Charles,IL,February 15 72,male,full-time,True,ya,True,coffee,1,2.5
+63c3533d2f197325,2019-02-08,Inverness,IL,Sep 21 1996,male,full-time,True,NO,False,coffee,10,5.0
+ed28a7cb4efc6bc8,2019-07-30,Hoffman Estates,IL,10/13/1985,male,full-time,True,No,True,coffee,9,0.0
+c8f7cc410c31c13e,2018-07-30,Plainfield,IL,Dec 24 1968,female,full-time,True,No,True,tea,11,0.0
+b414cec902ff0750,2019-07-22,Mokena,IL,01-31-1987,male,part-time,True,YES,True,water,5,0.0
+63f03b0d6b6742c6,2018-10-21,Elgin,IL,10.28.1980,male,retired,True,no,True,coffee,1,1.5
+06113cebf0a84227,2018-09-04,West Chicago,IL,"07 15, 74",male,full-time,True,YES,True,coffee,3,0.5
+a771a06da0761250,2018-05-25,Glen Ellyn,IL,"Mar 17, 1974",female,full-time,True,yup,True,coffee,9,2.0
+21d6ef81f05d43dc,2018-03-08,Minooka,IL,12.20.1980,male,part-time,True,nah,False,soda,6,1.0
+c76f70186d550f3f,2019-08-29,Carol Stream,IL,"Sep 13, 88",male,unemployed,True,yes,True,water,3,2.0
+296e69459db153e3,2019-04-24,Wheaton,IL,1995-02-27,female,part-time,True,yes,False,coffee,0,
+75d446bf0b5d3d1b,2018-04-03,Carol Stream,IL,"Nov 08, 1979",male,full-time,True,No,True,beer,4,1.5
+d0fc5437d4a5a597,2018-07-17,Carol Stream,IL,05-12-1972,female,full-time,True,Yes,True,coffee,0,
+60b949e1cfbee48d,2019-01-03,Bolingbrook,IL,July 10 91,male,part-time,True,nah,False,beer,10,3.0
+823ac5f6fdb0ae51,2018-07-17,West Chicago,IL,Aug 27 1982,female,full-time,False,Yes,True,coffee,5,4.5
+076ec8693b94ab31,2019-04-06,Palatine,IL,June 15 97,female,student,True,YES,False,tea,6,1.0
+503c9503a82bbfaf,2019-12-19,Batavia,IL,04.22.97,male,unemployed,True,YES,False,beer,7,2.5
+bc9a6d7f0b2e2d6d,2018-03-04,Chicago,IL,"07 14, 71",male,part-time,False,yes,False,beer,5,4.5
+d86400fe86f9ac36,2018-03-25,Inverness,IL,November 12 72,female,full-time,True,yup,False,water,7,4.0
+2c64256905e79462,2018-10-04,South Barrington,IL,"12 03, 84",male,student,True,nope,True,coffee,2,1.0
+aba3a8e464f2497f,2018-01-28,Oswego,IL,"04 07, 82",female,part-time,True,no,False,water,1,4.5
+427d3ca3fb755481,2018-04-05,Romeoville,IL,"12 27, 1978",male,retired,True,yup,True,coffee,5,0.0
+7acf1224dd64e8fd,2019-08-27,Romeoville,IL,"03 05, 1991",female,student,True,dunno,False,coffee,3,1.5
+527f32d22a636c4c,2019-01-30,St. Charles,IL,"Oct 14, 87",male,unemployed,True,NO,False,tea,8,1.0
+8f19852dc477ed8e,2019-11-08,Mokena,IL,12.25.94,female,unemployed,False,NO,False,coffee,1,2.5
+269be1506657b216,2018-04-11,Bolingbrook,IL,May 01 82,male,full-time,True,Yes,True,coffee,4,3.5
+75028e7d7ce02fec,2018-04-13,Mundelein,IL,July 09 74,male,full-time,True,ya,True,coffee,6,4.5
+bb22b70d1841d83f,2018-10-05,West Chicago,IL,09.23.1975,male,unemployed,True,yes,True,soda,6,2.5
+30af1852e2664745,2019-05-11,Algonquin,IL,"09 05, 1986",male,unemployed,True,Yes,True,soda,0,
+c44cf90ad596731b,2019-02-26,Romeoville,IL,May 09 1985,female,full-time,True,y,False,tea,4,0.5
+39de0b44b8e4a426,2018-05-13,Hoffman Estates,IL,Dec 23 76,male,part-time,True,NO,False,coffee,1,3.5
+26e99efe693f9d62,2018-12-19,Bolingbrook,IL,Oct 04 77,male,unemployed,True,No,True,soda,7,1.0
+901e572c73412c3c,2018-06-28,Inverness,IL,06-05-1979,female,full-time,False,YES,True,wine,1,2.0
+d1e82d49698b5fab,2019-04-18,South Barrington,IL,1986-03-06,female,unemployed,True,No,True,coffee,7,5.0
+1371a87a96ae0e67,2019-11-19,South Barrington,IL,"Dec 11, 1986",male,full-time,True,ya,True,beer,1,3.0
+334fdfb5cce61a73,2019-03-26,Mundelein,IL,01/30/88,male,unemployed,False,yes,False,coffee,2,3.0
+c40da6eb69aac9a3,2018-03-18,Algonquin,IL,"11 28, 81",male,full-time,True,ya,False,coffee,10,1.5
+2c6125a9fffad03c,2019-07-22,West Chicago,IL,03/02/93,male,student,True,ya,False,coffee,6,4.0
+576096c0cc0be5b3,2018-03-01,Streamwood,IL,10/10/78,female,part-time,True,y,False,coffee,10,3.0
+493f7d70d86df2ae,2019-05-22,Inverness,IL,07/29/1986,female,full-time,True,No,True,coffee,3,4.0
+a2479799c2e12d46,2019-05-07,Schaumburg,IL,07-26-1982,female,full-time,True,Yes,True,tea,5,2.0
+ce882ea5e7b04463,2019-04-07,Algonquin,IL,April 29 90,female,full-time,True,y,False,coffee,6,3.0
+f647d9097b4620df,2019-10-26,Plainfield,IL,"08 02, 89",female,full-time,True,No,True,coffee,9,0.0
+a0d665bfbc22262a,2019-12-15,Oswego,IL,"May 27, 86",female,unemployed,True,Yes,True,wine,11,2.5
+30c4d908274bf035,2019-06-21,Hoffman Estates,IL,12-16-1984,male,part-time,True,I don't know,True,soda,7,4.5
+2a4d45d83baa3e9b,2019-03-05,Palatine,IL,08-30-83,male,part-time,True,yes,False,soda,6,3.5
+0bae6f70773d35a4,2019-11-30,West Dundee,IL,"05 25, 88",male,part-time,True,Yes,True,coffee,11,3.5
+5e0e7ba0372a5348,2019-03-21,Wheaton,IL,October 20 91,female,retired,True,YES,False,coffee,12,2.5
+6aa230ae296a3162,2018-08-10,Deer Park,IL,August 31 76,female,full-time,True,YES,True,tea,3,2.0
+e52236085bf72324,2018-10-20,Hoffman Estates,IL,"Nov 18, 1978",female,full-time,True,No,True,water,3,3.5
+46af669cf37793d0,2019-09-09,Mokena,IL,07.12.1990,female,full-time,True,YES,False,coffee,0,
+4cdf032c9036096c,2019-12-31,Streamwood,IL,"07 30, 1988",male,part-time,True,YES,True,soda,4,4.5
+3cbcea347ae2cf05,2018-03-26,Schaumburg,IL,"07 05, 81",female,part-time,True,Yes,True,wine,0,
+abbe8be3059bfe29,2019-04-30,Naperville,IL,Mar 04 87,male,full-time,True,Yes,True,beer,5,2.5
+4ba91a6502e3edb5,2019-03-04,South Barrington,IL,"01 18, 87",male,student,True,nah,False,coffee,1,2.5
+b40df87847b44bd1,2019-08-28,Glen Ellyn,IL,01-25-90,male,unemployed,True,yup,False,coffee,3,3.5
+140c026ef93cf298,2019-04-08,Batavia,IL,Jul 27 1992,female,unemployed,True,y,False,coffee,4,0.0
+98b5d542d3101a40,2019-10-11,Minooka,IL,09/29/93,male,unemployed,True,ya,False,beer,12,3.0
+77d3f52c2d020500,2018-10-24,St. Charles,IL,02-22-1982,male,full-time,True,yes,False,coffee,8,3.5
+89af5caa6b971186,2019-12-04,Barrington,IL,Jan 24 95,male,student,True,n,False,cofee,1,2.0
+fc71f79d437ad6ee,2018-07-05,Minooka,IL,1975-03-08,male,unemployed,True,yes,False,coffee,6,2.0
+536082de466ab7e8,2019-04-30,Mundelein,IL,Dec 06 83,female,part-time,False,y,True,wine,5,2.5
+c543fc54afe0309f,2018-04-11,Palatine,IL,07/18/78,male,full-time,True,no,True,beer,3,1.5
+a50bf3a2adcccc84,2019-06-13,Aurora,IL,09-16-1992,female,part-time,False,YES,False,coffee,7,4.0
+d7b3de644924f258,2019-10-01,Aurora,IL,November 01 1993,female,unemployed,True,Yes,False,coffee,9,3.0
+113005d6703c413d,2018-06-06,Mundelein,IL,"Mar 30, 1979",female,full-time,True,Yes,False,coffee,5,2.5
+23800c1caa2e6ec3,2019-03-15,Yorkville,IL,"10 03, 91",male,full-time,True,NO,False,beer,0,
+3c3b989ab2cfabbe,2019-05-06,Chicago,IL,1987-04-25,female,unemployed,False,ya,True,coffee,9,0.5
+3dea01a34c8dfcb3,2018-12-31,Warrenville,IL,Mar 31 1989,male,part-time,True,NO,False,coffee,5,1.0
+22fd6632f9378806,2018-10-20,Elgin,IL,Jan 28 1977,male,student,True,yes,True,soda,7,5.0
+d29af2c1eb7a5c66,2019-02-22,West Dundee,IL,05-31-1985,male,part-time,False,YES,True,beer,1,2.5
+bc78ea5ba9db3fdb,2018-11-03,Mokena,IL,07.19.1973,male,unemployed,True,nope,True,coffee,6,4.0
+be2decc9c0a1c9f2,2018-08-02,Barrington,IL,05.28.75,female,part-time,True,ya,True,soda,3,4.5
+40e5132b6d73ffa9,2018-11-15,Mundelein,IL,"07 17, 97",female,unemployed,False,yes,False,coffee,6,2.5
+ecd33651db576e90,2019-09-14,Mokena,IL,"02 08, 89",female,full-time,True,yes,True,wine,0,
+1cc19713f7596f13,2019-08-16,Streamwood,IL,09/30/1989,male,full-time,True,y,True,tea,2,5.0
+94f00272722c45d2,2019-06-07,Romeoville,IL,"04 06, 1988",female,part-time,True,YES,True,wine,6,0.0
+b17a26a091b3a208,2018-06-14,Algonquin,IL,06/20/1984,female,student,True,yes,True,wine,6,4.0
+09f4dd974775fa1c,2018-10-23,Minooka,IL,04.16.79,female,full-time,True,no,False,coffee,4,3.5
+3f6046f1c157c36e,2018-03-29,Bolingbrook,IL,June 27 78,female,full-time,True,Yes,True,coffee,4,0.0
+62628c2aa9e952cb,2019-10-28,Streamwood,IL,"May 04, 1989",male,unemployed,True,no,False,coffee,3,3.5
+c6b510383029bec9,2019-10-12,Deer Park,IL,"Aug 24, 1985",male,student,True,Yes,False,coffee,11,0.5
+f03ce84eb133a575,2018-05-18,Minooka,IL,1977-04-02,male,full-time,True,NO,True,coffee,12,0.0
+47a3b4b4d7ad48d9,2019-11-14,Aurora,IL,September 07 88,male,full-time,True,YES,True,beer,4,0.0
+ad565fb60d5ee583,2018-10-22,Aurora,IL,08/23/74,female,part-time,False,n,True,wine,3,0.0
+317fe575a198af85,2019-11-29,Romeoville,IL,06-02-1988,male,full-time,True,y,False,beer,2,1.5
+6d8a0ebcc5a4737c,2019-05-21,Deer Park,IL,"Apr 27, 85",female,full-time,True,yup,True,wine,9,1.0
+adc131e4f4bc8132,2019-12-07,South Barrington,IL,09-19-1996,male,part-time,True,YES,False,beer,9,2.0
+76efb9ed2f9d6330,2019-03-29,Mundelein,IL,November 07 90,female,unemployed,True,ya,True,water,8,1.5
+3e7eb387c6d3dbdb,2019-07-04,Plainfield,IL,March 14 87,female,part-time,True,ya,False,coffee,9,2.0
+208ed2330a361ddc,2019-11-05,Willowbrook,IL,"May 05, 94",female,student,True,yes,False,coffee,11,4.5
+8b7ae4d24426a2b3,2018-12-15,Glen Ellyn,IL,08.09.1978,male,full-time,True,YES,True,coffee,11,4.0
+95b80fccd6fb0c02,2018-04-14,South Barrington,IL,"03 18, 83",female,student,True,yup,False,coffee,3,3.5
+0c02610a8d563a4d,2019-03-27,Naperville,IL,1992-08-14,female,retired,True,yup,False,coffee,3,1.5
+9d31e76863aca983,2019-09-04,Carol Stream,IL,03/29/89,female,full-time,True,yes,False,coffee,1,2.0
+dd18779f8ed2e1d4,2019-10-13,Willowbrook,IL,1992-03-03,male,unemployed,True,I don't know,False,beer,2,0.0
+4397b7c05bd80ab4,2019-12-12,Willowbrook,IL,"Jan 03, 92",male,unemployed,True,I don't know,False,beer,11,0.5
+9d5e8abba15c2a55,2018-09-19,Warrenville,IL,03-28-1973,female,part-time,False,yes,True,water,8,1.5
+9beeec2a72be993a,2019-07-13,Aurora,IL,Dec 17 1993,male,student,True,y,False,coffee,5,5.0
+4ddabc241ae4321c,2019-01-08,Yorkville,IL,"Sep 01, 1988",male,full-time,True,YES,False,coffee,11,4.0
+6f5b3bedc31c30a5,2019-06-04,Naperville,IL,11/14/90,female,student,False,no,False,coffee,12,4.5
+5e06ac0e35d5bc0c,2018-06-11,South Barrington,IL,03/22/87,female,part-time,False,Yes,True,coffee,0,
+510fbff62243a0b9,2019-12-10,Batavia,IL,05.18.86,male,full-time,True,YES,True,coffee,0,
+a9d04027b4a1fc68,2018-05-07,Batavia,IL,April 12 1976,male,part-time,True,Yes,True,beer,0,
+59ac45d8f6744a4c,2019-12-23,Deer Park,IL,"Feb 01, 1989",male,unemployed,True,No,True,coffee,3,2.5
+67214aea0727f496,2018-08-23,South Barrington,IL,"08 27, 82",female,part-time,True,YES,True,coffee,7,5.0
+880cfc095d320c13,2018-07-08,Aurora,IL,09.07.82,female,part-time,True,n,False,wine,10,2.0
+f5b9931094008562,2018-08-15,Warrenville,IL,07-16-1974,female,unemployed,True,YES,True,coffee,2,0.0
+a0c2b59f73e2d64f,2018-07-03,Algonquin,IL,"03 25, 1983",female,part-time,True,yes,True,wine,12,3.0
+b7231a57f1eeadad,2019-12-17,Wheaton,IL,11/15/1993,female,unemployed,False,yup,True,soda,2,2.0
+6347f41834aaa1b4,2019-03-07,Barrington,IL,04.10.94,female,student,True,NO,False,wine,1,0.0
+2e64bc51411c3444,2018-07-26,Oswego,IL,11/08/1975,female,full-time,True,ya,False,wine,5,3.0
+2425bfd487193f6b,2019-04-12,Elgin,IL,1986-06-01,male,full-time,True,Yes,True,coffee,6,3.0
+807d90ac0aed184a,2018-04-09,Oswego,IL,02/08/1982,female,full-time,True,yes,True,coffee,5,5.0
+bf6ff0533904ad3a,2019-06-15,Carol Stream,IL,09.20.93,male,student,True,YES,False,beer,11,1.5
+7e80dabaddb55f04,2019-05-23,Mokena,IL,Nov 12 1988,female,unemployed,True,ya,False,soda,8,4.0
+324d0596ab547182,2019-07-12,Batavia,IL,06.08.90,female,unemployed,True,YES,False,water,12,4.0
+a212999dd39c8e3d,2019-05-29,Barrington,IL,Dec 15 94,male,part-time,True,No,False,coffee,11,1.0
+bc64108b3b268624,2018-03-19,Naperville,IL,May 03 1981,male,full-time,True,yup,False,coffee,8,0.0
+488ea14cbfb09481,2018-02-11,Mundelein,IL,08.28.77,female,full-time,True,ya,True,tea,8,0.0
+be94595dc86c1142,2018-01-23,West Chicago,IL,10/17/81,male,unemployed,True,nah,True,coffee,12,2.5
+bbb586a435a4cdb0,2018-02-22,Bolingbrook,IL,04.25.82,male,unemployed,True,No,False,coffee,8,2.5
+793ddb6b9d04d4be,2019-09-28,Palatine,IL,Jan 26 1991,female,part-time,True,yes,True,beer,10,1.5
+d8cc35c0dc5e1aa6,2019-10-17,Mokena,IL,"09 10, 1986",female,part-time,False,YES,False,coffee,12,4.0
+745ed65e3d68c80a,2018-02-19,Batavia,IL,"May 13, 1979",male,full-time,True,NO,False,beer,8,0.0
+bb8b35245ac281f3,2019-04-12,Mokena,IL,June 25 1994,female,part-time,True,no,False,coffee,4,4.0
+df8c001c503e374c,2018-01-20,Carol Stream,IL,1980-04-28,female,retired,True,n,True,water,3,1.5
+c2e0f5c09daced7e,2019-08-13,Wheaton,IL,1984-10-13,male,part-time,True,y,False,beer,11,2.5
+066c0e59b0458571,2018-06-28,Warrenville,IL,03/21/72,female,full-time,True,no,True,wine,2,3.0
+df3470c9533366cc,2018-06-17,Hoffman Estates,IL,Jan 13 1982,female,part-time,True,Yes,False,coffee,5,4.0
+3ef85b7c28d86d04,2018-02-06,Yorkville,IL,02/19/76,female,full-time,True,nah,False,coffee,11,2.0
+a4f44819e4cc1aae,2018-03-19,Chicago,IL,03/18/1971,female,full-time,False,ya,False,coffee,8,4.0
+cd4ae7e3b1009dd3,2019-06-02,Mundelein,IL,Jan 12 95,male,unemployed,True,No,True,coffee,10,0.5
+86114297d4c49121,2018-08-28,Wheaton,IL,06-22-79,female,part-time,True,no,True,wine,1,4.5
+21f0aacdf098402a,2018-03-23,Elgin,IL,March 22 75,male,full-time,True,Yes,True,coffee,11,1.0
+e6812121a204adca,2019-07-04,Barrington,IL,09-28-84,female,full-time,True,n,True,tea,1,2.5
+042cbfd564fdbe31,2018-07-09,Hoffman Estates,IL,10.16.1977,female,full-time,False,YES,False,water,7,4.0
+f227d1ca2c6ce56e,2019-04-10,Yorkville,IL,06-01-1990,male,student,True,No,True,beer,7,2.5
+c489819a21fb2259,2018-09-30,Hoffman Estates,IL,July 28 84,female,unemployed,True,n,True,coffee,10,1.5
+33af1c8cb2dd90d3,2018-03-27,Algonquin,IL,05-11-87,male,student,True,Yes,False,beer,9,2.0
+269d15d44d1556b0,2019-06-04,Chicago,IL,"Sep 05, 1992",male,full-time,False,ya,False,soda,5,2.5
+eefc445fbdad6a84,2018-04-06,Minooka,IL,November 04 80,female,part-time,True,ya,True,wine,3,1.0
+ecf893424d4b8655,2019-07-04,West Dundee,IL,09/05/93,male,unemployed,True,NO,False,beer,0,
+a913d58a145c6347,2018-08-15,Algonquin,IL,01/14/1979,female,full-time,True,YES,True,water,9,4.5
+6d81e17307c730a3,2019-04-02,Plainfield,IL,1989-10-25,male,part-time,True,yes,True,beer,1,4.0
+8c3257f80b98c916,2019-03-24,Hoffman Estates,IL,1982-04-04,female,full-time,True,nah,True,coffee,3,4.5
+b9a3c0adc0c5215c,2018-05-04,Naperville,IL,Aug 22 1968,female,full-time,True,y,False,cofee,10,3.5
+c21226c990028bd9,2018-12-05,Schaumburg,IL,July 11 1977,female,full-time,True,ya,True,coffee,12,1.5
+7428c3a66a39f533,2018-05-15,Algonquin,IL,Aug 15 73,female,full-time,True,YES,True,wine,0,
+84811767d769674d,2018-03-06,St. Charles,IL,01.14.82,male,full-time,True,ya,True,coffee,0,
+b01a7e33483ffb9c,2018-01-14,Aurora,IL,1976-03-05,female,student,True,no,True,coffee,4,4.5
+23256bcbb37ddbac,2018-05-21,West Chicago,IL,November 15 1982,female,full-time,False,ya,True,water,3,4.0
+6a15a578f607927e,2019-08-19,Algonquin,IL,06.18.1991,female,student,True,y,True,water,4,2.5
+adac57171df3c773,2019-06-16,Algonquin,IL,01.11.87,female,student,True,YES,False,water,2,3.5
+ffb094db9c3e1783,2019-10-01,Carol Stream,IL,"12 22, 85",female,student,True,Yes,True,coffee,8,0.0
+b34c4422bd20fc74,2019-09-05,Oswego,IL,"02 05, 91",male,unemployed,True,No,False,coffee,2,2.0
+d982d24fd72c45a3,2019-07-14,Aurora,IL,"03 15, 94",female,unemployed,False,ya,False,water,3,3.0
+47249f94ac4b4cc4,2018-02-18,Inverness,IL,05-09-1972,female,full-time,True,YES,True,coffee,1,4.5
+f52e61316c9e18cf,2018-11-25,Barrington,IL,March 15 1984,male,student,True,I don't know,True,coffee,8,4.0
+703316c6ecb3641f,2018-02-16,Willowbrook,IL,07/19/1982,female,full-time,True,yes,True,soda,10,2.0
+efa8ff92622efccf,2018-07-12,Streamwood,IL,"Aug 02, 1980",female,full-time,True,NO,True,coffee,3,1.5
+30e10b303035b65c,2018-04-27,St. Charles,IL,04/21/73,male,full-time,True,yes,True,coffee,6,0.0
+a21f2e36f7bea1e1,2018-08-24,West Chicago,IL,Aug 29 1984,male,full-time,True,y,True,water,12,3.0
+b9d59480ea1e138e,2019-04-08,Mokena,IL,12-02-1987,male,student,True,YES,True,coffee,1,2.5
+e847154473f7df11,2018-03-16,Oswego,IL,"Jan 29, 82",female,part-time,True,Yes,False,coffee,6,3.0
+51bd645e0dc80ed1,2019-07-22,Naperville,IL,07.21.1990,female,student,True,yes,True,coffee,3,4.5
+2ad4dfceaedb5a6b,2019-03-11,Elgin,IL,"Mar 05, 1995",male,unemployed,True,NO,False,beer,9,1.0
+f5a8a335781014f6,2019-03-24,South Barrington,IL,04.30.93,male,full-time,True,y,False,coffee,6,2.0
+1bcb4e92f1c01ee5,2019-07-28,Deer Park,IL,02.27.1991,male,unemployed,True,YES,False,coffee,12,0.0
+7a3ed6a9b318bf12,2019-11-20,Algonquin,IL,"Jun 28, 89",male,part-time,True,yes,False,beer,12,3.5
+97fb38bd59110137,2018-07-17,West Chicago,IL,Jan 01 79,female,retired,True,n,True,tea,12,0.5
+2692937a2cbf1677,2018-05-26,Hoffman Estates,IL,"04 22, 80",female,full-time,True,NO,True,tea,9,1.0
+a3efcc008faa0028,2018-04-19,Streamwood,IL,10.24.1973,female,full-time,True,I don't know,True,coffee,9,1.5
+47c86b658676bcbf,2018-04-12,Deer Park,IL,Sep 20 81,male,full-time,True,Yes,True,coffee,11,2.5
+3fdf373110ae661b,2019-01-06,Plainfield,IL,"Mar 25, 1992",male,full-time,True,YES,False,coffee,5,4.0
+5cbb8ece6e809bf8,2018-04-29,Romeoville,IL,07-16-71,male,retired,True,y,True,beer,8,5.0
+f13187e68c9fe2a0,2019-03-18,Bolingbrook,IL,"08 06, 92",male,part-time,True,nope,True,coffee,1,3.5
+ec6353d47c162124,2019-07-08,Yorkville,IL,09.29.91,female,unemployed,True,nah,False,coffee,10,1.5
+62166dd3f484b011,2018-01-29,Inverness,IL,1986-04-21,male,full-time,True,Yes,True,coffee,12,1.5
+d8bfafdfb3eec60d,2018-01-07,West Dundee,IL,"05 16, 83",male,full-time,True,YES,True,coffee,9,1.0
+3aae3e7fa2abc973,2018-05-20,Minooka,IL,"Feb 21, 1976",female,part-time,True,yes,True,coffee,9,2.0
+4109f326ae9c44a9,2019-03-05,Aurora,IL,"10 02, 86",male,unemployed,True,I don't know,True,beer,10,2.0
+122cd634ca340d25,2019-04-19,Barrington,IL,"08 04, 1991",female,student,True,ya,False,coffee,1,4.5
+46cb0656db870d63,2019-07-19,Plainfield,IL,05/02/84,female,student,True,Yes,True,wine,8,0.5
+f02e8c620671fc65,2019-12-08,Yorkville,IL,08-18-92,female,student,True,y,False,coffee,0,
+9363656c3ca29556,2018-09-12,Yorkville,IL,05/27/1986,male,unemployed,False,ya,True,coffee,1,4.0
+276ad290cca32e8d,2018-07-08,Mokena,IL,05/16/78,female,full-time,True,Yes,False,wine,4,2.0
+e3019d4342b35c69,2019-01-09,Inverness,IL,October 15 97,female,student,True,no,False,coffee,11,1.5
+b33a63c1474ff702,2018-05-28,Bolingbrook,IL,May 03 1967,female,retired,True,No,True,wine,2,0.5
+e307223fab3dcc79,2019-10-13,Wheaton,IL,December 31 91,female,full-time,True,No,False,coffee,0,
+278e8ff2a9a2fe3f,2018-01-18,West Chicago,IL,October 23 79,male,full-time,True,Yes,False,coffee,8,4.0
+001262225d8f7163,2019-02-18,Glen Ellyn,IL,03-25-1984,female,part-time,True,Yes,True,tea,1,3.5
+af9fdb0bebb349dd,2018-06-16,Willowbrook,IL,08.22.1973,female,full-time,True,Yes,True,water,0,
+3af7fc69d6ee72bb,2019-12-24,Batavia,IL,"06 10, 1985",male,full-time,False,yes,True,soda,2,5.0
+801fbea4455e3a1c,2019-05-20,Deer Park,IL,"Jul 02, 1987",male,student,True,no,True,coffee,4,4.5
+491b6f98f636ffc3,2019-07-05,Romeoville,IL,"Mar 21, 1993",male,student,True,Yes,True,beer,8,2.5
+1ecb5ad5646bdcb8,2019-04-01,Barrington,IL,07-18-89,male,unemployed,True,Yes,True,beer,6,1.5
+3a4d501224e938f2,2018-05-10,Inverness,IL,03-06-1978,female,retired,True,No,True,wine,11,4.0
+91690b324c9465d7,2019-08-25,Willowbrook,IL,02-09-1989,female,unemployed,True,No,True,water,1,2.0
+055c70d1ea4696bb,2019-01-29,West Dundee,IL,October 09 1988,male,full-time,True,Yes,True,beer,5,1.5
+db8473272215957e,2019-05-04,Naperville,IL,"Sep 07, 91",female,part-time,True,No,True,wine,0,
+2950753b9e9ed7d5,2018-11-28,Willowbrook,IL,"11 30, 81",male,part-time,True,no,True,coffee,0,
+26a5a0df0323c66a,2019-02-17,Willowbrook,IL,Sep 23 85,female,unemployed,True,I don't know,True,water,7,0.0
+ba2fce15bc66bddc,2018-10-28,Minooka,IL,"01 30, 79",male,part-time,True,yes,True,beer,1,4.5
+6929e64c2da2acc0,2018-02-12,Schaumburg,IL,07/12/1982,female,unemployed,True,No,True,coffee,9,3.5
+80afca4ce6a66b72,2018-08-30,Mokena,IL,August 01 87,male,student,False,y,False,beer,10,5.0
+44a838c8ab0d54d9,2018-08-11,Hoffman Estates,IL,Feb 08 76,male,student,True,Yes,True,coffee,6,0.5
+6adacfe603c8a910,2019-05-10,Glen Ellyn,IL,07-02-1981,female,full-time,True,Yes,False,coffee,4,1.0
+1fdaf4098048dcec,2018-03-06,Streamwood,IL,January 24 87,male,unemployed,True,yes,True,tea,2,3.0
+c7337d53d666a865,2018-07-15,Wheaton,IL,"Jun 23, 1983",male,part-time,True,yes,False,coffee,9,0.5
+093f76461ec135d3,2019-06-29,Bolingbrook,IL,Sep 04 88,female,full-time,True,no,False,wine,8,0.0
+906b96df324f7c58,2018-06-17,Naperville,IL,08/24/1979,female,full-time,True,NO,False,coffee,11,3.0
+3b24a30e41784941,2019-09-03,Aurora,IL,1989-02-06,female,full-time,True,no,True,tea,12,2.0
+8573908e890d7993,2019-09-25,Palatine,IL,01.20.85,male,full-time,True,n,False,coffee,5,4.0
+ba14a28effb2262c,2018-06-13,Aurora,IL,10.21.1974,male,full-time,True,n,False,coffee,7,0.0
+e1b0ee6c82c57adb,2018-06-09,Glen Ellyn,IL,"Sep 10, 1986",female,unemployed,False,ya,True,coffee,11,2.0
+7d8d3a3258f784c5,2019-11-21,West Dundee,IL,Oct 25 91,male,part-time,False,YES,False,beer,11,5.0
+3b582ad2ae8bc2d0,2018-03-08,Aurora,IL,03.05.82,male,student,False,ya,False,coffee,9,2.0
+1ee7570040276f8a,2018-11-24,Romeoville,IL,12.18.74,female,unemployed,True,YES,True,coffee,1,2.5
+f213b657cb38a2da,2018-08-29,Mokena,IL,"08 03, 1979",female,full-time,True,yes,False,wine,6,0.5
+6d233a2d2346c7e1,2018-02-13,Elgin,IL,Dec 28 1980,female,retired,True,NO,False,coffee,0,
+8e9e3600791cdb5f,2018-10-19,Algonquin,IL,"12 01, 1981",male,retired,True,n,True,coffee,4,1.5
+7d9eb62f0d098150,2019-11-22,Warrenville,IL,"May 16, 93",female,full-time,True,yup,False,coffee,0,
+68ae053f51c39b00,2019-06-24,Plainfield,IL,02-15-1992,male,full-time,True,NO,True,coffee,9,1.5
+b332fd6d119685df,2018-11-05,Naperville,IL,12.10.78,male,part-time,True,y,True,coffee,9,4.0
+cfc68227c5aca49e,2019-12-03,West Chicago,IL,"Apr 09, 1994",female,student,True,No,False,coffee,1,2.5
+fafe4068cc16a4c8,2019-02-16,Aurora,IL,"06 24, 1992",male,student,True,y,True,coffee,0,
+69c9c08864435973,2019-07-17,Minooka,IL,Sep 07 93,male,unemployed,True,Yes,True,beer,7,2.5
+ed9c064e58a6872f,2019-06-15,St. Charles,IL,March 27 1995,female,part-time,True,YES,False,coffee,1,4.5
+a37356408c28cb0c,2019-08-30,Bolingbrook,IL,"03 13, 91",female,student,True,yes,False,coffee,2,3.0
+285a9b7d3940c2ec,2018-11-20,Schaumburg,IL,Aug 30 1974,male,full-time,True,Yes,True,beer,8,2.5
+09348394a23911df,2018-06-26,Deer Park,IL,February 03 72,female,full-time,True,y,True,coffee,1,1.5
+80f23681d8d8bce3,2019-04-10,Hoffman Estates,IL,"12 21, 88",female,full-time,True,ya,True,coffee,9,5.0
+1c995edcf8c41eef,2019-12-13,Carol Stream,IL,April 14 86,female,part-time,True,yup,False,coffee,0,
+8964798c22c94a1e,2018-07-10,Glen Ellyn,IL,"03 17, 74",male,full-time,False,yup,True,coffee,3,4.0
+acef7f463d138e9f,2019-05-17,Willowbrook,IL,01/08/87,male,full-time,True,YES,True,coffee,7,3.5
+c5f47f37d518bc71,2019-10-25,Schaumburg,IL,07-13-89,female,full-time,True,yup,False,soda,5,1.0
+58914d433a7f2ec4,2019-02-11,Schaumburg,IL,Feb 20 91,female,full-time,True,Yes,False,coffee,10,0.5
+ec1b0023ac7a354d,2018-10-10,Hoffman Estates,IL,1982-03-08,male,full-time,True,yes,True,coffee,4,0.5
+83fcfaab702c237d,2019-03-30,Yorkville,IL,"Nov 24, 93",male,student,False,ya,False,beer,8,1.5
+719277bd62821eca,2018-06-02,Inverness,IL,04.23.1980,female,part-time,True,no,True,coffee,8,1.5
+ee941e8b7227be51,2019-04-05,Batavia,IL,04/13/1995,male,student,True,I don't know,False,beer,11,0.0
+1d8cb0eb19b42e2d,2019-08-05,Aurora,IL,1992-08-07,female,full-time,True,nope,False,coffee,12,4.5
+dc3113548a05cc7a,2019-02-15,Bolingbrook,IL,01.12.90,female,full-time,True,y,False,wine,12,5.0
+9fda1d60781c566b,2019-11-05,Inverness,IL,"Jul 13, 95",female,full-time,True,n,True,wine,9,5.0
+1ff0e7539d09efe6,2018-08-14,Naperville,IL,11.19.1983,female,student,True,I don't know,True,coffee,10,5.0
+18667348ca127e0c,2018-09-21,Aurora,IL,July 02 1974,male,retired,True,No,True,tea,4,0.0
+607def7e1f4c19d0,2018-12-16,St. Charles,IL,July 23 1987,male,student,True,No,True,coffee,7,0.5
+fd259ebab4e79067,2019-07-18,Mokena,IL,October 23 1988,female,full-time,True,YES,False,coffee,10,3.0
+8cc46086f4dfca9b,2019-02-28,Naperville,IL,02.01.87,female,part-time,False,No,True,water,7,3.5
+ba5ed56e9e89e857,2018-09-19,Batavia,IL,Aug 04 77,male,retired,True,y,True,coffee,12,3.0
+a033c418b15bc00b,2019-06-16,Barrington,IL,1993-05-02,female,full-time,True,yes,True,coffee,7,5.0
+79f3a76de2512435,2019-09-10,Naperville,IL,10-03-1982,male,full-time,False,Yes,False,soda,5,2.5
+7da731a4fd4be0a1,2018-01-18,Mokena,IL,06/28/79,female,full-time,True,ya,True,wine,4,2.5
+9a06731bf0585ba2,2018-10-22,Mokena,IL,01-15-73,male,unemployed,True,Yes,True,coffee,3,0.5
+2bfb6d0769708074,2018-03-25,Bolingbrook,IL,07/17/1981,female,full-time,True,Yes,True,coffee,11,0.0
+637d3f983ad428d9,2018-01-18,Palatine,IL,08.11.69,female,full-time,True,Yes,True,soda,12,0.5
+6a2fe69483aae072,2019-09-21,Schaumburg,IL,"12 12, 1993",male,unemployed,True,No,False,soda,9,1.0
+f61a2937d02f53cb,2018-03-15,Mokena,IL,1979-08-05,female,full-time,True,nope,True,coffee,12,4.0
+dbc2daaa9fe30a60,2019-05-30,Barrington,IL,July 30 1988,female,full-time,False,yup,True,coffee,11,4.5
+06f5efb9200fc71c,2019-05-06,Wheaton,IL,April 09 1983,male,full-time,True,Yes,True,beer,2,2.5
+38f975ae558c6856,2018-07-03,Oswego,IL,02-20-76,female,student,True,NO,True,coffee,7,1.0
+4ae8b61e7fc15c7a,2018-07-01,Carol Stream,IL,"09 19, 77",male,unemployed,True,yup,False,coffee,11,5.0
+73647ae08733c6f8,2018-09-30,Mundelein,IL,03/06/78,male,full-time,True,yes,True,soda,1,0.0
+f2d9cb15fc684b89,2019-08-05,Mokena,IL,10-26-1988,female,full-time,False,nope,False,wine,11,2.0
+4c5c4dba52dbcd01,2019-10-08,Willowbrook,IL,May 21 1990,female,full-time,True,ya,False,coffee,2,5.0
+72b566a825c2be0f,2018-01-14,Batavia,IL,11/29/1976,male,retired,True,Yes,False,beer,11,5.0
+2e1dfa8cc366fc36,2018-04-08,Schaumburg,IL,"10 08, 1980",female,full-time,False,I don't know,True,coffee,12,4.0
+cde29c9e307fd618,2018-08-17,Batavia,IL,09-10-1989,female,full-time,True,no,False,coffee,6,3.0
+90d3b6ae2a788a90,2018-07-08,St. Charles,IL,"Mar 10, 83",female,full-time,True,nope,True,coffee,11,2.0
+e651988ca4d636b1,2019-04-06,Barrington,IL,"Dec 20, 83",female,full-time,True,yes,True,coffee,7,2.5
+1c3db88ad7d69f75,2019-08-28,Naperville,IL,Mar 23 1992,female,unemployed,True,No,False,coffee,11,4.5
+330af5c80f997879,2018-05-28,Batavia,IL,Jun 29 1964,female,full-time,True,Yes,False,coffee,5,5.0
+dbfd50ad64584037,2019-05-06,Schaumburg,IL,04/11/88,male,retired,True,ya,False,beer,8,1.0
+64f0404c092343f7,2019-12-29,West Dundee,IL,03-23-1989,male,full-time,True,yup,False,coffee,5,1.0
+19a481acbbb77a20,2018-12-18,Romeoville,IL,"Nov 19, 1967",female,part-time,True,nope,False,coffee,4,2.5
+1cae696309326ad8,2019-11-07,Carol Stream,IL,"Nov 12, 1989",male,student,True,Yes,True,beer,2,4.5
+8d74fc55921fd9f6,2019-06-12,Willowbrook,IL,04-30-89,female,full-time,True,Yes,True,wine,1,0.5
+831ed366c8fdddd8,2018-01-09,Mokena,IL,Nov 27 1976,male,full-time,True,y,True,water,7,5.0
+9b54879308e2f350,2019-06-11,Streamwood,IL,"May 19, 1989",female,full-time,True,Yes,True,water,2,0.5
+2f56697de3258de0,2019-02-16,Deer Park,IL,Aug 13 82,male,part-time,True,n,True,coffee,12,4.0
+f6c5010a2b4e6581,2018-08-19,West Chicago,IL,02-28-83,male,full-time,True,I don't know,True,beer,4,5.0
+f7c1d7793927d260,2019-07-22,Plainfield,IL,"May 26, 90",female,full-time,True,YES,False,tea,12,4.0
+8d8c3c3202be26a8,2019-02-23,West Dundee,IL,"Dec 31, 90",female,full-time,True,yes,False,wine,9,2.0
+4f233b02b8ad28d1,2019-04-05,Inverness,IL,Apr 09 87,male,full-time,True,nah,True,coffee,6,3.0
+21fd415857d0edd3,2019-03-16,Barrington,IL,July 14 1981,female,part-time,True,yup,True,tea,9,4.0
+569c7843f28d51c0,2018-08-25,Streamwood,IL,"Dec 03, 75",male,full-time,True,ya,False,beer,9,0.5
+6101f10d20cee5ba,2019-08-27,West Chicago,IL,"10 21, 1993",female,student,False,Yes,False,wine,7,4.0
+1d4dd33ed920d15c,2019-10-30,Oswego,IL,August 20 1988,male,full-time,True,Yes,True,coffee,9,5.0
+60f6340fc9ef8527,2019-08-16,Mokena,IL,Nov 03 1990,female,unemployed,True,Yes,False,tea,1,3.5
+7d1ede406ad136ba,2018-02-17,Aurora,IL,01.22.74,female,full-time,True,YES,False,coffee,3,2.5
+09587005019a8294,2019-11-19,South Barrington,IL,Apr 10 1988,male,full-time,True,No,False,beer,6,0.0
+724cf883c54ed1a2,2018-01-02,Palatine,IL,"Jul 31, 75",male,full-time,False,No,True,coffee,11,4.0
+8971206c35324864,2019-11-20,Warrenville,IL,"Dec 14, 88",female,unemployed,True,Yes,True,tea,5,3.5
+c4a586980c4a77a3,2018-08-07,Barrington,IL,December 15 1981,female,full-time,True,yes,False,coffee,5,1.0
+9a36a7fb607fbf19,2019-01-29,Glen Ellyn,IL,"07 26, 1988",female,unemployed,True,I don't know,True,wine,6,5.0
+8867ccb4a63112a7,2018-09-23,Minooka,IL,"Sep 18, 1976",female,unemployed,True,y,True,water,9,0.0
+8dc01341030f6b97,2019-05-17,Aurora,IL,May 04 1983,female,full-time,True,Yes,True,coffee,9,0.5
+62ced1f0f3aaa5d9,2019-07-31,Warrenville,IL,"09 18, 88",female,student,True,yes,False,coffee,10,0.5
+691305ddd5eae325,2019-01-24,Barrington,IL,Nov 04 1991,female,unemployed,True,yes,True,coffee,11,4.0
+b775abcf9304bb26,2019-05-08,Elgin,IL,04.01.89,female,full-time,True,no,True,coffee,8,4.0
+b5d572d79e6f6234,2019-05-27,West Dundee,IL,10-10-96,female,full-time,True,no,False,coffee,1,3.5
+cc56fa9b7fa39b5c,2018-07-13,Inverness,IL,April 24 1979,female,unemployed,True,No,False,water,0,
+e2661b6618c35b34,2019-05-31,West Chicago,IL,05-16-1984,male,full-time,True,y,True,soda,8,2.0
+8db47f3d49b93f04,2019-09-06,Aurora,IL,04.12.97,male,unemployed,True,No,False,beer,8,1.0
+11799be6b0d47b23,2019-09-03,Chicago,IL,"Oct 02, 87",female,part-time,False,nope,False,water,2,4.5
+02b677d8e9cc3d06,2019-07-08,Aurora,IL,May 14 86,male,unemployed,True,y,True,coffee,2,4.0
+4ebde25bbd0e2a91,2018-03-19,Mundelein,IL,"Nov 09, 78",female,full-time,True,Yes,True,coffee,5,1.5
+ec71364811634331,2019-12-10,Warrenville,IL,Mar 03 94,female,retired,False,NO,False,coffee,2,0.0
+e3ba1b2a8f0396cd,2019-01-27,Deer Park,IL,"Mar 08, 1990",female,full-time,False,yes,False,tea,12,3.5
+81d8e1373faaf593,2019-08-23,Mundelein,IL,Jan 06 1989,female,full-time,False,y,False,wine,5,4.0
+0002c1ccccbf28d7,2019-07-09,Wheaton,IL,Mar 12 1990,female,full-time,True,ya,False,coffee,7,4.5
+536844ffc4e70991,2019-01-13,Aurora,IL,03.02.1988,male,unemployed,True,No,True,coffee,3,2.5
+4392a654d7670b46,2019-08-15,Deer Park,IL,1983-03-04,male,unemployed,False,y,True,soda,7,4.5
+0fe79948a91fb955,2018-03-11,Aurora,IL,"Apr 21, 1976",male,unemployed,True,YES,True,coffee,9,1.0
+cd23a93c50000348,2019-04-22,Oswego,IL,Jan 14 89,female,part-time,True,yup,True,wine,10,3.5
+8f148ad13e40a4b1,2019-05-29,Mokena,IL,May 06 1984,female,student,True,No,False,coffee,6,5.0
+b363650d75b69437,2018-02-13,Streamwood,IL,Nov 22 80,female,part-time,True,I don't know,True,wine,3,2.5
+5036e0bb3172d124,2019-02-22,Batavia,IL,1978-09-11,male,full-time,False,n,True,coffee,11,3.0
+4e7650d61c0c199b,2018-02-23,Streamwood,IL,1977-10-22,female,full-time,True,Yes,True,water,9,0.0
+683df1933d6bd760,2019-02-22,Inverness,IL,"Aug 23, 84",male,part-time,True,yes,False,beer,3,0.0
+3deee01b0531386f,2018-02-16,Batavia,IL,05.18.1983,male,unemployed,True,Yes,True,beer,4,2.0
+a78e16411e53b0b4,2019-11-15,Yorkville,IL,09/21/85,female,unemployed,False,No,True,water,6,1.0
+dc6dcfd9a6517a61,2018-12-02,Mundelein,IL,02.03.1982,female,full-time,True,YES,True,coffee,0,
+1324af8e370302eb,2018-07-01,Glen Ellyn,IL,"03 08, 73",female,retired,False,yes,False,coffee,4,3.5
+0db19b5745d43a4e,2019-05-18,Algonquin,IL,01/11/90,male,student,True,yup,False,beer,5,5.0
+d1ed8ba1166c039f,2019-02-24,Naperville,IL,03.09.1990,male,part-time,True,Yes,False,soda,4,5.0
+ec8b6563cdcbb333,2019-01-21,Schaumburg,IL,Jun 04 1990,male,unemployed,True,I don't know,False,coffee,8,2.5
+3cd445d2e41c80a4,2018-01-29,Schaumburg,IL,03.02.1976,female,full-time,True,ya,True,tea,5,3.0
+0730dc44dd89b6a6,2018-05-23,Minooka,IL,1975-06-30,male,full-time,True,yup,True,beer,5,0.5
+6c8b670f394078a9,2019-12-11,South Barrington,IL,"06 26, 1992",male,part-time,True,Yes,False,coffee,1,1.0
+9abf755bc3798eb4,2018-07-26,St. Charles,IL,01/12/1981,male,part-time,True,Yes,True,soda,7,2.5
+afe48419937bf359,2018-03-13,Streamwood,IL,05/19/1973,male,part-time,True,yes,True,soda,7,0.5
+79f4f3d0837a1689,2018-12-09,Yorkville,IL,July 23 1972,female,part-time,True,y,False,water,9,0.5
+672af17a313ce117,2018-08-24,Schaumburg,IL,11/24/1972,male,full-time,False,ya,True,soda,7,2.0
+9f3ce5924c31ea1c,2018-06-27,Willowbrook,IL,08/11/84,male,retired,True,no,True,water,5,4.5
+7c3e65f59fa27f10,2019-03-04,Naperville,IL,October 29 91,male,retired,True,YES,True,coffee,1,0.0
+0694a2efa602ff61,2018-04-11,Glen Ellyn,IL,09.05.64,female,part-time,True,Yes,False,coffee,1,4.0
+7bf1c050db6b99e9,2019-10-27,Aurora,IL,"05 23, 85",male,part-time,True,Yes,False,coffee,12,3.5
+37d5904c52a0643f,2018-10-31,Plainfield,IL,"May 16, 1982",male,full-time,True,dunno,True,coffee,0,
+fa28b1826f7e5095,2019-02-24,West Dundee,IL,04-17-1989,female,retired,True,No,False,coffee,12,0.5
+95656e4e1deaf471,2019-01-22,Batavia,IL,Feb 18 92,female,full-time,True,nope,True,water,6,0.5
+c111eb2586126754,2019-11-16,Plainfield,IL,"Feb 04, 88",female,part-time,True,y,True,coffee,1,0.5
+8c27b59f209f7fb7,2018-05-28,Naperville,IL,"03 13, 1984",female,full-time,False,Yes,False,wine,8,2.0
+00ea47247b1e6656,2019-02-08,Naperville,IL,12.18.86,female,unemployed,True,yes,True,coffee,3,3.0
+480a1683d15495f9,2019-11-13,Streamwood,IL,"04 06, 95",male,student,False,yes,False,beer,7,5.0
+6d2ca76b31c5873c,2018-08-01,Batavia,IL,"12 23, 84",female,part-time,True,no,True,soda,3,0.0
+a7f574bb7e35606d,2018-11-09,Bolingbrook,IL,"09 14, 74",male,full-time,True,Yes,False,beer,12,0.5
+cbd1c137ada6bdcc,2018-04-01,Minooka,IL,"12 15, 1977",female,student,True,ya,True,coffee,8,1.0
+e31ae72afdb34734,2018-07-24,St. Charles,IL,Aug 25 79,male,part-time,True,NO,False,soda,2,3.0
+8ec349bd9cfe1dac,2019-09-19,Mokena,IL,"08 30, 90",male,student,True,YES,False,coffee,3,1.5
+dbeacd8654f55c69,2018-12-18,Glen Ellyn,IL,12.29.75,male,student,True,NO,True,coffee,6,0.0
+62de75b3487f822e,2018-07-08,Willowbrook,IL,08-21-1984,male,full-time,True,Yes,True,coffee,6,2.0
+451393121677cf52,2018-06-14,Hoffman Estates,IL,08.13.82,female,full-time,False,yes,True,coffee,12,1.5
+c0e98ffdfa30f9e5,2018-04-03,Hoffman Estates,IL,07.21.75,female,part-time,True,Yes,True,coffee,10,0.5
+ef867be59b2e3031,2019-09-18,Elgin,IL,March 22 1998,male,student,False,ya,False,coffee,12,0.5
+fc92f88aaee68140,2019-02-19,Plainfield,IL,06/09/1983,male,part-time,True,NO,True,beer,11,3.5
+371b848b26dce8f8,2018-12-13,Chicago,IL,"01 22, 1979",female,student,False,yup,False,coffee,6,3.0
+f8447565f83ac301,2019-11-28,Bolingbrook,IL,11.05.1992,female,unemployed,True,y,False,coffee,1,0.0
+b30adf605c84ea40,2018-09-14,Bolingbrook,IL,02/23/1972,female,full-time,True,YES,False,water,10,1.5
+a73b1c7a2c9a420e,2018-10-29,South Barrington,IL,Feb 03 81,male,retired,True,nah,True,coffee,7,4.0
+4181ea1bdede8050,2018-09-08,West Chicago,IL,10-09-1971,male,unemployed,True,yup,True,coffee,11,2.5
+a7e58618ecd17d77,2018-08-01,Aurora,IL,08.19.1987,female,full-time,True,n,False,coffee,9,3.5
+fe39725d7c23202a,2019-11-08,Carol Stream,IL,1988-04-21,female,unemployed,True,YES,False,water,8,5.0
+4544b44a5e81c139,2018-03-17,Elgin,IL,"Oct 01, 79",female,part-time,True,yes,False,coffee,6,4.0
+c423df2497d09eca,2018-03-15,Streamwood,IL,06.23.72,male,part-time,False,y,True,beer,6,4.0
+e4b0c947c7abf9ad,2019-08-06,West Chicago,IL,1990-04-23,male,part-time,True,ya,True,coffee,11,0.5
+8328df5f9f1dcf98,2019-10-10,Inverness,IL,1990-03-21,male,retired,True,no,False,beer,8,3.5
+099d4bf47ef7eeba,2018-02-23,Willowbrook,IL,08-02-74,female,full-time,True,no,True,water,4,2.0
+d7b002cbfdc8199b,2019-05-18,Elgin,IL,November 08 1993,female,full-time,True,n,False,coffee,6,4.0
+70815e0f196144f0,2019-12-09,Aurora,IL,"06 04, 1987",male,student,True,yup,True,beer,12,3.5
+ae20921a774085cd,2018-05-27,West Dundee,IL,01/07/81,female,part-time,True,Yes,True,wine,12,1.0
+88d13d8450f4ae9d,2019-09-02,Romeoville,IL,Apr 10 1986,female,student,True,ya,False,coffee,7,1.0
+9bf6eb41e25f7181,2018-02-22,St. Charles,IL,"07 16, 81",male,full-time,True,yes,True,beer,7,4.0
+dc06f3956964659a,2018-01-01,Glen Ellyn,IL,Jan 28 83,female,full-time,True,Yes,False,coffee,6,2.0
+dd7e94c70d009190,2019-04-04,Aurora,IL,07.13.91,male,student,True,y,False,soda,5,0.0
+0f2bb9f3cefb87c8,2019-02-15,Elgin,IL,05-17-1992,female,full-time,True,yes,False,coffee,2,2.5
+6f4323b2687755c2,2019-07-30,Palatine,IL,10-19-87,female,unemployed,True,nope,False,tea,0,
+86852da01fe4b41a,2018-01-11,Aurora,IL,02.05.1972,female,part-time,True,yes,False,tea,8,4.0
+91c0d177c31e8ea5,2019-04-02,Bolingbrook,IL,03/31/97,female,full-time,True,Yes,False,water,2,2.5
+5bb538ed418283f7,2018-08-12,Batavia,IL,09.20.1975,male,part-time,True,nah,False,coffee,3,1.0
+eb78c76b180c96da,2019-07-29,Aurora,IL,08/05/88,female,full-time,True,no,True,tea,3,5.0
+20e6233e76a2dd41,2019-04-16,Glen Ellyn,IL,"Jan 07, 1986",male,part-time,True,nah,True,coffee,12,2.5
+90f31cce5ae01876,2019-08-11,Plainfield,IL,Dec 21 90,female,full-time,True,No,True,coffee,7,3.5
+7b1b907d8621c19b,2019-02-11,West Chicago,IL,03-01-1990,male,part-time,True,ya,False,beer,6,2.0
+e47308a55018c843,2019-03-07,Yorkville,IL,"05 21, 85",male,part-time,False,nope,True,soda,6,1.0
+b96838423187684e,2019-07-27,Schaumburg,IL,"May 15, 1993",male,student,True,No,False,coffee,12,0.5
+0525f63c70c84fb6,2018-10-06,Plainfield,IL,04/11/75,female,part-time,True,No,True,coffee,4,4.0
+c768d8babf5e0393,2018-02-15,South Barrington,IL,Aug 24 80,female,full-time,True,yes,False,water,9,5.0
+3ebd933b35227fd4,2018-05-30,West Dundee,IL,11-05-1982,female,ful-time,True,no,False,coffee,6,2.5
+e233121d1a6b59d9,2019-12-28,Warrenville,IL,01.08.87,male,student,True,Yes,True,beer,9,4.5
+2b09143727568a50,2019-03-09,Mokena,IL,Dec 20 84,male,full-time,False,ya,False,soda,3,3.5
+fbd42a793e178b79,2018-05-06,South Barrington,IL,10.03.1980,female,full-time,False,YES,True,tea,5,3.5
+3e1e4787b7fc92aa,2018-12-28,West Dundee,IL,10-19-75,female,full-time,True,yes,True,wine,6,1.5
+7b3089566ce900f2,2018-03-01,Mokena,IL,Jan 28 1978,female,part-time,True,No,False,water,0,
+ff1264a694238e48,2018-07-04,Plainfield,IL,02.14.1979,male,student,False,YES,True,beer,2,0.0
+838fa4f866f138df,2019-03-28,West Dundee,IL,01.30.93,male,full-time,True,y,True,soda,5,3.0
+72e7a957abc918d2,2018-09-21,Palatine,IL,12-10-1976,female,part-time,True,I don't know,False,wine,12,2.0
+8e7e5df88f0d1e72,2019-12-24,Yorkville,IL,August 28 1997,male,student,True,nope,False,coffee,6,1.0
+07cf4b1447900ea9,2018-01-01,Elgin,IL,11.20.79,female,unemployed,True,y,True,wine,4,1.0
+1791aeab80d5f069,2018-09-05,Wheaton,IL,"04 06, 1983",male,retired,True,YES,True,wine,9,0.5
+39ac7ec6d44f361a,2019-11-15,Minooka,IL,01.11.93,male,full-time,True,yes,False,soda,8,1.5
+729dfb3a173d7bab,2018-07-22,Glen Ellyn,IL,04-02-75,male,full-time,True,YES,False,beer,10,2.5
+ad8c0c5d4e1112a7,2018-08-06,Wheaton,IL,1974-11-22,female,unemployed,True,y,True,coffee,4,4.5
+bc96bbe07e727c69,2018-09-19,West Chicago,IL,07.30.1986,male,unemployed,False,nope,True,coffee,8,1.5
+0278f8ff3edd49f5,2019-07-29,Algonquin,IL,June 27 1991,female,full-time,True,yes,True,wine,0,
+be3890e334e71d06,2018-08-03,Glen Ellyn,IL,"Oct 16, 1982",female,part-time,True,yes,True,water,11,1.0
+cab8aaf47c1215e2,2018-06-15,Inverness,IL,Nov 08 74,female,full-time,True,yes,False,water,2,4.5
+248b6c7ba739331d,2019-05-16,Mundelein,IL,Feb 02 1989,male,unemployed,True,yup,False,soda,11,2.5
+7bef8eddd2821cc6,2018-11-30,Elgin,IL,"Dec 03, 77",male,part-time,True,Yes,False,soda,12,2.5
+9ed13f817f3c1bed,2018-03-07,Willowbrook,IL,Apr 26 1985,female,student,True,n,True,coffee,2,1.5
+797f8f53f28f8c5b,2019-12-14,Mundelein,IL,02.20.90,female,student,True,nah,False,water,10,1.5
+641a37025f0fdc98,2018-01-20,Minooka,IL,07/11/1981,female,full-time,True,YES,False,coffee,11,3.5
+5efe6428b64c434a,2019-12-29,South Barrington,IL,08-05-1981,female,part-time,False,ya,True,water,0,
+3c7613b08cbc7006,2019-07-26,Inverness,IL,10-26-1987,female,part-time,True,Yes,False,wine,3,2.0
+0d72cae70d937733,2018-04-07,Batavia,IL,"May 19, 1976",male,full-time,True,nah,False,coffee,4,2.0
+b667e70bb5286bc1,2019-03-25,Oswego,IL,08.29.89,male,full-time,True,y,False,coffee,1,0.5
+50dc431e36e6e57c,2018-05-11,Willowbrook,IL,04/13/70,male,full-time,True,No,True,coffee,8,0.0
+dacbc8f8f825ab56,2019-10-15,Naperville,IL,"May 19, 84",female,full-time,True,ya,True,wine,4,0.5
+f950e2f907803948,2018-05-01,Glen Ellyn,IL,12-28-1986,female,student,False,No,True,water,3,0.5
+c3322fa2282205eb,2019-02-15,Chicago,IL,Sep 17 90,male,student,False,No,False,beer,1,1.0
+6313341917e027cf,2019-07-02,Chicago,IL,"Dec 16, 1990",female,unemployed,True,I don't know,True,tea,9,0.5
+7ee072795609e511,2019-03-30,Wheaton,IL,11/28/1997,male,student,False,no,False,coffee,9,0.0
+6a9642e05a39d57e,2018-12-11,Naperville,IL,Apr 23 77,male,part-time,True,yes,False,coffee,4,1.0
+1190e3c6082215e6,2019-08-13,Elgin,IL,"Mar 16, 93",male,full-time,True,I don't know,False,tea,10,4.0
+00f9715145cfe840,2019-01-29,Schaumburg,IL,03-30-91,male,full-time,True,yup,False,soda,3,3.0
+26f6f6d2f3d82eef,2019-06-06,Oswego,IL,10.06.1990,male,full-time,True,n,False,coffee,8,3.5
+f738299b84c62ca5,2018-06-28,Wheaton,IL,02-20-73,female,part-time,True,nope,False,coffee,12,3.5
+8002ec1d9e7109cc,2019-05-30,Oswego,IL,"06 27, 82",female,full-time,True,yes,False,coffee,7,4.0
+c6cf10d58df5c8ca,2019-08-24,South Barrington,IL,"08 07, 88",female,unemployed,True,no,True,beer,2,3.5
+4972f94aff8974f0,2019-01-05,St. Charles,IL,05.14.94,female,student,True,YES,False,coffee,11,4.5
+926351b86b8e6503,2019-05-09,Romeoville,IL,09/21/90,female,student,True,yup,False,coffee,1,3.0
+fd2b525fc9058b41,2019-09-02,St. Charles,IL,10.27.81,female,part-time,True,YES,False,tea,4,4.5
+76c39bb369cd7f8f,2019-10-08,Aurora,IL,April 15 1986,female,full-time,True,yes,True,wine,4,4.5
+baa91f25b3f6dbd6,2018-12-02,Chicago,IL,1984-12-14,female,full-time,False,YES,True,water,8,5.0
+ed9d80f2f7b4b028,2018-07-24,Chicago,IL,May 26 1970,female,part-time,False,Yes,True,coffee,9,3.5
+ceb9758dd0f583bf,2018-11-12,Carol Stream,IL,06/04/74,female,full-time,True,YES,False,coffee,5,5.0
+58b61b6f72d9f3d9,2019-01-31,Algonquin,IL,04-07-1993,male,student,True,yup,False,coffee,4,2.5
+0c1433d3c8739522,2019-04-22,Minooka,IL,09.05.93,male,unemployed,True,yes,False,beer,3,3.5
+b1c8ea93d51074b1,2019-01-04,Warrenville,IL,06.05.89,male,part-time,True,n,True,soda,5,0.5
+c02ee52ac878ffbe,2019-09-25,Streamwood,IL,12-31-89,male,unemployed,True,No,False,soda,12,1.0
+841e1d22d08615c0,2018-05-22,Yorkville,IL,July 20 68,female,part-time,True,yes,True,coffee,3,0.5
+34466696cd763a00,2018-03-13,Hoffman Estates,IL,05.26.1968,female,student,True,yup,True,soda,10,4.5
+11ae6d99843fdf26,2019-08-02,Yorkville,IL,Jun 16 1995,male,full-time,True,dunno,False,coffee,10,4.5
+24147e063694314a,2019-12-01,Romeoville,IL,08.17.1990,female,unemployed,True,No,False,coffee,10,3.5
+4112595ea5b94128,2019-07-25,Mokena,IL,Nov 25 1988,female,part-time,False,yes,False,coffee,9,2.0
+256fdb8bf35de311,2019-09-26,Elgin,IL,1985-11-12,female,student,True,Yes,True,wine,9,4.5
+67335c2473d685a9,2018-10-30,Oswego,IL,03/07/83,female,part-time,True,Yes,False,coffee,2,2.0
+074caf444bfd2f14,2019-02-17,Schaumburg,IL,"Apr 22, 88",male,retired,True,ya,True,beer,9,0.0
+50b669e14cd984d8,2019-11-26,Palatine,IL,September 16 1982,female,retired,True,Yes,True,coffee,12,1.0
+f61cf737c6b784b8,2018-08-09,West Dundee,IL,Feb 24 1978,male,full-time,True,Yes,False,coffee,3,1.5
+6568ddde3b044223,2018-09-07,Warrenville,IL,03-11-1972,female,part-time,False,n,True,wine,0,
+069b4a2fb79efd5f,2018-08-12,Plainfield,IL,"08 26, 1975",female,unemployed,True,NO,True,coffee,11,2.0
+5cfdf54f70b9cf5c,2018-10-03,Glen Ellyn,IL,Dec 25 1969,female,full-time,True,yes,False,water,8,0.5
+e0d269d8f8a78564,2018-02-23,Algonquin,IL,12.29.85,male,full-time,True,YES,True,beer,2,1.0
+2852efaaeb8ae70a,2019-10-16,Glen Ellyn,IL,"Dec 01, 1989",female,full-time,True,no,False,coffee,6,2.0
+6a1b2556349a5c73,2019-10-03,Mundelein,IL,Apr 29 92,male,unemployed,True,nope,False,soda,0,
+b3eb8fdf2522bb2a,2019-05-21,Schaumburg,IL,"05 24, 87",female,student,True,Yes,True,water,0,
+c7103c7d75fd7d3b,2018-04-18,Naperville,IL,08.21.1972,female,unemployed,True,yup,True,coffee,7,0.5
+809b9f4ba120fee2,2019-08-25,Algonquin,IL,"02 27, 94",female,student,True,Yes,False,coffee,8,0.0
+9832f1bc1d6b7945,2018-06-02,Carol Stream,IL,1985-08-28,female,full-time,True,no,False,coffee,10,5.0
+0ee798fa5c1aa7c3,2019-12-23,Carol Stream,IL,August 16 85,female,student,True,Yes,False,coffee,5,2.5
+3141946a36e9f291,2019-04-21,Palatine,IL,03/12/1991,male,full-time,False,yup,False,beer,0,
+1b87c315763f7c75,2018-02-02,Minooka,IL,10.13.1971,female,part-time,True,No,False,wine,3,3.5
+a6b08d17e1f12d6e,2019-03-16,Mokena,IL,April 30 90,male,unemployed,True,yup,True,beer,9,3.5
+ee4cc6f46c447cac,2019-04-30,Naperville,IL,Jan 14 94,female,unemployed,True,I don't know,False,coffee,7,2.0
+3fd9b71e60c087e1,2019-06-17,Oswego,IL,"10 25, 82",male,student,True,Yes,True,soda,1,4.0
+7f75d8e22a60867b,2019-09-20,Mokena,IL,October 26 1990,female,part-time,True,YES,False,wine,3,1.0
+9e0b73c3c31b67c5,2018-10-16,Bolingbrook,IL,06.02.1982,female,full-time,True,Yes,True,coffee,3,1.0
+f18dd0f482d03179,2019-10-28,Romeoville,IL,Mar 03 91,female,full-time,True,no,False,coffee,6,2.0
+233640d46197c774,2019-08-02,South Barrington,IL,12.16.90,female,unemployed,True,No,False,coffee,6,0.0
+b7397f2340ee544f,2019-02-25,St. Charles,IL,06-22-1987,female,unemployed,True,YES,True,coffee,12,5.0
+bd93a0cdcb26b24e,2018-08-08,St. Charles,IL,12-12-1990,male,part-time,True,Yes,False,coffee,2,4.5
+c65c2fc347984a18,2019-07-13,Algonquin,IL,06.23.1991,female,unemployed,True,yes,False,wine,9,4.5
+f9f1e537ae4bfb10,2019-09-15,Hoffman Estates,IL,October 31 92,male,part-time,True,ya,True,beer,11,4.0
+cc0170b4c68b35aa,2019-12-16,Barrington,IL,Jan 29 96,male,unemployed,True,y,False,beer,8,1.0
+bd754f33409d781c,2018-05-18,Mokena,IL,"Apr 17, 71",female,full-time,True,No,True,beer,4,4.5
+ce4ca077ee09a558,2019-09-07,Batavia,IL,1990-10-05,female,part-time,True,yes,False,coffee,12,3.0
+86c6415e67b8dc4d,2018-01-13,Yorkville,IL,"Oct 21, 1978",female,full-time,True,ya,True,coffee,9,3.5
+5c3392ffb24fe958,2019-06-20,Mokena,IL,"01 26, 89",male,unemployed,True,Yes,False,beer,2,4.0
+d3a0fb91d908c29c,2019-01-15,Barrington,IL,Jun 08 1991,male,student,True,nah,True,beer,10,0.5
+b3a1e208460cf70b,2019-06-10,Naperville,IL,"12 01, 85",female,full-time,True,NO,True,water,3,2.5
+7f5b0e4c6e9ee8a8,2019-11-19,Elgin,IL,December 25 1989,female,part-time,True,YES,False,coffee,9,0.0
+733c8e9c7e40af7c,2019-09-19,Mundelein,IL,Feb 01 1994,male,student,True,Yes,False,coffee,2,3.5
+49698ce57affcb6a,2018-05-25,Schaumburg,IL,01.22.83,male,part-time,True,yes,True,coffee,1,4.0
+644dd8329de581e7,2019-09-19,Inverness,IL,12-28-1982,female,unemployed,True,y,False,wine,12,0.5
+b6f2631308d714e8,2018-08-20,Plainfield,IL,"Dec 13, 73",female,unemployed,True,Yes,False,tea,11,4.5
+cc937d93059c6277,2018-10-21,West Chicago,IL,April 04 1986,female,student,True,y,True,coffee,12,4.0
+90fad48ae0a34e89,2018-03-13,Wheaton,IL,January 11 1978,female,unemployed,True,I don't know,True,tea,6,0.5
+7eee1523a7aab318,2019-11-17,Minooka,IL,1988-08-08,female,student,False,Yes,False,coffee,2,4.0
+8d7d0c886c36ec1d,2018-04-23,Warrenville,IL,Oct 31 79,female,part-time,True,YES,False,coffee,7,1.5
+33053972631a6fd2,2019-05-09,Carol Stream,IL,05/02/94,female,student,True,yes,False,beer,11,4.0
+81c06cfd809b2cbc,2019-08-04,West Chicago,IL,July 02 1991,male,student,True,yes,False,coffee,3,3.5
+92515d8b01b57196,2018-06-26,Minooka,IL,08-21-1979,male,full-time,True,Yes,False,coffee,2,1.0
+63923cc2c6d15a4f,2018-11-21,Barrington,IL,1979-12-25,male,full-time,True,No,True,coffee,5,0.5
+fe6fb94d75c3823d,2019-11-30,Minooka,IL,"Oct 27, 87",female,student,True,ya,True,water,0,
+83baa6202ea27d2b,2019-10-26,Naperville,IL,September 14 1982,male,retired,True,No,False,coffee,11,0.5
+b3f827aa0d3650a2,2018-10-15,Palatine,IL,Apr 09 1986,male,retred,True,yes,True,coffee,5,0.0
+c2e0a920c2aeaef5,2019-10-21,Wheaton,IL,Jul 21 1993,female,unemployed,True,NO,False,coffee,10,2.0
+984289a77aa66449,2019-10-12,Romeoville,IL,02/12/95,male,unemployed,True,No,False,soda,11,2.5
+d85ff5be1543e36d,2018-06-23,Elgin,IL,"04 13, 1984",female,unemployed,True,no,False,tea,9,1.5
+955c99778f30d6d3,2019-09-14,Bolingbrook,IL,06/18/1993,female,unemployed,True,no,True,wine,6,3.5
+639f3bc0aa261453,2019-07-10,Glen Ellyn,IL,"11 15, 81",male,full-time,True,n,False,coffee,6,4.5
+aaf89b28b9a456cf,2019-07-09,Palatine,IL,11.12.1996,male,student,True,No,False,bere,0,
+c2963eb8ec061191,2019-11-28,Glen Ellyn,IL,1985-01-17,female,full-time,True,y,False,coffee,1,0.5
+405fa47df04d9df9,2019-10-09,Glen Ellyn,IL,05/08/1989,male,part-time,True,y,False,beer,3,1.0
+3a966e10286a39e7,2019-04-18,Bolingbrook,IL,1988-11-02,male,part-time,True,nope,False,coffee,2,0.5
+711d0dae2d2753e2,2019-01-11,Warrenville,IL,May 23 86,male,full-time,True,yes,True,coffee,9,0.5
+2584531a38ba048c,2018-06-25,Wheaton,IL,"Nov 14, 1969",female,part-time,False,nope,True,coffee,1,2.5
+55616a30a68807bc,2019-05-10,Yorkville,IL,01-22-1988,male,part-time,True,YES,True,beer,3,2.5
+f65816ff2adaf7c1,2018-07-14,Bolingbrook,IL,11.17.1976,female,retired,True,No,True,coffee,4,1.0
+7fbb14806a7c5dcd,2019-11-01,Algonquin,IL,03-24-1998,female,part-time,True,no,False,wine,0,
+84a6e81ba90fd05b,2019-11-17,Naperville,IL,January 19 1991,male,student,False,NO,False,beer,7,2.5
+fc23f68ddcb83229,2019-04-20,Romeoville,IL,01/17/1991,female,full-time,True,Yes,False,coffee,10,1.0
+0a86176eae3ef1e8,2019-06-30,Minooka,IL,"Apr 07, 1986",male,unemployed,True,Yes,True,beer,7,1.0
+fa62b7d3a8ad9cf9,2019-08-05,Schaumburg,IL,1989-01-04,female,unemployed,True,yes,True,coffee,9,5.0
+ecd90f747be3871c,2018-05-08,Algonquin,IL,"May 25, 1983",male,unemployed,True,nah,True,beer,7,0.5
+887ab8336a6957d7,2019-09-01,Romeoville,IL,Mar 06 1989,male,full-time,True,Yes,False,coffee,7,0.0
+da92db8496b5e41e,2018-11-18,Yorkville,IL,04/01/1976,male,full-time,True,yes,True,beer,1,5.0
+6f9dfd7d7f0e1680,2018-08-10,Minooka,IL,1983-04-24,male,part-time,True,no,True,coffee,9,4.0
+0d6fe22b7f7646c2,2018-06-19,Streamwood,IL,08/31/1979,female,student,True,yes,True,soda,5,1.5
+16cedb03370913d8,2018-05-08,Palatine,IL,1968-03-17,female,unemployed,True,yes,True,coffee,8,0.0
+95fa476bca82b116,2018-12-08,St. Charles,IL,"05 25, 1982",male,full-time,False,Yes,True,coffee,1,0.0
+679829d022151e69,2019-04-04,Naperville,IL,12.17.1988,male,unemployed,True,YES,True,soda,1,1.5
+2f1c4ccf6c1cb9ad,2018-09-14,Chicago,IL,May 17 1974,male,full-time,False,ya,True,coffee,12,2.5
+b076a98279081acb,2018-03-18,Deer Park,IL,Apr 12 70,male,full-time,True,Yes,False,soda,10,3.0
+2f9037ab80638cd6,2019-11-18,Aurora,IL,June 10 88,male,student,True,no,True,beer,11,2.5
+6f8fcb035dd86cc9,2019-07-30,Hoffman Estates,IL,06.10.1990,male,full-time,True,ya,True,coffee,5,4.5
+d2b0ef20c9284408,2018-07-25,Inverness,IL,"May 16, 77",male,full-time,True,ya,True,beer,8,2.0
+0f5d2f1699ca9a05,2018-04-10,Inverness,IL,12-01-73,female,unemployed,True,NO,False,wine,10,4.5
+a6f8777d20a0365d,2019-10-02,Oswego,IL,"Mar 14, 82",female,unemployed,True,YES,False,wine,2,0.0
+81d15fa11b07828c,2018-06-22,South Barrington,IL,03/01/75,male,full-time,True,yup,True,beer,8,4.5
+36a2ea774fcc3b1e,2018-07-31,Willowbrook,IL,03-05-79,female,part-time,True,NO,True,coffee,7,1.0
+9b5b9cde798a6132,2018-01-21,Carol Stream,IL,"Jul 24, 84",male,full-time,True,YES,False,coffee,9,4.5
+f1539681d31cffef,2018-02-22,Schaumburg,IL,12-28-77,female,student,True,YES,True,coffee,10,0.5
+c752852e2416156e,2019-04-04,Deer Park,IL,December 26 1993,female,student,True,no,False,wine,7,3.0
+1de127024d33ea1d,2018-03-22,Hoffman Estates,IL,09/04/1978,female,full-time,True,n,True,coffee,1,3.0
+b5d63f57a1c9af31,2018-12-12,Schaumburg,IL,"Jun 06, 76",female,part-time,True,Yes,True,water,1,1.5
+7834350ddfd12c36,2018-07-02,Schaumburg,IL,1976-01-23,female,full-time,True,I don't know,True,water,4,4.5
+7629a9809faa32d2,2018-10-01,Batavia,IL,03.14.1982,female,full-time,True,NO,True,wine,5,0.0
+3ca18d19e7013db7,2018-07-29,Elgin,IL,"Oct 10, 1972",male,full-time,True,No,False,coffee,3,1.5
+1e138d34e9a23666,2019-05-16,Inverness,IL,Jan 19 1991,male,full-time,True,nah,False,beer,2,0.0
+8fcb599aa1a4e411,2018-06-10,Batavia,IL,Jun 16 1986,female,full-time,True,nah,True,tea,1,5.0
+e8a390ba421a7d4c,2019-01-27,Streamwood,IL,Sep 13 90,male,full-time,True,ya,True,coffee,2,3.0
+ff54efc76e75e991,2019-10-01,Batavia,IL,03/08/1990,male,part-time,False,ya,True,beer,3,1.0
+95f275cdbe15c9df,2019-12-12,Warrenville,IL,October 27 88,male,full-time,True,Yes,False,water,2,2.0
+4e8c9cf1b11bac1c,2019-10-09,Mokena,IL,July 27 81,male,part-time,True,YES,True,coffee,0,
+8b20ac654456d161,2019-08-02,Aurora,IL,07.25.83,male,student,True,y,True,coffee,8,3.0
+62249e443bd528c0,2018-10-02,Batavia,IL,1977-11-04,female,full-time,True,Yes,True,water,8,3.0
+043564c35e7b6107,2019-04-07,Wheaton,IL,Oct 20 1986,male,full-time,True,No,True,coffee,9,3.0
+444aaaf3fb09df34,2018-08-13,Mokena,IL,"Jul 20, 1974",male,unemployed,True,yup,True,soda,12,0.5
+a9c72bc0d6a5bd97,2018-11-19,Oswego,IL,06-18-1981,female,part-time,True,Yes,False,coffee,2,2.0
+e92d245a26d1f43c,2018-07-18,Yorkville,IL,05-13-1973,female,full-time,False,YES,True,coffee,2,4.0
+9dc8005c8f5bc4e1,2018-09-12,West Dundee,IL,1972-11-29,male,full-time,True,No,False,coffee,7,0.5
+0b37ad598ee920ac,2018-12-28,Willowbrook,IL,1986-10-19,male,part-time,True,YES,True,soda,10,4.0
+c18f402a5c503606,2018-08-27,Glen Ellyn,IL,1978-01-22,male,full-time,True,YES,True,beer,9,3.5
+37cc62104268371c,2018-04-26,Glen Ellyn,IL,"Nov 22, 1977",female,full-time,False,nope,True,coffee,6,4.0
+946cd38cc96ab1a6,2019-11-10,Chicago,IL,"10 05, 88",male,full-time,False,y,True,soda,8,0.5
+39f66513f59e085f,2019-04-12,Hoffman Estates,IL,07.26.1988,female,unemployed,True,yes,True,coffee,2,3.0
+03256cf8e2417a25,2019-05-24,Naperville,IL,07-10-93,female,unemployed,True,YES,False,coffee,5,2.0
+a25a325a279e0518,2018-02-07,Elgin,IL,"02 13, 77",female,full-time,True,Yes,True,coffee,12,4.0
+1bb398d2e83df148,2019-07-03,Elgin,IL,"Jun 04, 90",male,full-time,False,y,False,coffee,6,3.5
+d7186793402048b0,2019-07-22,Barrington,IL,October 31 99,female,student,True,y,False,water,7,1.0
+ec3f11d9ba6f0688,2019-10-07,West Dundee,IL,1983-08-30,male,part-time,True,Yes,True,coffee,9,2.0
+9210f16cd8ad4b6a,2019-01-17,Bolingbrook,IL,09.01.94,female,student,True,yup,False,coffee,1,3.5
+44cb2be54b88154f,2018-06-14,Romeoville,IL,May 17 76,male,part-time,True,y,True,coffee,5,1.5
+b0d255175f34a0b9,2018-02-24,Oswego,IL,"11 30, 1971",male,full-time,True,no,True,beer,11,1.0
+0766f1d4aed42ff5,2019-05-23,West Dundee,IL,Jun 30 88,female,full-time,True,ya,True,wine,5,4.0
+efe90dc237fabf47,2019-09-10,Barrington,IL,07-02-83,female,part-time,True,No,True,beer,8,5.0
+84452c2db695323e,2018-02-15,Mokena,IL,1972-07-08,female,full-time,True,No,True,water,2,3.5
+729ced18b4fb0015,2019-02-20,Naperville,IL,January 03 1988,male,student,True,nope,False,beer,11,0.5
+536cb955557adad4,2019-12-27,South Barrington,IL,"Nov 09, 1986",female,full-time,True,ya,False,water,5,1.0
+a2f9cb7e170e946e,2019-07-23,Inverness,IL,02-27-1989,male,full-time,True,yes,False,soda,9,5.0
+5a75c13a3fb1be62,2018-01-08,Oswego,IL,11-04-68,male,part-time,True,yes,True,beer,4,0.5
+72a5216dc6697810,2018-06-01,South Barrington,IL,10-17-1983,female,student,True,No,False,coffee,1,0.5
+5b2a67fda0e558d7,2019-09-24,Elgin,IL,10/25/1994,female,student,True,n,False,wine,12,3.5
+c38e053bfd738fb8,2018-02-06,West Chicago,IL,01.01.86,male,unemployed,True,Yes,True,tea,7,2.0
+31417772c035d9a9,2018-09-07,West Dundee,IL,10-12-82,male,student,True,Yes,False,beer,5,1.5
+96e8bf3e42d311a0,2018-12-11,Carol Stream,IL,August 05 83,male,full-time,True,No,True,coffee,6,3.0
+5766bf3d5e9fd298,2018-07-21,West Chicago,IL,11.10.1982,male,student,True,I don't know,True,soda,2,4.0
+1050648685b05cf1,2018-08-31,Glen Ellyn,IL,Feb 12 1980,male,student,True,y,False,coffee,2,1.0
+3cf3555db1b8137d,2018-05-20,Mundelein,IL,03-24-81,male,part-time,True,yes,False,beer,5,4.0
+35ffd3da0ccc6eb6,2019-03-02,Mokena,IL,"11 10, 1984",male,unemployed,False,ya,True,coffee,9,4.5
+b8f1507a9295f71e,2018-08-11,Wheaton,IL,1979-02-24,male,full-time,True,I don't know,True,coffee,9,4.5
+a1e4a6f6976500f3,2019-08-10,Algonquin,IL,"Apr 24, 83",male,retired,True,No,True,beer,9,3.0
+24a35f3c114b49c1,2019-12-31,Bolingbrook,IL,08-06-89,male,unemployed,False,I don't know,False,coffee,9,4.5
+6ad78703ff4ce3f8,2019-03-15,Mokena,IL,05-14-91,female,student,True,NO,False,coffee,8,0.5
+72e02f8b3d44b214,2018-11-30,Bolingbrook,IL,"Dec 31, 84",female,full-time,True,yup,True,coffee,5,2.0
+c84234d3107bc4aa,2019-01-09,Romeoville,IL,09-20-1986,female,unemployed,True,No,True,coffee,2,0.5
+a49f0f14456f3211,2018-06-22,Willowbrook,IL,March 25 1982,male,part-time,True,ya,False,beer,9,2.5
+1116011829a080d2,2018-08-13,Romeoville,IL,"Mar 20, 1981",male,part-time,False,YES,True,coffee,2,1.5
+914f49e60351dcdd,2019-07-16,Warrenville,IL,Jan 19 1990,male,retired,True,Yes,True,coffee,10,4.5
+a954cd9aa16b37ca,2018-05-31,Plainfield,IL,02-05-1974,female,full-time,True,yup,False,coffee,5,1.0
+5575c816cf218e5f,2019-10-18,St. Charles,IL,11.10.92,female,unemployed,False,yes,False,coffee,7,0.0
+33278d1263d67f40,2019-08-21,Deer Park,IL,"03 15, 86",female,full-time,True,Yes,False,water,4,4.5
+9769e8de526560bb,2018-09-11,Oswego,IL,February 10 1981,female,full-time,True,y,False,water,9,4.0
+d461bae0b5bfc9ae,2019-01-23,Plainfield,IL,"Jul 16, 1990",male,unemployed,True,No,True,beer,5,2.0
+b531fabac19eb401,2019-10-12,Carol Stream,IL,September 15 82,female,full-time,True,yes,True,coffee,5,2.5
+a78262133ca77feb,2018-06-26,Inverness,IL,"03 29, 1977",female,full-time,False,n,True,wine,4,4.5
+cdbb83844874279a,2018-05-17,Deer Park,IL,11-18-69,female,part-time,True,yup,True,coffee,1,3.0
+6b03c59a5792e51b,2019-10-16,Palatine,IL,"Aug 20, 1995",male,part-time,True,nope,False,coffee,10,3.0
+05119c59d6a0985e,2019-07-06,Hoffman Estates,IL,02/24/92,male,full-time,True,nope,False,coffee,0,
+2e6de5b5decba81a,2018-09-23,Algonquin,IL,"08 26, 1980",female,full-time,True,yes,True,coffee,3,1.0
+cd5ccc6fe444d283,2018-07-17,Mokena,IL,Apr 25 71,female,part-time,True,No,True,coffee,0,
+d1c971e264647ef2,2019-01-14,Plainfield,IL,1981-10-22,male,full-time,True,n,True,coffee,3,5.0
+290eef9715ef984b,2018-09-19,Carol Stream,IL,"02 24, 78",male,full-time,True,Yes,True,coffee,1,0.0
+374ebbd0318a4a87,2019-08-11,Batavia,IL,April 15 1991,female,full-time,True,Yes,True,coffee,6,2.5
+9da71531bf031568,2018-06-22,Romeoville,IL,08.24.75,female,unemployed,True,YES,True,coffee,11,2.5
+1cfa575c7a90e501,2019-12-19,Inverness,IL,12.23.1986,male,full-time,True,Yes,True,coffee,3,3.0
+1323a5e15c6d50d4,2019-03-28,Streamwood,IL,1979-08-28,female,part-time,False,I don't know,True,coffee,6,0.5
+6faa6f597828f6a7,2019-08-25,Mundelein,IL,05/31/1991,male,full-time,True,ya,False,beer,2,4.0
+e91f0bdc2c4ae92b,2018-10-21,South Barrington,IL,"Dec 22, 82",male,full-time,True,No,False,soda,12,1.5
+76715f503bdefd0a,2019-04-09,Glen Ellyn,IL,Aug 18 88,male,full-time,True,y,True,coffee,7,3.0
+da791e1da6c86931,2019-05-05,St. Charles,IL,"Mar 10, 1989",female,unemployed,True,No,True,coffee,1,5.0
+6e5483e71bf5761c,2018-10-12,South Barrington,IL,"01 04, 79",male,part-time,True,No,False,beer,8,0.0
+58818b4aea128148,2018-03-25,Oswego,IL,11/01/84,female,full-time,True,yup,True,coffee,2,2.0
+86a520ab6e3aec5a,2018-05-19,Mundelein,IL,"Sep 02, 1969",female,full-time,True,YES,True,water,3,1.0
+a19e222bd6f44602,2019-04-22,Romeoville,IL,April 24 90,female,retired,True,yes,True,soda,7,2.5
+2b02fbc7515cda47,2019-07-25,Plainfield,IL,Sep 08 91,male,student,True,y,True,beer,5,3.5
+bbb3f7af2ecad89b,2019-08-04,Mokena,IL,"05 21, 92",female,unemployed,True,no,False,water,3,4.5
+4730f650706c7b22,2018-10-06,Yorkville,IL,"Nov 12, 1983",male,full-time,True,Yes,True,coffee,1,3.5
+533686a5f618e3f4,2018-08-11,Glen Ellyn,IL,01/24/81,male,full-time,True,nope,False,coffee,2,3.0
+2b6b8b83513e8504,2019-11-13,Aurora,IL,02/13/1991,female,unemployed,True,YES,True,water,9,4.0
+1ee91edef68b1e7a,2019-07-01,Warrenville,IL,"04 11, 1998",female,student,True,nope,False,coffee,3,2.0
+45ddbe75a1b8cc33,2019-11-08,Yorkville,IL,January 13 1993,female,unemployed,True,n,False,water,10,1.0
+cb68ed008ecb058a,2018-04-13,Naperville,IL,November 07 76,female,unemployed,False,ya,True,coffee,5,3.0
+fa4ded58feface6f,2018-10-22,Oswego,IL,Feb 21 74,male,full-time,True,ya,True,beer,8,4.5
+bab515f386a63482,2018-02-17,Willowbrook,IL,12/23/81,male,full-time,True,YES,False,coffee,8,2.0
+c3eb31aaf202d705,2018-01-01,Mundelein,IL,1979-11-20,male,unemployed,True,n,True,tea,5,3.0
+0cd09c8d7c0b7786,2018-06-03,Carol Stream,IL,06-14-78,female,part-time,False,yes,True,wine,5,0.5
+37fb2fcd73e6744f,2019-04-18,West Chicago,IL,"Aug 28, 1992",male,full-time,True,Yes,True,soda,11,2.0
+8d44941cb208c6e6,2018-08-08,Barrington,IL,Apr 10 1979,male,full-time,True,yup,True,coffee,3,1.5
+f05be8834de80d23,2019-12-11,Schaumburg,IL,06/18/86,male,student,True,yup,False,soda,1,3.0
+a750ec92b504267d,2018-02-15,Oswego,IL,"11 09, 77",male,full-time,True,yup,True,soda,12,0.0
+b87986958f42b014,2019-01-23,Elgin,IL,07-17-1988,female,full-time,True,YES,False,wine,7,0.0
+bd835799297a4d77,2019-07-04,Streamwood,IL,"Apr 10, 89",female,full-time,False,yup,True,water,7,3.0
+ddae4c5c3a3178c2,2018-09-30,Elgin,IL,"Feb 08, 1976",male,full-time,True,NO,True,coffee,1,4.5
+31f1aa149428825d,2019-01-31,Elgin,IL,December 05 1987,male,student,True,yup,True,coffee,12,0.0
+940371d7cd575cab,2018-01-09,Minooka,IL,10.01.78,female,part-time,True,YES,False,coffee,0,
+27076cd37a9a6859,2019-03-26,Deer Park,IL,Jan 15 87,male,full-time,True,Yes,True,beer,9,0.0
+56e556d386c91712,2019-06-11,Aurora,IL,Mar 16 1987,female,full-time,True,ya,False,coffee,6,0.5
+196873b2a368b6a1,2019-06-21,Aurora,IL,"Sep 13, 1991",male,full-time,True,Yes,True,tea,7,2.0
+6e5fd63ac1cb0ba5,2018-03-22,Palatine,IL,01.13.1980,female,full-time,False,YES,True,wine,9,5.0
+fe2f008ac436bde2,2019-03-24,Oswego,IL,Nov 29 86,female,student,True,yes,True,coffee,7,3.5
+7065b3cff4e48313,2018-01-11,Naperville,IL,June 18 1965,male,retired,True,no,True,beer,3,2.0
+4423d5227d36203f,2019-06-22,Algonquin,IL,Jul 07 1984,female,full-time,True,yup,False,water,0,
+4700887ed77fc042,2018-10-29,Palatine,IL,11.15.1985,female,unemployed,True,y,True,coffee,11,1.5
+a096c9a59d56a370,2019-09-11,Deer Park,IL,1994-05-13,female,part-time,True,n,False,coffee,1,1.0
+217296c873d2bd6a,2019-07-29,Glen Ellyn,IL,Oct 28 90,female,unemployed,True,no,False,water,0,
+a5ed0a8bfc75e9b8,2018-09-03,Oswego,IL,07-19-1983,male,student,True,no,True,beer,2,0.0
+6421d34246d7de4e,2019-04-09,Yorkville,IL,January 31 90,female,full-time,True,yes,True,water,12,0.5
+21294c9773b557de,2018-08-01,Aurora,IL,12-28-1972,female,part-time,True,yes,True,water,3,3.5
+f10325885f00cfe3,2019-12-26,Minooka,IL,Apr 17 1990,female,full-time,True,YES,False,wine,2,0.0
+37cc387e4457766d,2019-06-04,St. Charles,IL,"01 17, 1986",female,retired,True,ya,True,coffee,2,3.5
+0135c83359a82b3c,2019-09-05,Hoffman Estates,IL,03.29.86,male,student,True,YES,True,beer,7,4.5
+48281b81198b3119,2018-01-06,St. Charles,IL,"Oct 29, 72",male,full-time,True,yes,True,coffee,12,0.0
+7a8be2040aba3992,2018-01-31,Oswego,IL,1973-08-17,male,full-time,False,y,True,beer,9,2.0
+9a857ce635f7212d,2019-01-09,Schaumburg,IL,12.14.1990,male,student,True,yes,False,coffee,6,2.0
+6e5223b1e310fc87,2018-08-26,Willowbrook,IL,04-12-79,male,full-time,True,YES,False,beer,5,2.0
+d0ae4f135d75f08c,2018-01-18,Warrenville,IL,1981-11-07,male,part-time,True,nah,False,coffee,8,2.0
+a970d99585934d2f,2018-06-23,Mokena,IL,1981-12-24,male,full-time,True,YES,False,coffee,2,4.5
+c0d8e123ed014d75,2018-05-10,Aurora,IL,February 01 1979,male,full-time,True,yes,True,beer,6,3.0
+e3df6ab10e05eabf,2019-07-13,Willowbrook,IL,05/29/1991,female,student,True,I don't know,False,coffee,2,3.0
+347a19cbd1efa49f,2019-02-02,Carol Stream,IL,07/24/93,male,full-time,True,Yes,False,beer,8,1.0
+93f39d58996f2ab2,2019-04-24,Carol Stream,IL,08/14/88,female,unemployed,False,yup,True,coffee,1,0.0
+630d8114486bbacc,2018-08-29,Mokena,IL,06/16/76,male,full-time,True,YES,True,beer,9,0.0
+88266a6416a8f294,2019-11-29,Batavia,IL,03-21-93,female,full-time,True,Yes,False,wine,5,4.0
+a72f55acfec617e1,2018-03-30,Naperville,IL,04/18/81,female,part-time,True,I don't know,False,soda,0,
+ed9d0896103c17d1,2019-07-02,Deer Park,IL,06.02.1991,male,part-time,True,NO,False,coffee,0,
+5ad76eaa5c34c2ad,2018-11-07,Elgin,IL,05/31/1979,male,retired,True,yes,False,coffee,5,2.0
+7d6f68cfafc9f12f,2019-04-30,Oswego,IL,09/30/1993,female,student,True,YES,False,soda,2,3.0
+f13cc3cb31f8a6ba,2018-09-24,Schaumburg,IL,1977-07-18,female,full-time,True,NO,True,water,4,3.5
+7e86d4b16dd47841,2019-03-08,Wheaton,IL,08-27-1995,female,unemployed,True,NO,False,water,10,3.5
+046995fcfd7ca957,2019-03-07,Aurora,IL,02.14.92,female,unemployed,True,nope,False,coffee,7,4.0
+dbb13caea8b2008c,2019-01-25,West Chicago,IL,1985-09-20,female,part-time,True,yup,True,coffee,11,4.0
+c1834b8f6e28d623,2019-05-19,Wheaton,IL,10/05/1987,male,unemployed,True,y,True,coffee,6,4.5
+82f5f5c26a85d8cf,2019-06-11,Wheaton,IL,01-21-1986,female,full-time,True,yes,True,water,6,5.0
+476bd9fdf27b0e93,2018-02-14,St. Charles,IL,05.20.1972,male,unemployed,True,yes,True,soda,7,2.5
+9b88f3aba30f60e9,2019-06-16,Naperville,IL,"May 22, 1990",male,student,True,ya,False,coffee,4,2.0
+504a39ffde5ee22c,2018-10-21,Yorkville,IL,October 17 79,female,full-time,False,yup,False,coffee,12,4.0
+9d994415dee8f89b,2018-09-10,Plainfield,IL,08-25-1972,male,student,True,nope,False,coffee,5,3.0
+238624d75cfa2f5f,2018-12-29,Aurora,IL,"06 20, 80",male,full-time,True,Yes,True,tea,7,1.5
+8575b3523febc636,2018-12-31,Mundelein,IL,04.10.79,female,full-time,True,No,True,coffee,10,1.5
+da9d88082dabdcc2,2019-03-21,Elgin,IL,February 21 93,female,student,True,Yes,False,wine,10,0.0
+4c3a856922ef80ea,2018-07-26,Bolingbrook,IL,1977-04-23,male,retired,True,Yes,True,beer,5,4.0
+af47cc839de074c8,2018-12-16,Plainfield,IL,Aug 26 73,male,part-time,True,nope,True,beer,9,2.0
+0679f79dd503daf9,2019-08-12,Aurora,IL,"04 06, 95",female,part-time,True,I don't know,False,coffee,4,3.5
+39877d3bf6106640,2019-05-08,Deer Park,IL,12-02-89,male,unemployed,True,Yes,False,beer,6,5.0
+44b91eac5ac5dc4a,2019-06-06,Palatine,IL,05-18-1987,female,unemployed,True,NO,False,tea,6,0.0
+7e1c4e0f4d580835,2018-08-21,Bolingbrook,IL,September 26 1990,female,student,True,YES,False,wine,1,2.0
+96297d8f60a8f36a,2018-04-14,Bolingbrook,IL,04/17/73,female,full-time,True,no,True,wine,12,0.5
+98e821e8bffa4c1c,2019-06-27,South Barrington,IL,1989-09-23,female,full-time,True,YES,False,wine,10,4.5
+93c9def4c13db172,2018-08-13,Willowbrook,IL,"Dec 16, 1978",female,retired,True,ya,True,coffee,2,3.5
+2403ee195ee41b8c,2018-12-11,Barrington,IL,Jul 05 1978,male,full-time,True,no,False,beer,4,1.5
+021d2b4299ae3b9a,2018-09-02,Algonquin,IL,08/24/1978,female,full-time,True,nope,True,coffee,4,4.0
+5b057b202f777e81,2018-12-09,Hoffman Estates,IL,"07 24, 77",male,student,False,yes,True,beer,4,0.0
+715ed7389e7ec80f,2019-01-30,Barrington,IL,09-03-85,male,full-time,True,Yes,True,coffee,5,2.5
+e75972171f299301,2019-06-06,Naperville,IL,May 08 1992,female,full-time,False,ya,True,coffee,7,5.0
+ac38deb4845000e3,2019-12-30,Streamwood,IL,"03 10, 1988",male,student,True,No,True,soda,0,
+ab0ee8253802ddd5,2019-03-14,Glen Ellyn,IL,09.28.93,female,full-time,True,yes,False,coffee,12,5.0
+025cb6819ecef818,2018-03-18,Minooka,IL,05-31-77,female,full-time,True,Yes,True,coffee,8,2.0
+34ff58f492207123,2018-03-27,Batavia,IL,"Sep 12, 78",male,part-time,True,nope,False,beer,4,0.5
+6e3614549d892b51,2018-08-12,West Chicago,IL,Feb 13 76,male,full-time,False,yes,False,soad,6,1.5
+01ee1d1a201f997b,2018-07-17,St. Charles,IL,1972-05-07,male,full-time,True,Yes,True,soda,6,2.0
+01417756c8a64568,2019-08-19,Streamwood,IL,"Sep 04, 1987",female,student,True,NO,False,coffee,9,5.0
+f08fe69eefe2bf15,2018-08-13,Barrington,IL,1982-02-06,male,full-time,True,I don't know,True,tea,7,4.0
+06302caccdcfc342,2018-05-29,Bolingbrook,IL,"11 09, 1980",female,unemployed,True,no,True,soda,2,3.0
+b35a99a35debb9ce,2019-04-19,Minooka,IL,Aug 07 1989,female,unemployed,True,nah,False,coffee,11,3.0
+7bce94d73c906315,2018-03-26,Oswego,IL,05.02.84,female,unemployed,True,ya,True,wine,0,
+5ff2074108b85465,2019-02-07,Hoffman Estates,IL,12-10-1992,male,part-time,True,no,False,beer,3,1.5
+bf03d3b3e295ba2b,2019-01-09,St. Charles,IL,"08 10, 1989",male,full-time,False,Yes,False,water,1,0.0
+2c5bda6620f4aa35,2018-09-07,Willowbrook,IL,January 07 87,male,part-time,True,yes,False,coffee,11,1.0
+9778322e26757e7e,2018-11-07,West Chicago,IL,10/09/79,female,full-time,True,Yes,True,tea,6,3.0
+65fe678c454d4383,2019-07-31,Elgin,IL,1991-09-01,male,unemployed,True,NO,False,coffee,10,0.0
+14d05d2fb543a4f9,2018-05-01,Yorkville,IL,September 17 73,female,part-time,True,I don't know,False,coffee,11,0.5
+7b33c633e9625d92,2018-07-31,Carol Stream,IL,1982-03-20,female,part-time,True,No,True,coffee,11,2.5
+0215d59118249361,2019-12-02,Elgin,IL,June 04 90,male,part-time,True,Yes,False,soda,4,0.0
+ef64cf41d7c1a88b,2019-07-13,Plainfield,IL,December 24 86,female,part-time,True,ya,True,wine,5,4.0
+fde756e611e28c55,2018-01-07,Inverness,IL,Dec 22 87,female,student,True,No,False,tea,12,4.0
+3a64bc1968111e70,2018-07-23,West Chicago,IL,"Dec 10, 1982",female,full-time,True,ya,True,coffee,8,4.5
+fec0bba8bf67543e,2018-07-01,Hoffman Estates,IL,07.06.1985,male,part-time,False,Yes,False,coffee,12,3.0
+55b8a823500ace3f,2019-09-14,Streamwood,IL,12/28/1987,male,part-time,True,No,True,coffee,0,
+cf6066b80429991b,2019-12-25,Mokena,IL,02/28/1989,male,part-time,True,Yes,False,coffee,9,2.5
+8cb4daf5fd3d06c7,2018-05-16,Plainfield,IL,"May 18, 76",male,part-time,False,ya,True,beer,1,0.0
+b561360a976bf849,2019-06-07,Oswego,IL,1987-11-06,female,unemployed,True,y,False,wine,8,2.0
+06d693f1fcda92cd,2019-10-22,Bolingbrook,IL,05-27-1988,female,unemployed,True,y,False,coffee,4,2.0
+efbb765ba9e07196,2018-04-07,Plainfield,IL,September 04 1975,male,full-time,True,yes,False,coffee,9,1.5
+77b2040bd131215b,2018-05-21,Glen Ellyn,IL,12/07/74,female,full-time,True,No,True,coffee,5,1.0
+b43aade60a1e5717,2018-11-04,Plainfield,IL,04/10/1975,male,retired,True,nah,False,soda,7,5.0
+3d19b9e62db3e18a,2018-04-19,Schaumburg,IL,"02 06, 73",female,unemployed,True,No,True,coffee,5,3.0
+f04ab9f5024c6180,2019-05-11,Naperville,IL,12.01.1989,female,part-time,True,YES,False,coffee,6,0.0
+e5ac84a28f8d9fe2,2019-02-10,Schaumburg,IL,08.08.90,male,part-time,True,no,False,soda,0,
+84a84b2a110e633e,2019-08-19,St. Charles,IL,1989-07-17,male,full-time,True,y,False,beer,1,4.5
+f5ba5407d43a1917,2018-08-16,Willowbrook,IL,10.19.70,male,part-time,True,yes,True,coffee,0,
+0823b9270c0fab42,2019-09-12,St. Charles,IL,May 05 2000,male,student,True,Yes,False,coffee,12,1.0
+f8163c65f1e981f0,2018-06-10,Oswego,IL,May 17 81,female,part-time,True,no,True,wine,4,3.5
+94757c0cfac325d3,2019-08-28,Palatine,IL,04/06/1997,female,full-time,True,n,False,coffee,2,1.5
+e95b39cd3954b2ea,2018-03-02,Naperville,IL,"Apr 27, 93",female,student,True,nah,False,coffee,9,1.0
+827e952dbaa2c45d,2019-09-18,Mokena,IL,1986-10-23,male,full-time,True,NO,True,beer,11,5.0
+40d98403c19d2814,2018-02-03,Glen Ellyn,IL,"Mar 19, 1973",female,part-time,False,yup,True,wine,0,
+2b2720ae4566e5ff,2019-07-25,Palatine,IL,November 15 95,male,unemployed,True,NO,False,beer,6,0.0
+87e403a75ca95c44,2019-08-13,Mokena,IL,05.25.91,male,student,True,no,False,soda,9,4.0
+bb778f264e921690,2019-10-28,South Barrington,IL,04/24/1986,male,part-time,True,NO,True,coffee,10,3.5
+300aac38a07980fb,2018-09-15,Algonquin,IL,"09 05, 70",male,retired,True,y,False,beer,8,1.0
+0e6eb113decf1103,2019-07-11,West Dundee,IL,11-06-89,female,full-time,True,NO,False,coffee,3,4.0
+de50236b1000cb8c,2018-11-05,West Dundee,IL,09.07.78,female,part-time,True,yup,False,coffee,8,1.0
+d2fe8a5d7076c2f0,2019-06-19,Mundelein,IL,01-30-94,female,unemployed,True,Yes,False,coffee,3,4.5
+20397269a84aff09,2019-12-29,Aurora,IL,06-18-1993,female,student,True,NO,True,soda,7,2.0
+3cd2c8934e29972e,2019-11-17,West Chicago,IL,Oct 19 1988,male,full-time,True,Yes,False,soda,4,4.5
+b547127d4384acfd,2018-05-12,Barrington,IL,01/06/1981,female,retired,True,yup,True,water,6,1.5
+95c9165ff9c46a24,2018-12-05,Schaumburg,IL,"05 25, 80",female,full-time,True,yes,True,coffee,12,2.5
+09f0b8c20a8bb7dc,2019-06-20,Inverness,IL,10/27/1991,male,full-time,True,YES,True,coffee,9,1.5
+2dd84200deb026d8,2018-02-12,Glen Ellyn,IL,May 22 76,female,part-time,False,Yes,False,wine,4,3.5
+898e575837a7e561,2018-03-24,West Chicago,IL,"Sep 29, 82",female,part-time,True,yup,True,coffee,12,4.0
+24fb2c4a88ac9633,2018-08-03,Bolingbrook,IL,"01 19, 1982",female,part-time,True,YES,False,water,7,5.0
+c28c1534da5e8d55,2019-09-04,Plainfield,IL,02.23.91,female,part-time,True,I don't know,False,coffee,9,3.5
+a7c1d1061dfdc6d7,2018-04-10,Carol Stream,IL,May 27 1981,male,part-time,True,Yes,True,coffee,1,1.0
+15329c70bb17fc10,2019-01-27,Bolingbrook,IL,"Jun 12, 1992",female,retired,True,y,False,coffee,4,3.5
+9788f43786e9e0f8,2018-06-03,Mokena,IL,Oct 05 76,male,full-time,True,Yes,True,soda,0,
+361f52a761f6a561,2018-08-07,Romeoville,IL,05-14-78,male,unemployed,True,YES,False,coffee,2,3.0
+d85141234813f89d,2019-09-21,Warrenville,IL,"03 15, 1990",female,unemployed,True,no,False,cofee,0,
+ce6d730126657a1f,2019-01-14,St. Charles,IL,February 28 86,female,unemployed,False,no,True,coffee,11,0.5
+71451005805e3bbb,2018-06-19,Romeoville,IL,Jan 05 1970,male,full-time,False,No,False,coffee,2,1.0
+4eb6b416f9a6a5f1,2018-01-30,Hoffman Estates,IL,11-07-69,female,full-time,True,NO,False,water,8,2.0
+f30ecf96c04e32e4,2019-06-29,West Dundee,IL,Dec 03 1988,female,unemployed,True,Yes,True,wine,3,0.5
+8cce9850db5b0695,2019-05-15,Inverness,IL,May 03 89,female,student,True,no,False,tea,9,3.5
+2da8ef2b7da4579a,2018-10-14,Chicago,IL,"Jun 06, 1982",male,part-time,False,Yes,False,beer,10,2.0
+a30150e3db9e99fb,2018-09-07,Mokena,IL,"Apr 05, 1975",female,part-time,True,nope,True,water,7,2.0
+cf7fa1e0f055924c,2019-08-12,West Dundee,IL,"06 04, 1987",male,unemployed,True,no,True,coffee,6,0.5
+ff197be3828caa5a,2019-05-24,Mundelein,IL,"06 10, 87",female,student,True,yes,True,coffee,6,2.0
+cc6b24c417da50cb,2019-08-05,Willowbrook,IL,07-18-1987,female,student,True,YES,True,tea,9,1.0
+d7c2a1cbe70db9de,2018-03-22,Minooka,IL,February 09 1990,female,student,True,No,False,water,4,4.5
+bbf143f6c972ce79,2018-10-23,Schaumburg,IL,"06 08, 1978",male,full-time,True,Yes,True,coffee,7,3.0
+567ddd960ffc7175,2019-02-20,Minooka,IL,02/23/92,female,unemployed,False,Yes,False,coffee,1,5.0
+0d080503cee5ff45,2019-06-17,Batavia,IL,Oct 31 88,male,full-time,True,I don't know,True,beer,12,4.5
+d8eea03cbb602745,2019-02-17,Yorkville,IL,07-11-1985,female,retired,True,I don't know,True,wine,10,1.5
+d329019eb01fb9bb,2019-03-04,Chicago,IL,01.06.90,female,part-time,False,I don't know,False,coffee,7,5.0
+184bd45c916d190d,2019-04-18,Inverness,IL,09.12.90,male,student,True,Yes,False,coffee,5,4.5
+58c99208a47af5a0,2019-04-25,Romeoville,IL,December 25 1989,male,full-time,True,yes,True,beer,9,2.5
+169c1cb77150c9c7,2019-05-18,St. Charles,IL,"09 26, 87",female,full-time,True,yes,True,coffee,3,1.5
+6054904c45a901a9,2019-06-16,Romeoville,IL,Apr 11 1990,female,retired,True,Yes,False,coffee,2,5.0
+0490cfee1202129f,2019-04-14,Elgin,IL,10/12/1989,male,unemployed,True,NO,False,coffee,0,
+10e7c750e130c105,2018-08-14,St. Charles,IL,"May 10, 72",female,unemployed,True,yes,False,wine,9,4.0
+56b3a95a32984b08,2019-07-13,Glen Ellyn,IL,"08 23, 96",male,unemployed,True,no,False,coffee,12,1.5
+ed482b0f5421c2d3,2019-02-02,Palatine,IL,05-11-78,male,retired,True,YES,False,coffee,1,2.5
+5da8f9076ec54bba,2018-05-29,Carol Stream,IL,"07 12, 77",female,full-time,False,y,True,coffee,9,0.0
+19f38221bd6f3b72,2019-02-25,West Chicago,IL,January 07 1985,female,unemployed,True,nope,False,soda,1,2.0
+6f5eb93e0acab475,2019-10-15,Barrington,IL,"Jul 22, 89",male,full-time,True,nope,False,coffee,12,4.5
+fec3c2e14caf1058,2019-02-26,Streamwood,IL,09/18/1985,female,unemployed,True,yes,True,water,9,1.5
+f8fa8cd670e6e4fa,2018-01-23,Glen Ellyn,IL,"Feb 24, 74",male,retired,True,NO,True,coffee,8,1.0
+4758ec50d169b7fc,2019-07-15,Batavia,IL,08-10-92,male,full-time,True,yes,False,beer,0,
+1c6ddb31e55e35c7,2019-06-16,Schaumburg,IL,"11 08, 1983",male,unemployed,True,nope,True,tea,1,0.0
+0ff1174d562dc44b,2018-04-01,St. Charles,IL,06-16-1966,female,part-time,True,n,True,coffee,11,1.5
+3f6f64a1249f4932,2019-12-14,Palatine,IL,June 18 1986,female,unemployed,True,YES,False,wine,7,0.5
+e9534ca52feb8133,2018-04-18,Minooka,IL,03.23.1971,male,full-time,True,Yes,True,tea,10,3.5
+03b5cfad36c23c9a,2018-10-21,Wheaton,IL,06/02/1972,male,retired,True,yup,False,beer,6,4.5
+8e1f7a2c86438844,2019-09-18,Aurora,IL,January 16 88,male,unemployed,True,Yes,False,beer,6,2.0
+dfcd65044ac23c90,2019-08-09,Barrington,IL,Oct 01 88,male,full-time,True,no,True,coffee,0,
+04bcc933da24c4c3,2019-07-30,Streamwood,IL,"Jul 13, 1991",male,full-time,True,ya,False,coffee,7,0.0
+d5a20aac023ce63a,2018-05-18,Palatine,IL,"Jan 01, 73",female,student,True,Yes,True,water,4,0.5
+0a1b928ab78db5f6,2018-01-15,Schaumburg,IL,"Sep 05, 1979",male,full-time,True,Yes,False,coffee,4,5.0
+e6fcde0711201597,2019-02-17,Wheaton,IL,1986-10-30,male,part-time,True,ya,True,tea,11,1.5
+adf97e2cf40b0338,2019-06-12,Willowbrook,IL,1993-07-24,female,student,True,dunno,False,tea,8,1.5
+01e926e754b6574c,2018-05-08,Mundelein,IL,04/20/72,female,full-time,True,y,True,coffee,10,5.0
+1ab0920d89d88c9a,2018-05-31,Willowbrook,IL,01-09-1984,male,unemployed,True,Yes,False,coffee,3,2.0
+2608933610850b28,2018-09-28,Inverness,IL,June 09 77,female,full-time,True,Yes,True,coffee,9,0.0
+c8e1f760b3648b07,2018-04-26,Plainfield,IL,07-07-1975,male,part-time,True,ya,False,beer,0,
+913390cbeaf311a2,2019-05-03,Palatine,IL,Feb 29 92,female,unemployed,True,I don't know,False,coffee,6,4.0
+57f05f2caf783509,2018-08-08,Barrington,IL,Apr 08 72,female,student,True,nope,True,soda,3,1.5
+00f59a966ac5d6f3,2019-09-23,Yorkville,IL,01.19.84,female,full-time,True,yes,True,soda,0,
+b1a8fc874b5a2d7b,2019-01-18,Mokena,IL,"Nov 08, 91",female,full-time,True,NO,True,coffee,6,2.0
+8182113e1a92a033,2018-07-06,Mokena,IL,05/11/71,male,unemployed,True,No,False,coffee,4,5.0
+c8ca67a72f652f7a,2018-07-24,Chicago,IL,04.26.77,male,full-time,False,yes,True,coffee,10,5.0
+433e2f9c7a98632e,2019-11-10,Elgin,IL,"Sep 10, 1995",female,student,True,n,False,wine,10,1.0
+de02df0af93720d0,2019-09-24,Yorkville,IL,08.18.90,male,unemployed,True,Yes,True,soda,0,
+a7d0a4692eebd72f,2018-02-15,Glen Ellyn,IL,Aug 19 81,female,part-time,True,no,False,water,2,4.0
+d3b0687196830cb3,2019-01-11,Wheaton,IL,Mar 09 92,male,part-time,True,NO,True,beer,2,1.0
+b861fa37c2bf6f55,2019-06-26,Deer Park,IL,"Jun 24, 1979",female,full-time,True,ya,True,coffee,0,
+4d2d3ac9d5f46693,2019-06-27,Wheaton,IL,July 27 89,male,full-time,False,Yes,False,coffee,7,5.0
+1b575d6a6a94855d,2018-10-11,Yorkville,IL,Jan 17 1981,female,part-time,True,ya,True,wine,9,1.0
+e16e5b7c0bdd21b8,2019-02-04,Mokena,IL,03/02/1993,male,part-time,True,No,False,coffee,2,3.0
+6990c3e103805928,2019-02-24,St. Charles,IL,05.07.1990,male,student,True,No,False,coffee,3,4.0
+3568221c4219f0bd,2018-09-04,Streamwood,IL,08.27.1981,male,part-time,True,no,True,coffee,9,2.5
+bf0190c823d7ecac,2019-05-02,Hoffman Estates,IL,1998-02-10,male,unemployed,True,nope,False,coffee,3,5.0
+1bb9602f8c8a3dd5,2019-10-20,Barrington,IL,11.06.1989,female,full-time,True,YES,False,coffee,12,3.5
+b2d03b38494f0067,2018-03-22,Aurora,IL,"01 13, 85",male,unemployed,True,no,True,coffee,3,4.5
+b4f51e9a4204af74,2019-09-16,Elgin,IL,08.10.1994,female,student,True,yes,False,wine,5,4.0
+49b5dccff27d1fac,2019-03-27,West Chicago,IL,"Nov 07, 1985",female,full-time,True,yup,False,coffee,4,0.5
+c0e6be11cbe03658,2019-02-08,Deer Park,IL,1992-12-09,female,full-time,True,yes,False,wine,3,4.0
+fa0d7d47eeb71ef5,2018-01-19,Hoffman Estates,IL,Jun 17 63,female,part-time,True,NO,True,coffee,12,0.0
+2f9f42344c236f49,2018-01-04,Mokena,IL,December 22 1987,female,part-time,True,no,False,coffee,11,0.0
+26852823e3638fc3,2019-06-10,Batavia,IL,Jan 25 89,female,unemployed,True,yes,True,wine,4,0.5
+f26e3bba640545fc,2019-10-22,Deer Park,IL,05-22-93,male,unemployed,True,nope,False,beer,7,0.5
+e773339deb30ea91,2018-07-28,Barrington,IL,"09 01, 1977",male,full-time,True,no,True,beer,2,0.0
+c57946fb9990c24f,2018-01-10,Barrington,IL,04-22-1977,female,full-time,True,YES,True,coffee,1,2.0
+8a0e090de0988116,2018-06-21,Minooka,IL,"Apr 09, 1979",female,full-time,True,YES,False,wine,2,1.0
+9da56f35185fa7a1,2018-02-22,Deer Park,IL,"May 08, 1983",female,unemployed,False,yes,True,wine,4,1.5
+505cb86afba59950,2019-06-08,Palatine,IL,"Jan 10, 90",female,part-time,True,I don't know,True,tea,12,4.0
+fd1db1b1810ced8e,2018-08-01,Elgin,IL,05/19/76,female,full-time,True,no,True,coffee,0,
+ce8b145b3d8a08c4,2018-08-25,Chicago,IL,"06 28, 1980",male,full-time,False,y,True,soda,0,
+067a4e4694bcea4a,2019-09-18,Deer Park,IL,September 08 1985,male,student,True,ya,True,coffee,10,3.5
+c3062913e475de09,2019-04-16,Aurora,IL,09-25-1985,male,student,False,YES,False,beer,12,3.5
+89073969ee1b9270,2019-03-21,Romeoville,IL,12.10.88,female,full-time,True,NO,True,coffee,11,2.0
+3a8e19cf03658685,2019-10-21,Aurora,IL,April 04 92,female,part-time,True,no,False,wine,11,0.0
+65083db7c1e9193e,2018-06-13,Palatine,IL,1977-05-18,female,full-time,True,yes,True,tea,12,3.0
+85debcf7f23cb10b,2019-05-12,Mundelein,IL,"Jun 09, 1980",female,student,True,y,True,coffee,5,4.0
+18fe7494f95582da,2018-04-15,Barrington,IL,March 13 81,female,student,True,nah,True,coffee,3,0.0
+ebc551e83bd7c1bc,2019-06-18,St. Charles,IL,09/17/89,male,student,True,ya,False,beer,6,4.5
+d752db20a33c6721,2019-08-06,Warrenville,IL,"07 15, 1990",female,retired,True,y,True,coffee,11,1.0
+b63474d9f5c8fc98,2018-07-30,Inverness,IL,07/23/1982,male,full-time,True,nope,False,water,2,1.5
+8c822a415f6626e2,2019-04-27,West Chicago,IL,1986-11-03,female,full-time,True,ya,True,soda,11,4.5
+812448e5f26972f9,2018-02-05,Carol Stream,IL,04-24-74,female,part-time,True,Yes,True,coffee,12,4.5
+e54009613b134a8a,2019-12-07,Deer Park,IL,"Jan 09, 91",female,full-time,True,YES,False,tea,7,4.5
+ca71beadb3291b4f,2019-02-17,West Dundee,IL,February 19 1988,female,full-time,True,ya,False,beer,1,5.0
+2849dab62d8fdb4f,2019-07-17,St. Charles,IL,September 19 90,female,full-time,True,no,False,coffee,3,0.5
+058ae76d1e357c06,2019-10-02,Willowbrook,IL,10-23-87,male,student,True,ya,False,coffee,6,4.0
+8c661fb8f122f53d,2018-05-28,Minooka,IL,07/02/1984,female,full-time,True,YES,False,wine,1,5.0
+ea5c50ac48209394,2019-11-06,South Barrington,IL,01/21/96,female,student,True,no,False,wine,3,0.0
+41b9f383319346f9,2018-01-06,Algonquin,IL,03-21-73,female,part-time,True,nope,True,coffee,12,2.5
+a7ee358f6130c26a,2019-03-18,Chicago,IL,01/03/1996,female,part-time,False,YES,False,coffee,10,2.0
+452c4af06b9ad931,2019-11-25,Streamwood,IL,11/27/86,male,retired,True,YES,True,beer,9,5.0
+255e2c91c73f31ea,2018-09-09,Hoffman Estates,IL,"05 09, 84",male,part-time,True,YES,False,beer,12,4.5
+224ad881c17b1c77,2018-01-31,Yorkville,IL,03.23.78,female,full-time,True,I don't know,True,wine,4,0.0
+527f16c1b8f29a19,2018-03-07,St. Charles,IL,01/19/70,male,full-time,True,ya,True,beer,9,0.5
+e632383efd5aa1ab,2019-07-01,Schaumburg,IL,09/25/1989,female,student,True,ya,True,coffee,3,0.5
+2da4594df748036f,2018-11-28,Plainfield,IL,05-06-1979,male,full-time,True,ya,True,beer,4,2.5
+ba33546235148a0b,2018-10-30,Plainfield,IL,July 21 85,female,part-time,True,nope,False,coffee,3,4.0
+ae845454e5a033ee,2018-07-05,Naperville,IL,January 11 86,female,unemployed,True,nah,True,wine,3,1.0
+8a3a251009406bbd,2018-02-22,Mokena,IL,01.06.70,male,full-time,True,YES,True,coffee,1,2.5
+400c19e51d9022ac,2019-07-05,Mundelein,IL,Jul 15 99,female,student,False,YES,False,soda,2,4.5
+51f28427436300d0,2019-07-28,Yorkville,IL,06-02-95,female,part-time,True,n,False,wine,10,1.5
+41aee5e8fc6af4a2,2018-06-03,Oswego,IL,12/15/1972,male,full-time,True,Yes,True,beer,5,2.0
+568834737d31a1f4,2019-09-02,Mundelein,IL,"Nov 26, 1985",male,unemployed,True,yes,True,coffee,5,5.0
+63f669f69bc87b81,2019-02-24,Chicago,IL,Nov 22 90,male,full-time,False,Yes,False,coffee,12,4.5
+43040b339818c88a,2018-08-07,Willowbrook,IL,January 08 82,female,part-time,True,ya,False,wine,6,3.5
+33efac3cc2dd918d,2018-04-15,South Barrington,IL,11.12.1980,female,full-time,True,Yes,False,soda,1,2.0
+29b2d5019431c0f7,2018-07-05,Willowbrook,IL,11.22.79,male,unemployed,True,ya,True,beer,4,2.5
+5c8494a903db24ba,2018-09-18,Yorkville,IL,10.27.83,male,full-time,True,yes,True,cofefe,6,1.5
+ffa4e7efc776e622,2019-09-17,Mundelein,IL,"Feb 16, 1985",female,full-time,True,I don't know,False,wine,5,2.0
+ade086a55c651c3b,2018-09-26,Aurora,IL,Mar 21 79,female,full-time,True,yes,False,coffee,5,3.5
+b3121c1a0c516f06,2018-02-17,West Dundee,IL,02/10/69,female,full-time,True,Yes,False,coffee,4,2.0
+fb25367ac768407f,2019-07-05,Warrenville,IL,September 10 1983,male,full-time,True,Yes,True,coffee,0,
+8e5036dd766c9e17,2019-08-17,Glen Ellyn,IL,"03 02, 87",female,full-time,True,yes,False,water,11,1.5
+ba7cb9fad77e7783,2019-05-24,Schaumburg,IL,02.21.1987,female,part-time,True,NO,False,coffee,11,2.5
+5c91a48fc546c8a8,2019-03-30,Plainfield,IL,May 02 1992,female,full-time,True,no,True,coffee,7,2.5
+9c7b65f9f09fafc3,2019-09-02,St. Charles,IL,10.02.1988,male,student,True,ya,True,coffee,3,0.0
+b4624bee592aa4e9,2019-03-29,Mundelein,IL,November 21 94,male,part-time,False,nope,False,coffee,2,0.0
+285e1c77a3ef6c3b,2018-07-18,Barrington,IL,"Aug 05, 73",male,unemployed,True,YES,True,beer,6,4.0
+589e8f1170785376,2019-10-27,St. Charles,IL,"Oct 27, 94",female,unemployed,True,NO,False,wine,5,1.5
+7978b81cacca250e,2018-04-15,Aurora,IL,12.22.71,male,full-time,True,yes,True,beer,5,3.0
+bc428080f6430ea4,2018-08-03,Batavia,IL,July 18 1990,male,retired,True,No,False,beer,6,3.0
+2d8e3c583944fa7c,2018-02-08,Aurora,IL,"02 06, 1979",male,full-time,True,Yes,True,beer,12,2.0
+0a2cf5853e1a7b17,2018-01-13,Willowbrook,IL,07.17.78,female,full-time,False,no,True,tea,0,
+d09464c0e1b8f22b,2019-02-17,Palatine,IL,"02 12, 1989",male,part-time,True,No,False,soda,2,5.0
+f798c6fa246fe6ec,2018-05-15,Willowbrook,IL,02.14.79,male,full-time,True,nope,True,beer,6,0.0
+5cd1d9c7c1c16020,2019-12-19,Streamwood,IL,04-08-1987,female,part-time,True,YES,False,coffee,10,0.0
+4e1b2e5ae5b67922,2019-03-02,South Barrington,IL,December 13 1989,female,full-time,True,Yes,False,coffee,0,
+f56e175def7db491,2018-05-28,Schaumburg,IL,Oct 06 79,male,part-time,True,ya,False,soda,6,0.5
+23cf9fe794211723,2018-08-09,Carol Stream,IL,"04 07, 82",female,student,False,Yes,False,soda,7,3.0
+a3f2931664288520,2019-04-06,Schaumburg,IL,07/26/84,female,full-time,True,yup,False,coffee,4,4.5
+371b8bf76dcdd005,2018-10-12,West Dundee,IL,"07 29, 1981",female,full-time,False,y,True,wine,2,4.0
+e2b5f5448653b1a1,2018-12-10,Minooka,IL,10-20-72,female,full-time,True,no,True,wine,2,0.0
+b58ac93774c1ec30,2019-05-21,Romeoville,IL,Jul 25 1998,female,student,True,No,False,tea,6,3.5
+a79626da2f36e858,2018-12-29,Batavia,IL,1983-05-26,male,unemployed,True,NO,True,coffee,9,3.0
+6beda9b641e75258,2018-03-27,Willowbrook,IL,1986-04-10,male,full-time,True,Yes,True,beer,1,1.5
+44a8783ec3261bd0,2019-09-25,Minooka,IL,"Nov 03, 1989",male,unemployed,True,yup,False,soda,2,4.0
+c0889b0ae8d63705,2018-12-13,Naperville,IL,01/22/79,male,part-time,True,n,False,beer,7,3.5
+2979df3110e4bf04,2019-10-31,Willowbrook,IL,"01 27, 1989",male,retired,False,y,False,coffee,2,1.5
+1696df29ef6c844e,2019-12-27,West Dundee,IL,"Apr 18, 1996",female,student,True,yes,False,wine,3,5.0
+7172ad051f58b25f,2018-02-28,Naperville,IL,06.11.1978,male,full-time,True,nope,True,beer,9,4.5
+ecc379f0477f12a8,2019-04-08,Naperville,IL,"Jul 05, 1990",female,student,True,I don't know,False,water,11,0.0
+577ed9f0f6b1870a,2018-10-18,Plainfield,IL,11-15-1983,male,full-time,True,nah,True,coffee,8,1.5
+4ea1bd48d36bc06d,2018-05-27,Schaumburg,IL,Jan 26 82,male,unemployed,True,yes,True,beer,7,1.5
+4ac07f66924a73e1,2019-03-12,Wheaton,IL,01/24/1990,female,retired,True,nah,True,coffee,1,5.0
+0d95f8d78760d5c7,2018-02-18,Naperville,IL,01.14.1981,female,full-time,True,dunno,True,coffee,1,1.5
+1369a54acab112b1,2019-10-06,Chicago,IL,June 17 1991,female,full-time,True,nope,False,coffee,3,2.5
+96394a86dee47710,2019-09-29,Glen Ellyn,IL,09.19.1988,male,student,False,Yes,False,coffee,8,4.5
+133a279b679efd6f,2018-12-19,Wheaton,IL,"Nov 01, 1989",female,full-time,True,Yes,True,coffee,7,2.0
+b519ae3cfc7a6747,2018-11-20,Palatine,IL,June 05 1982,male,unemployed,True,Yes,True,soda,5,0.5
+19a745847f8f0ebd,2018-12-30,Romeoville,IL,"11 07, 1977",male,unemployed,True,yes,False,beer,4,1.5
+198f207023b457ce,2019-10-07,Warrenville,IL,04.10.1989,male,part-time,True,dunno,False,soda,4,4.5
+40aec7f2c4dc9274,2019-09-09,South Barrington,IL,"03 21, 1989",male,full-time,True,ya,False,coffee,8,1.5
+dd012367d940f945,2018-05-29,Elgin,IL,Dec 20 1978,female,unemployed,True,Yes,True,tea,6,3.0
+f096293b2a05c3d8,2019-03-18,Romeoville,IL,"01 20, 1988",female,unemployed,False,YES,True,coffee,11,3.0
+5ec4b87ce51dd425,2019-09-08,Aurora,IL,05.21.89,male,full-time,True,yes,False,beer,8,2.5
+4fd7f29ead7c7362,2019-08-29,Mundelein,IL,"Nov 24, 89",male,student,True,ya,False,beer,0,
+cecad73fa7421d10,2019-10-27,West Chicago,IL,02.09.92,female,unemployed,True,Yes,False,coffee,3,0.0
+60ed0e21ed7d8f0d,2018-11-24,West Chicago,IL,07.12.1987,male,student,True,yup,True,coffee,9,4.5
+ba1e342bb723b8f1,2019-05-06,Glen Ellyn,IL,"Dec 31, 1988",female,full-time,True,I don't know,True,coffee,5,4.0
+a70db25d0f83e792,2019-08-01,Romeoville,IL,06.07.1991,male,unemployed,True,ya,False,soda,1,1.0
+04d6f6901651dd00,2018-08-16,South Barrington,IL,08.29.1974,female,full-time,True,yes,True,coffee,6,1.0
+7464ceb0230381e2,2018-08-01,Bolingbrook,IL,05/06/1982,female,full-time,True,yes,True,wine,7,0.5
+952be17e7ac1cea2,2018-02-04,West Chicago,IL,"Feb 27, 86",female,full-time,True,yup,False,water,11,5.0
+beb0650151e38728,2019-03-23,Romeoville,IL,12-06-93,male,student,True,NO,False,beer,12,2.0
+7bae26750b78800c,2019-06-25,Romeoville,IL,01.14.93,male,full-time,True,NO,False,beer,2,4.5
+7c9b2fc5bf4851ce,2018-07-10,Willowbrook,IL,01/28/1981,male,full-time,True,no,False,coffee,1,2.5
+dc61015bb2154f9b,2019-05-30,St. Charles,IL,05.16.85,female,part-time,True,y,False,tea,11,0.5
+63f965b25497d670,2019-08-11,Batavia,IL,August 14 1988,female,full-time,True,Yes,True,water,7,4.0
+dabec319607ed1ae,2018-02-02,Aurora,IL,1977-09-03,female,full-time,True,YES,True,soda,8,2.0
+5f33727aaf4c303e,2018-12-10,West Chicago,IL,07/19/1978,male,full-time,True,yup,True,coffee,10,2.5
+f2229dda9abc7e3e,2019-08-04,Inverness,IL,"02 17, 1989",male,full-time,True,Yes,True,beer,12,2.5
+8e06d04c415d8804,2019-02-23,Chicago,IL,"May 19, 1990",female,unemployed,False,yup,False,water,11,5.0
+3b9bbc6952e7de27,2018-06-29,Naperville,IL,Jan 13 1987,female,full-time,False,ya,False,coffee,10,4.0
+1a36a7a7e8ded4c6,2018-02-22,Deer Park,IL,December 22 75,female,full-time,True,Yes,True,coffee,11,3.5
+9f127667f38b5f63,2018-01-21,Naperville,IL,10-15-1968,male,unemployed,True,n,True,coffee,1,0.5
+9b532f379f5798f9,2018-10-07,St. Charles,IL,May 29 1984,male,student,True,yes,True,beer,6,4.0
+973a988094695dae,2019-04-01,Elgin,IL,June 25 1991,female,student,True,I don't know,True,soda,1,2.5
+b59ad81d62b2da66,2019-06-20,Yorkville,IL,07.24.1988,female,unemployed,True,yes,True,water,1,0.0
+ba6cb72d1ada70f3,2018-08-31,Yorkville,IL,09.03.1981,female,full-time,True,dunno,True,coffee,8,0.5
+5fe3f6c7c6ab1521,2019-09-25,Streamwood,IL,May 23 1997,male,student,True,Yes,False,beer,9,2.0
+93d1b12a41400134,2019-08-20,West Chicago,IL,08/04/89,male,unemployed,True,y,True,beer,4,0.0
+2a78037b2686daf9,2019-06-10,Naperville,IL,11.24.86,female,full-time,True,y,True,wine,10,2.5
+ffd903fc884b67e8,2019-10-19,Glen Ellyn,IL,"Aug 30, 1989",male,full-time,True,No,True,coffee,9,0.5
+c8ad3b5f4e8f7095,2018-10-19,South Barrington,IL,1971-06-27,female,full-time,True,Yes,True,coffee,6,2.0
+e007bdd42107e8a6,2018-09-24,South Barrington,IL,08/05/1990,female,student,False,ya,False,wine,4,3.0
+cac8488d2ea00215,2018-10-07,Mundelein,IL,1976-05-03,male,unemployed,True,ya,True,beer,11,1.0
+f5a86fdd43bf2095,2018-07-13,Carol Stream,IL,Nov 26 1979,male,full-time,True,yes,True,coffee,4,4.0
+5919235d3f4e99c6,2019-07-10,Barrington,IL,February 06 1991,male,part-time,True,NO,False,beer,8,3.0
+ff60c5e4b68fadfe,2018-08-06,Yorkville,IL,November 29 1974,female,full-time,True,Yes,False,coffee,12,2.5
+08b5c3c74bc76189,2018-10-06,Aurora,IL,02/19/1983,male,full-time,True,n,False,beer,2,3.5
+6916fca620fa4edf,2019-12-15,Aurora,IL,Apr 15 84,male,student,True,No,True,coffee,3,0.0
+89447db4ccce57b2,2018-11-19,Bolingbrook,IL,05/29/1985,male,ful-time,True,Yes,False,coffee,3,4.5
+36fbcaee66b0f5dd,2019-05-09,Algonquin,IL,"Dec 02, 83",female,full-time,True,Yes,True,coffee,10,2.5
+10f8dd2d748a5f51,2019-03-30,Bolingbrook,IL,"Apr 13, 90",female,student,True,nope,False,coffee,4,3.0
+a25a345b2dcc79be,2018-04-12,Oswego,IL,April 04 80,female,unemployed,True,yup,True,coffee,2,4.0
+a7a8b7358f632491,2018-04-26,Deer Park,IL,Oct 05 1975,female,retired,True,NO,True,coffee,6,4.0
+548cb98d5b074ae6,2019-08-02,Mundelein,IL,Jan 24 1997,female,student,True,ya,False,wine,12,2.0
+33ec8d1b982ef7ad,2018-08-30,Inverness,IL,04.25.83,male,part-time,True,yes,True,coffee,3,1.5
+a93d81682d31f33e,2019-08-25,West Dundee,IL,"Nov 19, 1975",female,full-time,True,nope,True,tea,0,
+22b206a8d8722294,2019-11-01,Mundelein,IL,"Oct 05, 82",female,full-time,True,ya,True,wine,10,3.0
+dca5517ebd8b3823,2018-03-28,Palatine,IL,08.25.67,female,retire,True,Yes,True,water,1,0.0
+a26d8e9d335382f9,2019-01-11,Barrington,IL,February 04 82,male,part-time,True,nah,True,coffee,7,3.0
+7f01bb3141b5070c,2018-03-05,Carol Stream,IL,10/06/86,female,student,True,Yes,False,coffee,0,
+01fa46500e38d2d8,2019-11-26,Plainfield,IL,12-05-85,female,student,True,Yes,True,coffee,1,2.0
+27d39560af10516c,2018-01-20,Mundelein,IL,12-19-72,female,full-time,True,No,True,wine,9,0.5
+68f2fbc739753dbe,2018-08-01,Palatine,IL,02-08-80,female,part-time,True,yes,False,coffee,7,0.0
+cb994c34460998db,2018-04-28,Barrington,IL,03.03.1986,male,student,True,yes,False,soda,11,3.5
+1f381cf5253ed053,2019-03-13,Plainfield,IL,11.17.93,male,unemployed,True,Yes,False,tea,3,4.0
+2190067f4fbec038,2018-08-18,Oswego,IL,Jul 03 1979,female,full-time,True,Yes,True,coffee,11,4.5
+a880c132092f1dd8,2019-11-02,Aurora,IL,"12 13, 1987",male,unemployed,True,ya,True,beer,12,3.5
+ce45f9d775a84c24,2019-05-08,Batavia,IL,Sep 16 88,male,part-time,True,YES,False,coffee,10,4.5
+993119e4e65892b5,2019-12-09,Wheaton,IL,"11 23, 1991",female,part-time,True,n,False,coffee,10,2.0
+d3f81305c48c08b5,2018-11-16,Yorkville,IL,April 17 1976,male,part-time,True,Yes,True,coffee,1,0.5
+7dc151dc914a3d94,2019-04-19,Willowbrook,IL,07-29-1995,male,unemployed,True,no,False,coffee,5,2.0
+064d0ca6f2b6be2c,2019-06-07,Schaumburg,IL,January 26 1989,male,student,True,yup,False,coffee,9,3.0
+4d408b31d3c11396,2018-02-01,Minooka,IL,10/05/71,female,retired,True,Yes,False,wine,6,4.0
+8107357757d0edc0,2018-09-08,Wheaton,IL,"04 08, 81",female,full-time,True,yes,True,coffee,2,2.0
+8842f5006de21e45,2018-06-09,Warrenville,IL,1972-12-02,male,full-time,True,nah,True,beer,3,5.0
+b116a5000d39a713,2019-07-13,Naperville,IL,11/28/89,male,full-time,True,Yes,True,coffee,10,2.0
+3b8d5f7981225a7f,2019-05-31,Batavia,IL,06-09-1985,male,unemployed,True,yup,True,wine,11,3.0
+1b9fb07ded46cf15,2018-01-16,Streamwood,IL,Mar 12 76,male,retired,True,No,True,tea,8,4.5
+fdcb5413e811aa55,2018-05-05,Schaumburg,IL,Feb 28 75,female,unemployed,True,yes,True,water,10,3.0
+02227d0425bad97d,2019-11-04,Palatine,IL,"02 18, 1985",female,unemployed,True,no,True,wine,7,1.0
+62508ea7ca063cc6,2018-07-28,Chicago,IL,Jan 10 1975,male,part-time,False,ya,False,coffee,6,1.5
+f452cca51960a45e,2019-12-24,Carol Stream,IL,12/18/90,female,unemployed,True,YES,False,tea,7,3.5
+a5c07e9056052aa4,2019-06-23,Oswego,IL,"01 12, 1985",male,part-time,False,no,False,soda,4,2.0
+0b00b60b28d6e881,2018-11-16,Minooka,IL,12-02-1973,male,part-time,True,YES,True,coffee,11,2.0
+338635f564adad80,2018-05-07,Deer Park,IL,04-13-1986,female,full-time,True,ya,True,wine,2,2.5
+43f1353aedb4245d,2019-05-29,Elgin,IL,October 31 88,female,student,True,No,False,coffee,2,3.5
+841ee3fb6efec632,2018-08-31,Mokena,IL,"Mar 18, 1970",female,full-time,True,n,True,coffee,7,3.5
+a3caa1d8fcb3bb90,2019-08-16,Chicago,IL,"Jun 10, 87",male,full-time,True,Yes,True,beer,4,1.5
+a0178062314f52d6,2019-12-11,Oswego,IL,March 30 1986,female,retired,False,y,True,wine,10,0.0
+0fd8f2e6513d0019,2018-07-22,Romeoville,IL,08-27-68,male,full-time,True,yes,False,coffee,6,0.5
+7fbf6246d131a3b7,2019-06-02,Yorkville,IL,"10 28, 84",female,student,True,yes,True,wine,5,4.0
+ff37ac234ad774c4,2019-08-27,West Dundee,IL,"May 09, 1983",female,full-time,True,yes,True,coffee,12,2.5
+049080472120d0e5,2019-12-25,Glen Ellyn,IL,09-09-91,female,retired,True,yes,False,water,2,1.5
+374d24c1ac82903f,2018-02-27,Deer Park,IL,"03 12, 1978",female,full-tiem,True,ya,True,tea,12,4.5
+69e6f402c96c344c,2019-12-26,Schaumburg,IL,"06 20, 89",male,full-time,True,YES,True,coffee,4,3.5
+4a0f1e3768bff865,2019-05-04,South Barrington,IL,1991-09-08,female,full-time,True,Yes,False,coffee,4,3.0
+050c79f79ad98648,2019-05-10,Elgin,IL,07/19/1985,male,full-time,True,no,True,coffee,0,
+238b3246711cc2a6,2018-12-24,Willowbrook,IL,05.19.1978,male,part-time,True,Yes,False,beer,7,4.5
+e1a465be06bff6c8,2018-04-01,West Dundee,IL,January 17 1980,female,full-time,True,nope,True,coffee,12,2.0
+2c4e85a8155c2534,2018-11-26,Schaumburg,IL,November 15 1971,female,full-time,True,Yes,True,coffee,8,1.0
+8ae28f60dcaeb8c5,2019-01-23,St. Charles,IL,"Oct 31, 1986",male,unemployed,False,yup,False,beer,3,0.5
+36e8b5c019f01032,2019-06-27,South Barrington,IL,12/08/92,female,part-time,True,NO,False,coffee,12,4.0
+0a1fbbe2e591df84,2018-08-09,Romeoville,IL,05/27/1982,male,full-time,True,y,True,coffee,0,
+fb631b1b07784463,2019-08-25,Palatine,IL,09.16.88,female,unemployed,True,yes,False,wine,9,4.5
+0ebc24c986222060,2019-02-03,Palatine,IL,"06 13, 1989",female,student,True,y,False,coffee,11,1.5
+aaaced5a5d0475b5,2019-06-09,West Dundee,IL,"Dec 16, 1994",male,part-time,True,NO,False,beer,0,
+797beb8e9497841b,2019-05-30,South Barrington,IL,June 22 1992,female,unemployed,True,no,False,coffee,5,2.0
+438eef8fc39e5a51,2018-08-17,St. Charles,IL,"Mar 05, 82",male,unemployed,True,n,True,coffee,8,1.5
+923259bc8fe4c0a2,2019-02-17,Glen Ellyn,IL,08/25/86,male,full-time,True,y,True,coffee,8,4.5
+826fce28b887a3d3,2019-01-10,Barrington,IL,06.29.1982,female,full-time,True,yes,True,coffee,8,0.5
+a27a195c2aeefc33,2018-03-29,Barrington,IL,"Aug 04, 84",female,unemployed,True,Yes,True,coffee,8,4.5
+dc67d07126d43539,2019-04-09,Yorkville,IL,Dec 04 87,male,full-time,True,Yes,True,water,6,0.5
+660ecf11ff189d37,2019-08-30,Mokena,IL,"Jun 07, 1995",male,unemployed,True,ya,False,coffee,5,4.0
+dd88c67551f63f3e,2019-08-03,Elgin,IL,"11 19, 93",male,student,True,No,False,soda,6,3.0
+14d8047e9e3e199b,2018-04-03,Batavia,IL,"05 21, 1982",female,full-time,False,nah,True,wine,9,3.5
+d16b3a6cd9484728,2018-11-17,South Barrington,IL,07-12-84,female,student,True,ya,False,coffee,10,2.0
+b7b8ca3e2c3ff799,2019-11-25,Naperville,IL,02-07-1982,male,full-time,False,Yes,True,soda,1,0.5
+55b493964f4d69ce,2019-03-09,Glen Ellyn,IL,Feb 19 89,female,student,True,yup,False,soda,1,2.0
+8243859b2fa44d97,2019-05-20,Schaumburg,IL,"Feb 26, 86",male,full-time,True,y,False,beer,9,0.0
+df97b7d89b118fc8,2018-05-07,Hoffman Estates,IL,"09 01, 78",female,full-time,True,ya,True,wine,2,2.0
+19f92f6a9b830914,2019-03-29,Minooka,IL,12/09/85,female,full-time,True,Yes,True,coffee,3,4.0
+e82d42beb0136b2e,2018-05-01,Mundelein,IL,11.14.1972,male,part-time,True,YES,False,beer,11,0.5
+31281dd30bf061ba,2018-12-31,Mokena,IL,"Feb 18, 74",male,full-time,True,Yes,True,coffee,9,0.0
+c33fcabe2a99e58e,2019-02-24,Glen Ellyn,IL,03/07/1985,male,unemployed,True,no,False,coffee,3,5.0
+319eda66644ec19f,2018-09-18,Deer Park,IL,07/05/75,male,full-time,True,ya,True,beer,2,3.0
+a5938f60fadd2cfd,2018-09-15,Carol Stream,IL,"Jul 26, 80",female,full-time,True,n,True,coffee,7,3.5
+f87834fb7824f044,2019-05-16,Algonquin,IL,1988-07-03,female,full-time,False,Yes,True,water,5,5.0
+fbcd2c279b4a42d4,2018-03-21,Oswego,IL,June 07 1984,male,full-time,True,y,False,coffee,0,
+6150849495cc1c99,2018-04-16,St. Charles,IL,07/29/1971,female,full-time,True,YES,True,wine,8,3.0
+916987426c95f8b2,2018-04-25,Romeoville,IL,04-20-1977,female,part-time,True,y,True,coffee,11,3.5
+ef9425b7ff896df9,2019-11-13,Deer Park,IL,"Sep 07, 84",female,full-time,True,yup,True,coffee,0,
+a4384b0e27b17f53,2019-02-25,Deer Park,IL,"Jul 22, 90",female,full-time,True,yes,False,coffee,1,1.5
+041fbf88b6d26244,2019-09-30,Elgin,IL,03/19/83,female,part-time,True,Yes,True,wine,1,2.0
+bb569439a2583382,2019-08-13,Aurora,IL,"Dec 29, 1989",male,unemployed,True,y,False,soda,2,5.0
+4e7f0e869fcbf042,2018-04-23,Yorkville,IL,March 07 1975,male,part-time,True,y,True,coffee,4,1.0
+5542e03daef464b2,2019-04-09,Plainfield,IL,"Jan 16, 97",male,full-time,True,n,False,beer,1,1.5
+b3c3c55ac795e102,2018-06-13,Deer Park,IL,02/21/84,female,unemployed,True,yes,False,wine,1,3.0
+b1bdadfe80e80696,2019-12-01,Naperville,IL,12/30/93,male,full-time,True,Yes,False,beer,9,5.0
+9fb45b3ff92d059b,2018-06-06,Schaumburg,IL,07-18-1972,female,full-time,True,nah,False,tea,5,5.0
+190c5d649dc85d37,2018-07-02,Barrington,IL,"03 08, 1969",female,student,True,YES,True,wine,8,2.0
+4d0d01976604faf1,2019-10-22,Palatine,IL,Dec 10 1992,male,student,True,Yes,True,coffee,1,3.5
+00b5d8bcb980164c,2018-06-09,Mundelein,IL,"04 28, 1982",female,part-time,True,Yes,True,wine,0,
+d13eadea1dae1d2f,2018-06-12,Streamwood,IL,"01 24, 86",female,student,True,I don't know,True,coffee,5,3.5
+3d9c3b0f5bc55816,2018-07-13,Aurora,IL,07-02-1975,female,student,True,I don't know,True,coffee,3,1.5
+5b8f34fbc7fe9f22,2019-06-17,Inverness,IL,02-20-90,female,full-time,True,Yes,False,wine,12,3.0
+91c01247e443ea89,2018-12-17,West Chicago,IL,"09 06, 1977",female,student,True,yup,True,wine,2,0.5
+621beb117526bce2,2018-06-23,Yorkville,IL,August 15 66,female,full-time,True,Yes,False,wine,12,0.0
+4ab9f3ce70dca584,2019-09-14,Yorkville,IL,05/31/92,female,full-time,True,Yes,True,coffee,10,4.5
+150c0e6c37c75674,2018-06-17,Algonquin,IL,01/19/1974,female,full-time,True,NO,True,coffee,2,4.0
+a6226fd92d03b387,2019-11-01,Willowbrook,IL,"11 15, 91",female,retired,True,yes,True,coffee,5,2.5
+9d91e6e90482634e,2018-06-30,Mokena,IL,Apr 30 72,male,part-time,True,YES,True,beer,2,5.0
+a364f4ce3b685d89,2019-05-25,Yorkville,IL,August 27 91,male,full-time,True,NO,False,beer,12,2.0
+ebbf9a504eab00a7,2019-12-02,Algonquin,IL,March 07 93,female,unemployed,True,Yes,False,coffee,3,3.5
+a38a8da8a9adf300,2018-12-18,Warrenville,IL,02-04-79,female,full-time,True,NO,False,coffee,2,0.5
+ff264513b037e4dd,2018-05-20,Carol Stream,IL,Jun 24 78,female,full-time,True,yup,True,water,12,2.0
+775d1dd3d4c84fe5,2018-08-29,Streamwood,IL,"03 09, 85",female,part-time,True,yes,True,coffee,4,2.0
+6adad9ecf8d3bcb6,2019-09-18,Streamwood,IL,Feb 26 84,male,reitred,True,yes,False,tea,9,4.0
+b51dc3d93b5197e3,2019-09-01,Romeoville,IL,10/28/95,female,student,True,No,False,coffee,10,2.0
+f6592ca37bc88c66,2019-07-14,Mokena,IL,Feb 29 1992,female,student,True,Yes,False,coffee,5,3.5
+3d72776b16c23966,2018-02-05,Deer Park,IL,1972-09-28,female,part-time,True,Yes,False,water,0,
+62cee09d7b0f2cf9,2019-05-18,Streamwood,IL,Aug 05 1993,female,part-time,True,YES,False,coffee,0,
+d7f9eb12412b8ae8,2019-03-06,Aurora,IL,"12 14, 93",male,unemployed,True,yes,False,soda,11,0.5
+e8fb78d991fc42bf,2019-08-13,Plainfield,IL,11/15/92,female,student,True,YES,True,tea,2,2.0
+8868306fdb1dc368,2019-08-31,Barrington,IL,"06 11, 87",male,full-time,True,yes,False,beer,11,3.0
+651cefd4b890e34d,2019-11-16,Mundelein,IL,02.16.92,female,student,True,NO,False,coffee,7,0.5
+1416f288c5291b62,2018-05-08,Carol Stream,IL,October 07 76,male,full-time,True,no,False,beer,0,
+a3ac543d93a02e1a,2018-10-07,Schaumburg,IL,May 03 1985,female,full-time,True,NO,False,coffee,11,4.5
+ccdfdccbd9836a6a,2019-05-18,Algonquin,IL,Mar 13 1990,male,full-time,True,yes,False,coffee,10,5.0
+ff5c81fa8c226f4f,2019-10-29,Schaumburg,IL,"Dec 19, 86",male,student,True,Yes,True,coffee,0,
+0518b02233018725,2019-04-02,Glen Ellyn,IL,06-03-1990,female,unemployed,True,y,False,water,8,5.0
+181f543ac030928c,2019-11-05,Mokena,IL,03/05/89,male,full-time,True,Yes,False,coffee,12,0.5
+97fb40e687c0f431,2018-02-17,Willowbrook,IL,1973-01-24,female,unemployed,True,Yes,True,beer,4,1.0
+2c6a30b92a92440c,2018-09-10,Algonquin,IL,"Jun 16, 73",female,unemployed,True,I don't know,True,wine,4,3.5
+e362ff75d44ea054,2019-10-04,Schaumburg,IL,"Aug 27, 1987",male,full-time,True,Yes,False,coffee,5,4.0
+3b3b897060588293,2018-12-18,Naperville,IL,"01 20, 1973",female,full-time,False,YES,False,wine,7,3.5
+d5a271832f0a8b39,2018-12-22,Aurora,IL,1976-10-16,male,full-time,True,nah,True,beer,3,3.5
+b4652ff7493351be,2019-11-05,Bolingbrook,IL,May 26 86,female,student,True,Yes,True,wine,2,3.0
+14a2588addf3637f,2018-08-23,Yorkville,IL,02-26-1982,female,part-time,True,yup,True,tea,1,3.5
+8dab52a2084f959f,2019-10-10,Romeoville,IL,"Jul 03, 1981",male,full-time,True,Yes,True,coffee,1,5.0
+77b8013bbbcea2f2,2018-07-11,Mokena,IL,12-01-1990,female,full-time,True,NO,False,wine,4,2.0
+0eceedf3aca2e7f5,2019-04-22,Bolingbrook,IL,1988-11-28,male,full-time,True,YES,True,beer,6,2.0
+a4ea6ed5d801f259,2018-11-20,Romeoville,IL,"Jul 26, 1978",male,part-time,True,ya,True,beer,8,3.5
+ab99bd321831240f,2019-02-02,Hoffman Estates,IL,August 16 1995,male,student,True,No,False,coffee,9,5.0
+fe2c9a178cf97d01,2019-08-05,Mundelein,IL,"05 17, 1991",female,student,True,yes,False,coffee,2,3.5
+13c379227ad51159,2019-07-30,Minooka,IL,09-24-89,female,unemployed,True,yes,False,tea,9,2.5
+11a02e8adfcc3c00,2019-11-18,Romeoville,IL,06-25-93,female,student,True,Yes,False,soda,11,1.5
+9110db412cbaabb7,2018-02-08,Mokena,IL,"03 22, 83",female,full-time,False,yes,True,coffee,1,0.0
+e3168c7f0689a75e,2019-06-04,Batavia,IL,12/30/1985,female,student,True,no,True,coffee,2,1.5
+edbed6b97bff3ce4,2018-06-19,Willowbrook,IL,1981-05-07,male,full-time,True,Yes,True,coffee,8,4.0
+7148973b20df9c8d,2018-09-30,Glen Ellyn,IL,Jun 25 75,male,part-time,True,I don't know,True,beer,5,2.5
+5a681bf3bdbbdd19,2019-04-19,Batavia,IL,"05 18, 1984",female,unemployed,True,NO,True,coffee,9,1.0
+0fb71aab718cb7f0,2018-06-10,Glen Ellyn,IL,06/27/1979,female,full-time,True,yes,False,coffee,7,5.0
+bbe9766adabf293b,2019-07-10,Willowbrook,IL,"12 26, 87",female,unemployed,True,nope,False,coffee,10,1.5
+2f1180b327e7c7b6,2018-07-16,Streamwood,IL,"06 06, 1983",male,unemployed,True,Yes,False,coffee,2,1.5
+c885a91b3978e278,2018-03-19,Plainfield,IL,Apr 10 81,female,full-time,True,no,False,water,3,1.0
+959c2568ad597cf8,2018-09-25,Bolingbrook,IL,10-22-1971,female,full-time,True,nope,False,coffee,4,0.0
+81d641ecdd04526b,2018-12-15,West Dundee,IL,"02 12, 71",male,unemployed,True,n,True,coffee,2,0.0
+8bf1ebc2001ff2df,2018-06-02,Plainfield,IL,April 04 77,male,full-time,True,Yes,False,ta,7,2.0
+0dd73b653b9a674f,2019-01-14,Deer Park,IL,June 05 1987,male,full-time,True,YES,False,beer,3,2.5
+f7bbf14c8e54d90e,2019-05-29,Willowbrook,IL,"Jan 07, 1990",male,student,True,Yes,False,beer,5,0.0
+48450fd2fff2c55f,2018-11-23,Plainfield,IL,September 05 75,female,full-time,False,ya,False,coffee,7,3.0
+1e15cc6504fdf24b,2018-12-23,Warrenville,IL,01.25.73,female,full-time,True,yup,True,coffee,6,4.0
+35db67d3180ebfe3,2018-02-27,Inverness,IL,August 08 1983,male,retired,True,yes,True,coffee,5,2.0
+07cf47b78e84683a,2018-03-20,Willowbrook,IL,"06 04, 75",male,student,True,nah,True,water,12,2.0
+31c6fa58a971bd4a,2018-11-04,West Chicago,IL,Jun 25 77,male,retired,True,Yes,True,water,9,0.5
+2beea49936035820,2018-05-24,Carol Stream,IL,02/14/79,male,part-time,True,no,True,coffee,4,0.0
+6b76e2b2fcd44984,2018-09-11,Streamwood,IL,10/22/1979,male,student,False,n,True,coffee,1,2.5
+db9ed62e83a188b9,2018-04-10,Glen Ellyn,IL,11.30.83,male,full-time,True,yes,True,coffee,3,3.0
+edae9be63faf67c6,2019-03-21,Mundelein,IL,Jul 07 1991,male,unemployed,True,ya,True,soda,3,1.0
+db1951b764ae77d9,2018-07-10,Carol Stream,IL,"Oct 02, 79",male,unemployed,True,nah,True,coffee,7,5.0
+325a4a47706b578d,2019-05-05,Algonquin,IL,02.09.1994,male,student,True,Yes,False,coffee,10,1.0
+ac5f141334e91fbf,2019-12-07,Oswego,IL,03.14.1988,female,unemployed,True,ya,False,coffee,1,0.5
+9fb6c8b85727aa3e,2019-11-01,Elgin,IL,"05 06, 91",male,unemployed,True,No,True,beer,9,5.0
+ae2ed15005c95cda,2019-10-03,Minooka,IL,"04 16, 1989",male,retired,True,YES,False,soda,2,1.0
+a2ae22636fb526e8,2018-04-27,Glen Ellyn,IL,03/12/83,female,full-time,True,yes,True,coffee,11,4.0
+853def54e7265eeb,2019-08-28,Plainfield,IL,01-05-1991,female,unemployed,True,YES,True,coffee,6,2.5
+fe35cc12e46b36db,2018-02-06,Aurora,IL,Oct 12 80,female,part-time,True,no,True,water,0,
+1c1c675a50ad32c3,2018-06-26,Elgin,IL,05-12-1978,female,unemployed,True,yes,True,wine,4,0.0
+4f05859d9655e93e,2019-05-16,Oswego,IL,1986-07-03,male,unemployed,True,no,True,coffee,4,0.0
+b45acd838aab2d38,2018-02-04,Glen Ellyn,IL,12.31.76,male,retired,True,yup,False,tea,0,
+e018f6ff35e3ce46,2019-05-19,Romeoville,IL,10-27-1986,female,full-time,True,y,False,tea,9,2.5
+45f387bde6a079aa,2019-11-25,Willowbrook,IL,09/01/1991,female,full-time,True,no,True,beer,4,1.5
+0723d4a4c639ee94,2018-07-16,Warrenville,IL,"Sep 04, 73",female,part-time,True,Yes,False,coffee,3,4.0
+dc43c951ebf075da,2018-05-29,Minooka,IL,October 30 72,male,unemployed,True,No,True,coffee,9,3.5
+b06503485bc78b96,2018-08-31,Barrington,IL,March 24 77,male,part-time,True,y,True,coffee,12,1.5
+ab660eb0f7fc8876,2019-04-01,South Barrington,IL,"Dec 21, 1990",female,full-time,True,nah,False,wine,5,4.0
+747faa5b55ba05bf,2018-11-11,Willowbrook,IL,"Mar 06, 80",female,student,True,Yes,True,water,2,3.0
+6b0dab19c8fdb6c5,2018-07-21,Algonquin,IL,May 20 72,female,full-time,True,yup,True,coffee,6,2.0
+e108fe7905c06832,2019-04-20,Minooka,IL,09-13-1995,male,student,True,nope,False,coffee,0,
+13383f322f07e543,2018-08-28,Inverness,IL,01/28/1972,male,full-time,True,ya,True,beer,6,5.0
+c9bfe4baa749922c,2019-01-30,Schaumburg,IL,"02 09, 1990",male,student,True,YES,False,coffee,6,0.5
+171a2813895dbce4,2018-05-07,Willowbrook,IL,12/26/1972,male,full-time,False,I don't know,False,soda,10,2.0
+491091b05c714960,2018-12-10,Schaumburg,IL,04/12/1974,female,part-time,True,yes,True,coffee,7,1.5
+00a83b3b8fbf3524,2019-05-17,Glen Ellyn,IL,February 01 1989,female,unemployed,True,YES,True,coffee,2,4.0
+450daa58c0f7d45a,2018-06-17,Mundelein,IL,May 30 84,female,student,False,NO,True,soda,9,4.5
+3eac978809cf59b6,2019-08-08,Hoffman Estates,IL,02-26-95,female,student,True,no,False,water,3,1.5
+4565db6617958665,2019-07-14,Glen Ellyn,IL,05/10/1994,male,student,True,No,True,coffee,3,3.0
+66a7c2f029e8bb7d,2018-11-24,Bolingbrook,IL,1982-11-29,male,part-time,True,I don't know,False,beer,8,4.5
+70859edd047023c5,2019-12-21,Minooka,IL,11-29-1989,female,part-time,True,nope,True,soda,6,4.5
+a668af55bf031677,2019-01-05,Glen Ellyn,IL,"01 08, 1993",male,student,True,ya,False,coffee,10,2.0
+dfee3f86f1e9d037,2019-04-05,Oswego,IL,"Mar 11, 1998",male,studnet,False,NO,True,coffee,12,2.5
+21fdc4feaaedf8d0,2018-01-26,Plainfield,IL,11.12.1967,female,retired,False,I don't know,True,tea,6,2.5
+c9ad7b8dbf331da8,2019-04-27,Glen Ellyn,IL,"08 27, 85",female,student,True,YES,False,water,1,2.0
+8843f897a33db95d,2019-04-19,Carol Stream,IL,02-08-87,female,part-time,True,NO,False,water,8,1.0
+5a1f85a34eb706e3,2018-08-29,Minooka,IL,"09 26, 1980",male,full-time,True,n,True,water,9,2.0
+2f2ab40773b9d6ea,2018-12-29,Chicago,IL,Jun 23 1984,female,student,False,Yes,False,coffee,3,0.0
+578ab6e9f2d7f3ca,2018-08-27,Mokena,IL,05/18/71,female,retired,True,Yes,True,water,3,1.0
+be724bb41a3fa3bc,2018-04-30,Warrenville,IL,"05 14, 76",female,full-time,True,YES,False,tea,4,2.0
+7e671498e56fa073,2019-09-13,Carol Stream,IL,"Jun 27, 80",female,full-time,True,Yes,False,tea,4,2.0
+fa0df76893bf5627,2018-07-04,Romeoville,IL,11-15-1975,female,unemployed,True,ya,True,coffee,4,1.5
+1f361ac56515a3f6,2019-04-21,Plainfield,IL,02.16.87,male,unemployed,True,y,True,soda,8,1.0
+e27e60e303c2dd1c,2018-03-08,Inverness,IL,"Mar 06, 80",female,retired,True,YES,False,coffee,1,1.0
+688c0925f942df7d,2019-01-25,Naperville,IL,11.13.86,male,unemployed,True,I don't know,True,soda,9,4.0
+665ef0cd344ac58a,2018-01-17,Mundelein,IL,02.25.1974,female,retired,True,no,False,coffee,0,
+21cd7fb9ca5b6269,2018-01-06,Deer Park,IL,04/14/1980,female,retired,True,yes,True,soda,9,3.5
+7bda99e6dee87d48,2018-05-29,Minooka,IL,"03 24, 1968",female,unemployed,True,I don't know,True,wine,10,3.0
+7382c7ea59e7ae4f,2019-12-14,Hoffman Estates,IL,July 07 80,female,full-time,True,NO,True,coffee,10,4.0
+9584e2bbc1af1bde,2019-04-26,Barrington,IL,"12 21, 1983",male,retired,True,Yes,True,coffee,4,2.0
+b2ec004c2340a949,2019-10-08,West Chicago,IL,11.06.88,female,student,True,No,True,coffee,1,3.0
+66f02f0eed6fe8fb,2019-02-12,Streamwood,IL,Feb 11 1986,female,full-time,True,yes,True,coffee,10,2.0
+2e4bcc3a0cca6b37,2019-12-24,South Barrington,IL,03.15.1980,male,part-time,True,yes,True,soda,9,4.5
+30cc919771c22fbf,2018-10-26,Plainfield,IL,December 07 1977,male,part-time,True,yes,True,coffee,4,2.0
+e49c20d0476ae725,2018-04-15,Barrington,IL,"09 23, 1971",female,part-time,True,Yes,False,wine,7,1.0
+042d6c37abd3097c,2019-09-06,Aurora,IL,"06 15, 91",female,part-time,True,No,False,coffee,5,3.5
+386b06a3b62517e5,2018-07-18,Aurora,IL,10.17.1970,female,unemployed,True,No,True,wine,12,5.0
+1faa7da3aa83c1d2,2019-08-17,St. Charles,IL,01/29/1985,male,student,True,Yes,False,soda,8,1.5
+40d835bf8ee882f8,2019-08-28,West Dundee,IL,June 21 86,male,full-time,True,no,False,coffee,8,0.5
+838a86e57ec55fd6,2019-04-09,Barrington,IL,January 14 1990,male,full-tmie,True,yes,True,soda,3,0.0
+d58b0236ea6a735c,2018-01-03,St. Charles,IL,"12 26, 1981",male,retired,True,Yes,True,beer,8,0.5
+fb5fee9cdc35d6e7,2019-06-24,West Dundee,IL,October 26 1990,female,retired,True,yes,False,coffee,4,4.0
+b7da88e49bf93100,2019-09-24,Naperville,IL,01/28/1985,female,full-time,True,dunno,True,wine,1,4.5
+9f7780fc5c0b4be0,2018-07-28,Inverness,IL,"Sep 23, 68",female,student,True,yup,True,coffee,1,0.5
+880d3f1bfececea3,2018-05-19,Wheaton,IL,02/09/85,female,unemployed,True,yes,False,tea,7,4.5
+ca6858f116c16272,2019-03-16,Mokena,IL,1983-08-13,female,retired,True,ya,True,coffee,2,0.5
+5a813fb5ed8e2d46,2019-06-13,Mundelein,IL,08-16-1990,female,student,True,Yes,False,tea,6,3.5
+6b661c276183d7a3,2018-02-05,Hoffman Estates,IL,06-13-78,male,part-time,True,y,True,soda,0,
+a0a6e21d626859fd,2019-07-24,Inverness,IL,03-10-95,male,student,True,n,True,beer,7,3.0
+f1e83f253e4c7b88,2018-08-09,Naperville,IL,Jul 14 1980,female,full-time,True,I don't know,True,wine,6,4.5
+90f31af490ab2426,2018-07-17,Streamwood,IL,Jun 23 1977,male,part-time,False,Yes,False,coffee,6,3.0
+3da9634212cdedf8,2019-09-15,Batavia,IL,"Mar 10, 92",male,full-time,True,ya,False,beer,1,3.0
+5b233838dcfa4e76,2019-09-10,South Barrington,IL,11.29.89,female,full-time,True,Yes,False,coffee,4,0.5
+4f1fc233b0d5ef8a,2018-11-03,Aurora,IL,01/30/80,male,retired,True,no,True,coffee,1,4.5
+b0d1cf570ed080fe,2018-08-16,Palatine,IL,07-22-72,female,unemployed,True,YES,True,water,3,1.5
+cac076270ae82001,2018-08-29,Elgin,IL,"03 18, 76",male,unemployed,True,Yes,True,coffee,4,2.0
+faaebf5efbca05ab,2018-01-07,Willowbrook,IL,Oct 13 1971,male,full-time,True,n,True,soda,12,0.5
+8f9fe7bbcc84e2f8,2019-06-05,Chicago,IL,"Feb 13, 89",female,full-time,True,YES,True,coffee,4,2.5
+4f1e6ed8bec1dcf5,2018-06-05,Warrenville,IL,"04 18, 86",male,student,True,Yes,False,coffee,3,2.5
+298c227a1c2851ea,2018-08-30,Aurora,IL,11/07/72,female,full-time,True,yes,True,coffee,1,1.5
+607d7917986c8a21,2019-06-13,Romeoville,IL,"06 12, 92",male,student,True,YES,False,coffee,5,0.0
+799f545f65003c1f,2019-07-30,Oswego,IL,"05 19, 95",male,full-time,False,No,False,coffee,9,0.0
+61cb58ef8b0de999,2019-07-24,West Dundee,IL,12-30-96,male,part-time,True,y,False,beer,3,0.0
+4c1d6575760c8c36,2018-12-07,Romeoville,IL,08-17-1979,male,unemployed,True,I don't know,True,beer,8,1.5
+33757474449ebefd,2018-07-19,West Chicago,IL,09/16/1977,female,part-time,True,Yes,True,coffee,5,2.0
+28e234353ea210f0,2019-02-02,Carol Stream,IL,1983-11-15,female,full-time,True,ya,False,wine,12,1.5
+448ae4942e1dc248,2019-08-03,Naperville,IL,04-14-80,female,full-time,True,NO,True,tea,5,1.5
+988f23e3d855112e,2019-07-14,Chicago,IL,"08 23, 87",female,retired,False,nope,True,coffee,1,3.5
+d559498c036313a5,2018-06-13,Carol Stream,IL,02.06.1984,female,unemployed,True,Yes,True,coffee,2,4.0
+090d3a627d7a0fc7,2019-02-25,Minooka,IL,11/16/1989,female,full-time,True,nope,False,coffee,7,2.5
+4b6beb3ddb13dd7f,2019-11-02,Chicago,IL,04-05-00,male,unemployed,False,yes,False,soda,3,5.0
+deacc9baa0611ce0,2019-02-04,Elgin,IL,08-11-87,female,student,True,ya,False,coffee,11,0.5
+658ad90d6f2b58a5,2019-08-01,Glen Ellyn,IL,Dec 05 85,male,student,True,y,True,coffee,10,2.0
+919e19a6fd9acb42,2018-08-20,Palatine,IL,12/27/1979,male,full-time,True,Yes,False,tea,11,3.5
+0f94a9adbb0ec7cc,2018-06-12,Oswego,IL,08.03.1984,female,full-time,False,YES,False,wine,2,2.0
+5d1f5af7b0d46179,2018-12-08,South Barrington,IL,November 25 75,female,retired,True,no,False,coffee,5,4.5
+bb45d181dc3a9acb,2018-11-05,Glen Ellyn,IL,Oct 26 1975,male,full-time,True,yes,True,coffee,7,3.5
+793a2a3fac5b9965,2018-03-27,St. Charles,IL,11-11-1976,female,part-time,True,ya,True,tea,3,5.0
+55cfc1be90ca67d5,2019-02-25,Plainfield,IL,03/30/1991,female,full-time,True,ya,True,coffee,7,2.5
+02a75eeb8d781a3b,2019-12-06,Carol Stream,IL,06.07.1997,female,student,True,no,False,coffee,3,0.0
+1d3f66caf68922e4,2019-05-03,Palatine,IL,March 05 86,male,student,True,YES,True,beer,11,2.5
+641484233b7c068c,2019-04-19,Elgin,IL,"Feb 26, 1988",female,unemployed,True,no,True,wine,6,4.0
+796a3d40861d3b89,2018-04-11,West Dundee,IL,03.02.1981,male,full-time,True,yup,False,beer,8,4.5
+20d5102c37ee716f,2019-01-12,Algonquin,IL,12.06.1983,male,unemployed,False,yes,True,beer,9,4.5
+97ba6a29b16c0f08,2019-11-03,Streamwood,IL,12/16/93,male,student,True,Yes,False,coffee,2,2.5
+661f01b80bcc9980,2019-03-10,Minooka,IL,"Aug 05, 85",female,full-time,True,I don't know,False,wine,9,5.0
+dedccf55da4c35e4,2019-10-15,Streamwood,IL,10-21-88,female,full-time,True,YES,True,water,5,0.5
+27ffdd89ed535652,2018-12-20,Warrenville,IL,08-01-1982,male,full-time,True,nope,False,coffee,0,
+3245004b38d78e49,2018-04-12,Oswego,IL,June 28 75,male,full-time,True,yes,True,beer,3,3.5
+2f0edeeb5597d6c0,2019-10-08,Mokena,IL,"10 15, 91",male,unemployed,True,ya,True,beer,12,0.0
+26cf3132fbdfb3b0,2018-01-13,Palatine,IL,01.25.83,male,full-time,False,Yes,True,coffee,10,1.0
+c00608bf546a362d,2019-02-13,Glen Ellyn,IL,November 17 1991,female,unemployed,True,Yes,False,coffee,4,3.5
+cf60dc86cae2cedb,2019-06-18,Aurora,IL,Sep 06 96,female,student,True,Yes,False,water,7,4.5
+a21cde4ca9c58859,2019-08-04,Palatine,IL,06/29/87,male,unemployed,True,yup,True,coffee,6,4.5
+cdb9e9917902589f,2018-07-28,Chicago,IL,Feb 16 77,female,part-time,False,NO,True,coffee,12,5.0
+fbca1e422a99ec07,2019-07-06,Carol Stream,IL,04/02/84,male,full-time,True,yes,True,soda,4,2.0
+0443b447c4671352,2019-02-11,Algonquin,IL,02-11-01,female,student,True,nope,False,water,4,4.5
+d89c8bd756b0e459,2018-05-28,St. Charles,IL,08.13.1984,male,full-time,True,ya,False,coffee,1,2.5
+4bbdeb49173ecc3a,2018-05-04,Warrenville,IL,1978-04-22,male,part-time,True,yes,True,water,8,3.0
+a27853250e06b2e9,2019-06-30,Willowbrook,IL,October 24 88,female,full-time,False,YES,False,wine,0,
+ec8c999b125a761a,2018-04-08,Aurora,IL,04/20/1978,male,retired,False,y,False,tea,0,
+40ead92aea0a74e0,2019-05-11,Naperville,IL,1989-12-04,female,unemployed,True,YES,True,coffee,11,0.5
+413dc43375cf08ce,2018-02-26,Minooka,IL,"Oct 21, 81",female,retired,True,Yes,False,coffee,11,4.0
+fffab3c8d543be87,2018-12-16,Yorkville,IL,1974-05-21,male,part-time,True,NO,False,coffee,0,
+d10e17b0d65626fd,2019-03-29,Schaumburg,IL,10/27/83,male,part-time,True,NO,False,coffee,7,5.0
+e2bb495d2d449623,2018-07-12,Elgin,IL,06.15.80,female,full-time,True,Yes,True,coffee,9,1.5
+9f879038036dbd43,2018-08-23,Barrington,IL,"Apr 13, 74",male,full-time,True,yup,True,beer,9,4.5
+fc9a0c1fd42d20c7,2018-01-10,Glen Ellyn,IL,"04 23, 1985",female,unemployed,True,YES,True,coffee,4,2.5
+1b2e7b2218f88ea1,2019-03-16,Plainfield,IL,"03 26, 1983",female,full-time,True,ya,True,tea,9,0.5
+59025f4e7ff5546d,2019-01-02,Bolingbrook,IL,"12 27, 92",female,unemployed,True,YES,False,wine,11,1.0
+ff7cd096edab3788,2019-09-11,Barrington,IL,June 23 87,female,unemployed,True,ya,False,water,12,0.5
+ea5dfeb968d24294,2018-03-14,Palatine,IL,"Nov 06, 73",male,part-time,True,Yes,True,beer,9,1.5
+3dd199c561f39a77,2019-11-12,South Barrington,IL,Jun 29 1991,male,part-time,True,no,False,beer,11,1.5
+8cf237468e94e53b,2018-05-14,Wheaton,IL,11.03.1976,female,full-time,True,nah,False,tea,8,0.5
+5aed924f4acbf9c2,2018-05-21,Aurora,IL,1980-05-31,male,full-time,True,I don't know,False,soda,4,1.0
+f3185eb927a0202b,2018-08-11,Algonquin,IL,Dec 24 77,male,full-time,True,ya,True,soda,5,2.5
+bf2dc80988915d43,2019-02-22,Warrenville,IL,10/06/93,male,part-time,True,n,False,soda,3,4.0
+9d5b62b3de6212f3,2019-03-11,Algonquin,IL,"Jul 29, 1987",female,full-time,True,I don't know,True,wine,2,0.0

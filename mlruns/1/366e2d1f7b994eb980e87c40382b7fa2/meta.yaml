@@ -1,0 +1,15 @@
+artifact_uri: file:///home/natalie/Documents/data_science/gohealth/mlruns/1/366e2d1f7b994eb980e87c40382b7fa2/artifacts
+end_time: 1634187861551
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 366e2d1f7b994eb980e87c40382b7fa2
+run_uuid: 366e2d1f7b994eb980e87c40382b7fa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1634187837322
+status: 3
+tags: []
+user_id: natalie
